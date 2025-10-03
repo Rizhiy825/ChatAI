@@ -2,42 +2,42 @@
   {
     "id": "chunk_001",
     "title": "How to use Single Sided Connectors?",
-    "body": "Sometimes you might need to place connectors without anything to connect to вЂ“ single sided. In this example we want to use a door as a fixed panel in the front.\nFirst, create your own design without the door.\nBefore you can attach the door, you will have to position the dowels. SmartWOP usually wonвЂ™t allow placement of single sided connectors, unless you activate Allow single sided connectors in the top right corner of the Machinings tab."
+    "body": "Sometimes you might need to place connectors without anything to connect to вЂ“ single sided. In this example we want to use a door as a fixed panel in the front. First, create your own design without the door. Before you can attach the door, you will have to position the dowels. SmartWOP usually wonвЂ™t allow placement of single sided connectors, unless you activate Allow single sided connectors in the top right corner of the Machinings tab."
   },
   {
     "id": "chunk_002",
     "title": "Converting Bores to Pockets in SmartWOP",
-    "body": "There may be cases where you donвЂ™t want to drill a hole in your panels but rather treat them as a small pockets and have them milled.\nIn order to do this within SmartWOP follow this short guide.\nGo to File>Options>Workshop here you can find the new settings in the lower right corner.\nNow you need to enter the drill diameter in mm followed by => and the Tool Number you want to use for your pocket.\nExample: 10=>201;12=>201\nAfter you have saved your settings, restart SmartWOP and the diameters you have entered will now be treated as pockets."
+    "body": "There may be cases where you donвЂ™t want to drill a hole in your panels but rather treat them as a small pockets and have them milled. In order to do this within SmartWOP follow this short guide. Go to File>Options>Workshop here you can find the new settings in the lower right corner. Now you need to enter the drill diameter in mm followed by => and the Tool Number you want to use for your pocket. Example: 10=>201;12=>201 After you have saved your settings, restart SmartWOP and the diameters you have entered will now be treated as pockets."
   },
   {
     "id": "chunk_003",
     "title": "Using woodWOP components in your project",
-    "body": "To use a woodWOP component in your SmartWOP project navigate to the Machinings tab. Click on woodWOP Component in the Free Machinings section.\nNow the properties window for this special machining type opens.\nBy default the file is named external.mpr this comes preinstalled with SmartWOP and is ready to be used and edited.  To create a new woodWOP component, change the file name or select an existing woodWOP component using the icon with the three dots to browse your computer.\nClicking on the woodWOP icon starts woodWOP. You can only edit components in woodWOP if you have previously unchecked the вЂњEmbeddedвЂќ option.\nIn woodWOP you can now edit the component to fit your needs and save. The use of variables within the component is highly recommended.\nClose woodWOP and return to SmartWOP.\nNote: The file is saved in the woodWOP default folder for components. Usually this would be the folder вЂњML4вЂќ within the woodWOP directory.\nYou can now drag the machining type woodWOP component onto a part of your design.\nYour component is represented with a wireframe cube, clicking on it will open the preferences.\nYou can access and edit the parameters you implemented in woodWOP in the Parameters section.\nThe arrows can be used to swap to different reference points. Note the axis indicators in red and green to help.\nYou can now also decide to embed the component in the file and set conditions from woodWOP."
+    "body": "To use a woodWOP component in your SmartWOP project navigate to the Machinings tab. Click on woodWOP Component in the Free Machinings section. Now the properties window for this special machining type opens. By default the file is named external.mpr this comes preinstalled with SmartWOP and is ready to be used and edited. To create a new woodWOP component, change the file name or select an existing woodWOP component using the icon with the three dots to browse your computer. Clicking on the woodWOP icon starts woodWOP. You can only edit components in woodWOP if you have previously unchecked the вЂњEmbeddedвЂќ option. In woodWOP you can now edit the component to fit your needs and save. The use of variables within the component is highly recommended. Close woodWOP and return to SmartWOP. Note: The file is saved in the woodWOP default folder for components. Usually this would be the folder вЂњML4вЂќ within the woodWOP directory. You can now drag the machining type woodWOP component onto a part of your design. Your component is represented with a wireframe cube, clicking on it will open the preferences. You can access and edit the parameters you implemented in woodWOP in the Parameters section. The arrows can be used to swap to different reference points. Note the axis indicators in red and green to help. You can now also decide to embed the component in the file and set conditions from woodWOP."
   },
   {
     "id": "chunk_004",
     "title": "Creating connector variants",
-    "body": "SmartWOP comes with a selection of preinstalled connector types that are most commonly used. But you can always create more. This guide will give you an example of how to create a new connector.\nIn this guide we will take a look at the Screws and create a new type\nGo to the Machining tab (Hotkey: B) and find the Screws icon and click it.\nThe Screws template will open. (Templates have a red area on the left while preferences of already placed connectors have none)\nIn the Fitting section, you can enter the name of your new screw as well as Supplier and Article numbers, and while the name is mandatory to differentiate the screws, supplier and article number are optional.\nNow it is time to define the Screw by defining the drilling diameters.\nDiameter 1 is the boring diameter for the first panel the screw will pass through and Diameter 2 for the second panel, see the extreme example underneath for reference. Lenght is the lenght of the bore.\nOnce you are happy with your new screw dimenstions and name you can start using it right away, or hit the Floppy Disk icon to save the template (meaning all of the settings including screw count and distances will be applied the next time you use this connector) The screw itself has already been saved and can be selected from the Fitting list.\nIt is possible, that you are not the only person working with SmartWOP in your company, and that the other guy keeps on messing up your connectors вЂ“ so you have to readjust them every time. \nPrevent him from doing that by creating connectors in Administrator Mode.\nGo to File>Options>General and check the box for Administrator Mode and confirm by clicking on Apply. Now return to the Machining tab. Create another new Screw. Upon hitting Enter in the Fitting name section, you will notice an open lock icon.\nThis indicates that you have the right to change the screwвЂ™s parameters. Once you are done, either restart SmartWOP or exit the Administrator Mode by unchecking its box.\nWhen you look at the screw now, you will notice a closed lock. \nThis means, that if someone tries to change the parameters of this screw now, SmartWOP will not allow it, instead it will create a copy of it -indicated by the *.\nYour screw however can always been selected from the dropdown now, without any changes to them.\nPlease note, at this point it is not possible to have screws you created in the Screw connector category appear in the list for Screws/Dowels and the other way around. You have to create it separately for each connector type."
+    "body": "SmartWOP comes with a selection of preinstalled connector types that are most commonly used. But you can always create more. This guide will give you an example of how to create a new connector. In this guide we will take a look at the Screws and create a new type Go to the Machining tab (Hotkey: B) and find the Screws icon and click it. The Screws template will open. (Templates have a red area on the left while preferences of already placed connectors have none) In the Fitting section, you can enter the name of your new screw as well as Supplier and Article numbers, and while the name is mandatory to differentiate the screws, supplier and article number are optional. Now it is time to define the Screw by defining the drilling diameters. Diameter 1 is the boring diameter for the first panel the screw will pass through and Diameter 2 for the second panel, see the extreme example underneath for reference. Lenght is the lenght of the bore. Once you are happy with your new screw dimenstions and name you can start using it right away, or hit the Floppy Disk icon to save the template (meaning all of the settings including screw count and distances will be applied the next time you use this connector) The screw itself has already been saved and can be selected from the Fitting list. It is possible, that you are not the only person working with SmartWOP in your company, and that the other guy keeps on messing up your connectors вЂ“ so you have to readjust them every time. Prevent him from doing that by creating connectors in Administrator Mode. Go to File>Options>General and check the box for Administrator Mode and confirm by clicking on Apply. Now return to the Machining tab. Create another new Screw. Upon hitting Enter in the Fitting name section, you will notice an open lock icon. This indicates that you have the right to change the screwвЂ™s parameters. Once you are done, either restart SmartWOP or exit the Administrator Mode by unchecking its box. When you look at the screw now, you will notice a closed lock. This means, that if someone tries to change the parameters of this screw now, SmartWOP will not allow it, instead it will create a copy of it -indicated by the *. Your screw however can always been selected from the dropdown now, without any changes to them. Please note, at this point it is not possible to have screws you created in the Screw connector category appear in the list for Screws/Dowels and the other way around. You have to create it separately for each connector type."
   },
   {
     "id": "chunk_005",
     "title": "Traverses/Cross Beams and Separators",
-    "body": "When using Traverses/cross beams in your build, panels that you want to go underneath the cross beam will be placed with a setback. That is not always wanted, here is how you prevent that.\nIn this example the cross beam was placed flush in the top part of the design.\nIf a Horizontal Panel is dragged in underneath the traverse it has a setback equivalent to the thickness of the traverse.\nTo prevent this from happening you need to use a Horizontal Separator вЂ“ and you need to place it first, before the cross beam.\nDrag the Horizontal Separator into your carcass, and position it in a distance equivalent to the traverse width. \nNow drag in your Frontal Traverse, select either Only Top or Only Bottom from the Type section to get a singular beam and adjust size if necessary.\nEvery Horizontal Panel dragged in underneath the traverse now will be using the whole volume inside the carcass.\nHint: This will work with Horizontal Traverses and Vertical Separators accordingly."
+    "body": "When using Traverses/cross beams in your build, panels that you want to go underneath the cross beam will be placed with a setback. That is not always wanted, here is how you prevent that. In this example the cross beam was placed flush in the top part of the design. If a Horizontal Panel is dragged in underneath the traverse it has a setback equivalent to the thickness of the traverse. To prevent this from happening you need to use a Horizontal Separator вЂ“ and you need to place it first, before the cross beam. Drag the Horizontal Separator into your carcass, and position it in a distance equivalent to the traverse width. Now drag in your Frontal Traverse, select either Only Top or Only Bottom from the Type section to get a singular beam and adjust size if necessary. Every Horizontal Panel dragged in underneath the traverse now will be using the whole volume inside the carcass. Hint: This will work with Horizontal Traverses and Vertical Separators accordingly."
   },
   {
     "id": "chunk_006",
     "title": "Installing rebated back panels.",
-    "body": "Depending on your building style you might need to change how the back panel is installed in your design. Here is how you can insert a thick rebated back panel.\nThis is the Back Panel Template.\nIt allows you to change its basic values such as Thickness and Setback. It is important to know, that a setback of 20 mm and a Back Panel of 8 mm means the actual Setback is 12 mm.\nOverlap determines how far into your carcass panels the back panel will insert.\nBack Panel Rebating is most helpful for thicker back panels. Front and Back will determine the distances highlighted below.\nAir Gap Width determines a gap around the rebate for easier installation.\nUnselecting Machine on CNC prevents SmartWOP from writing a program for the back panel. If it is selected however, you will need to determine a Tool Number in the dropdown menu which you can use with a Custom Feedrate too."
+    "body": "Depending on your building style you might need to change how the back panel is installed in your design. Here is how you can insert a thick rebated back panel. This is the Back Panel Template. It allows you to change its basic values such as Thickness and Setback. It is important to know, that a setback of 20 mm and a Back Panel of 8 mm means the actual Setback is 12 mm. Overlap determines how far into your carcass panels the back panel will insert. Back Panel Rebating is most helpful for thicker back panels. Front and Back will determine the distances highlighted below. Air Gap Width determines a gap around the rebate for easier installation. Unselecting Machine on CNC prevents SmartWOP from writing a program for the back panel. If it is selected however, you will need to determine a Tool Number in the dropdown menu which you can use with a Custom Feedrate too."
   },
   {
     "id": "chunk_007",
     "title": "Construction with SmartWOP вЂ“ The first cabinet",
-    "body": "Get a Base Volume вЂ“ SmartWOP construction is based on volumes, so for you to start working on your own design you need a Base\nBase volumes can be found in the Items tab (Hotkey: E). For this guide we will use a regular base. Drag the volume into your work area on screen.\nWhen you have dragged the base into the work area a window with its properties will open. Here you can name the Base, which is important, because every program and list item will be named accordingly.\nHere you have to define the dimensions of the base вЂ“ you can change them at any time and everything you have constructed inside the base will adjust accordingly.\nOnce you are happy with your dimensions. Click on the Export section of the base template. Especially when you are just starting to use SmartWOP you need to set this up the way you prefer to work on your CNC center."
+    "body": "Get a Base Volume вЂ“ SmartWOP construction is based on volumes, so for you to start working on your own design you need a Base Base volumes can be found in the Items tab (Hotkey: E). For this guide we will use a regular base. Drag the volume into your work area on screen. When you have dragged the base into the work area a window with its properties will open. Here you can name the Base, which is important, because every program and list item will be named accordingly. Here you have to define the dimensions of the base вЂ“ you can change them at any time and everything you have constructed inside the base will adjust accordingly. Once you are happy with your dimensions. Click on the Export section of the base template. Especially when you are just starting to use SmartWOP you need to set this up the way you prefer to work on your CNC center."
   },
   {
     "id": "chunk_008",
     "title": "Mouldings, Cover Panels and Infills",
-    "body": "To demonstrate the way Infills/Cover Panels/Mouldings work in SmartWOP we will use this design as an example:\nThis design consists of two base volumes. The task is to connect them together. A worktop is needed on top of the two carcasses and we have an infill panel on the bottom.\nThis is the starting situation. We will start with the Cover Panel for the top.\nHolding CRTL down click on both top panels of these two bases.\nWhile they are highlighted, simply drag a Cover Panel on top.\nIn the example the worktop is extending over the front and sides by 50 mm. Click on the Cover Panel to bring up its properties.\nNow simply change the values accordingly. Left, right and front got a +50 in this case.\nFor the Infill on the bottom it is the same procedure.\nSelect both bottoms using CRTL while you click.\nWhile the bottoms are highlighted, drag an Infill onto them."
+    "body": "To demonstrate the way Infills/Cover Panels/Mouldings work in SmartWOP we will use this design as an example: This design consists of two base volumes. The task is to connect them together. A worktop is needed on top of the two carcasses and we have an infill panel on the bottom. This is the starting situation. We will start with the Cover Panel for the top. Holding CRTL down click on both top panels of these two bases. While they are highlighted, simply drag a Cover Panel on top. In the example the worktop is extending over the front and sides by 50 mm. Click on the Cover Panel to bring up its properties. Now simply change the values accordingly. Left, right and front got a +50 in this case. For the Infill on the bottom it is the same procedure. Select both bottoms using CRTL while you click. While the bottoms are highlighted, drag an Infill onto them."
   },
   {
     "id": "chunk_009",
@@ -62,7 +62,7 @@
   {
     "id": "chunk_013",
     "title": "Overlapping bases",
-    "body": "Select the Allow Overlapping button in the start bar. Drag the volume as described in “Move bases” to the desired position using the arrows. The allow overlapping button remains blue while you are in this mode. After switching off allow overlapping it is no longer possible to move bases into each other"
+    "body": "Select the Allow Overlapping button in the start bar. Drag the volume as described in “Move bases” to the desired position using the arrows. The allow overlapping button remains blue while you are in this mode. After switching off allow overlapping it is no longer possible to move bases into each other"
   },
   {
     "id": "chunk_014",
@@ -72,7 +72,7 @@
   {
     "id": "chunk_015",
     "title": "Activate bases",
-    "body": "After selecting one or several base volumes you can activate them by clicking the Activate volume button. SmartWOP allows you to edit only the green‑marked bases. You can also select a panel and click Activate volume to activate the base to which the panel belongs, which is helpful when working with many separators"
+    "body": "After selecting one or several base volumes you can activate them by clicking the Activate volume button. SmartWOP allows you to edit only the green‑marked bases. You can also select a panel and click Activate volume to activate the base to which the panel belongs, which is helpful when working with many separators"
   },
   {
     "id": "chunk_016",
@@ -82,7 +82,7 @@
   {
     "id": "chunk_017",
     "title": "Base settings",
-    "body": "When you select a base the settings window opens. Here you can change the name of the base and select its type. Choosing a Construction kit allows items within the volume to be output to the superordinate volume when saving the volume as a component, while choosing Cabinet outputs items within the base to the base itself when saving the volume. Selecting Article outputs the items within the base as purchased parts with an article number when saving the volume; components of a volume specified as an article are not output as parts to be produced. You can change the base’s width, height and depth (including using formulas) and enter a description that is only visible in this window. The Count field specifies how many bases to produce; the number of bases appears in the material list. You can select an export reference point (front or back) to determine orientation on the machine. Under Accessories double‑click to open a submenu for adding accessories; items will appear in the purchase list. Under Transformation you can set offset and rotation values for X, Y, Z"
+    "body": "When you select a base the settings window opens. Here you can change the name of the base and select its type. Choosing a Construction kit allows items within the volume to be output to the superordinate volume when saving the volume as a component, while choosing Cabinet outputs items within the base to the base itself when saving the volume. Selecting Article outputs the items within the base as purchased parts with an article number when saving the volume; components of a volume specified as an article are not output as parts to be produced. You can change the base’s width, height and depth (including using formulas) and enter a description that is only visible in this window. The Count field specifies how many bases to produce; the number of bases appears in the material list. You can select an export reference point (front or back) to determine orientation on the machine. Under Accessories double‑click to open a submenu for adding accessories; items will appear in the purchase list. Under Transformation you can set offset and rotation values for X, Y, Z"
   },
   {
     "id": "chunk_018",
@@ -112,32 +112,32 @@
   {
     "id": "chunk_023",
     "title": "Horizontal Separator",
-    "body": "Drag the horizontal separator into the base. You can drag the separator by arrows into position or enter the desired dimensions. In the settings window you will find more options to optimise your separator. The Absolute Position setting determines the space of your separator relative to the base outline; the arrow on the right side of the row allows you to switch between top or bottom base outside line"
+    "body": "Drag the horizontal separator into the base. You can drag the separator by arrows into position or enter the desired dimensions. In the settings window you will find more options to optimise your separator. The Absolute Position setting determines the space of your separator relative to the base outline; the arrow on the right side of the row allows you to switch between top or bottom base outside line"
   },
   {
     "id": "chunk_024",
     "title": "Vertical Separator",
-    "body": "Drag the vertical separator into the base. You can drag the separator by arrows into position or enter the desired dimensions. In the settings window you will find more options to optimise your separator. The Absolute Position setting determines the space of your separator relative to the base outline; the arrow on the right side of the row allows you to switch between left and right base outside line. SmartWOP displays the height of the separator"
+    "body": "Drag the vertical separator into the base. You can drag the separator by arrows into position or enter the desired dimensions. In the settings window you will find more options to optimise your separator. The Absolute Position setting determines the space of your separator relative to the base outline; the arrow on the right side of the row allows you to switch between left and right base outside line. SmartWOP displays the height of the separator"
   },
   {
     "id": "chunk_025",
     "title": "Frontal Separator",
-    "body": "Drag the frontal separator into the base. You can drag the separator by arrows into position or enter the desired dimensions. In the settings window you will find more options to optimise your separator. Use Absolute Position to determine the space of your separator relative to the base outline; the arrow on the right side of the row allows you to switch between front and back base outside line"
+    "body": "Drag the frontal separator into the base. You can drag the separator by arrows into position or enter the desired dimensions. In the settings window you will find more options to optimise your separator. Use Absolute Position to determine the space of your separator relative to the base outline; the arrow on the right side of the row allows you to switch between front and back base outside line"
   },
   {
     "id": "chunk_026",
     "title": "Diagonal Separator X",
-    "body": "Drag the diagonal separator X into the base. You can drag the separator by arrows into position or enter the desired dimensions. In the settings window you will find more options to optimise your separator. Use Absolute Left Position and Absolute Right Position to determine the space of your separator relative to the base outline; the arrows on the right side of the rows allow you to switch between top and bottom base outside line. Enter the desired angle (‑89° to 89°) and a safety clearance to determine how much space you want between other diagonal separators"
+    "body": "Drag the diagonal separator X into the base. You can drag the separator by arrows into position or enter the desired dimensions. In the settings window you will find more options to optimise your separator. Use Absolute Left Position and Absolute Right Position to determine the space of your separator relative to the base outline; the arrows on the right side of the rows allow you to switch between top and bottom base outside line. Enter the desired angle (‑89° to 89°) and a safety clearance to determine how much space you want between other diagonal separators"
   },
   {
     "id": "chunk_027",
     "title": "Diagonal Separator Y",
-    "body": "Drag the diagonal separator Y into the base. You can drag the separator by arrows into position or enter the desired dimensions. In the settings window you will find more options to optimise your separator. Use Absolute Front Position and Absolute Back Position to determine the space of your separator relative to the base outline. Enter the desired angle (‑89° to 89°) and a safety clearance to determine how much space you want between other diagonal separators"
+    "body": "Drag the diagonal separator Y into the base. You can drag the separator by arrows into position or enter the desired dimensions. In the settings window you will find more options to optimise your separator. Use Absolute Front Position and Absolute Back Position to determine the space of your separator relative to the base outline. Enter the desired angle (‑89° to 89°) and a safety clearance to determine how much space you want between other diagonal separators"
   },
   {
     "id": "chunk_028",
     "title": "Diagonal Separator Z",
-    "body": "Drag the diagonal separator Z into the base. You can drag the separator by arrows into position or enter the desired dimensions. In the settings window you will find more options to optimise your separator. Use Absolute Left Position and Absolute Right Position to determine the space of your separator relative to the base outline; the arrows allow you to switch between front and back base outside lines. Enter the desired angle (‑89° to 89°) and specify the orientation of the diagonal separator Z to bring it into the desired position"
+    "body": "Drag the diagonal separator Z into the base. You can drag the separator by arrows into position or enter the desired dimensions. In the settings window you will find more options to optimise your separator. Use Absolute Left Position and Absolute Right Position to determine the space of your separator relative to the base outline; the arrows allow you to switch between front and back base outside lines. Enter the desired angle (‑89° to 89°) and specify the orientation of the diagonal separator Z to bring it into the desired position"
   },
   {
     "id": "chunk_029",
@@ -157,7 +157,7 @@
   {
     "id": "chunk_032",
     "title": "Vertical Panel",
-    "body": "Drag the vertical panel into the base and position it using arrows or by entering dimensions. In the settings window you will find more settings to optimise your panel. Use the Absolute Position setting to determine the space of your panel relative to the base outline; the arrow on the right allows you to switch between right or left base outside line. Enter a setback to reduce the volume for subsequent items, specify how many panels you need, define the distance between panels and set the thickness. You can extend the panel over the base volume but cannot add panels outside the base volume"
+    "body": "Drag the vertical panel into the base and position it using arrows or by entering dimensions. In the settings window you will find more settings to optimise your panel. Use the Absolute Position setting to determine the space of your panel relative to the base outline; the arrow on the right allows you to switch between right or left base outside line. Enter a setback to reduce the volume for subsequent items, specify how many panels you need, define the distance between panels and set the thickness. You can extend the panel over the base volume but cannot add panels outside the base volume"
   },
   {
     "id": "chunk_033",
@@ -187,17 +187,17 @@
   {
     "id": "chunk_038",
     "title": "Diagonal Panel X",
-    "body": "Drag the diagonal panel X into the base and position it using arrows or by entering dimensions. In the settings window you will find more settings to optimise your panel, such as name, absolute left and right positions, angle (‑89° to 89°), setback, safety clearance, thickness, adjustable panel dimensions, and pick point"
+    "body": "Drag the diagonal panel X into the base and position it using arrows or by entering dimensions. In the settings window you will find more settings to optimise your panel, such as name, absolute left and right positions, angle (‑89° to 89°), setback, safety clearance, thickness, adjustable panel dimensions, and pick point"
   },
   {
     "id": "chunk_039",
     "title": "Diagonal Panel Y",
-    "body": "Drag the diagonal panel Y into the base and position it using arrows or by entering dimensions. In the settings window you will find more settings to optimise your panel, such as name, absolute front and back positions, angle (‑89° to 89°), safety clearance, thickness, skewed edges and pick point"
+    "body": "Drag the diagonal panel Y into the base and position it using arrows or by entering dimensions. In the settings window you will find more settings to optimise your panel, such as name, absolute front and back positions, angle (‑89° to 89°), safety clearance, thickness, skewed edges and pick point"
   },
   {
     "id": "chunk_040",
     "title": "Diagonal Panel Z",
-    "body": "Drag the diagonal panel Z into the base and position it using arrows or by entering dimensions. In the settings window you will find more settings to optimise your panel, such as name, absolute left and right positions, angle (‑89° to 89°), thickness, orientation, skewed edges and pick point"
+    "body": "Drag the diagonal panel Z into the base and position it using arrows or by entering dimensions. In the settings window you will find more settings to optimise your panel, such as name, absolute left and right positions, angle (‑89° to 89°), thickness, orientation, skewed edges and pick point"
   },
   {
     "id": "chunk_041",
@@ -217,7 +217,7 @@
   {
     "id": "chunk_044",
     "title": "Filler/Infill",
-    "body": "The filler/infill can only be placed outside the base. Drag the filler/infill onto the base and use the settings window to optimise it. Enter a name, thickness, width, position setback and distance to the corpus panel. Use the Panel Dimensions dropdown to cut or extend the panel. You can add a mounting panel and specify its dimensions, choose whether the panel is on the exterior or interior side and set a pick point"
+    "body": "The filler/infill can only be placed outside the base. Drag the filler/infill onto the base and use the settings window to optimise it. Enter a name, thickness, width, position setback and distance to the corpus panel. Use the Panel Dimensions dropdown to cut or extend the panel. You can add a mounting panel and specify its dimensions, choose whether the panel is on the exterior or interior side and set a pick point"
   },
   {
     "id": "chunk_045",
@@ -282,7 +282,7 @@
   {
     "id": "chunk_057",
     "title": "Allow Overlapping",
-    "body": "Activate Allow Overlapping to temporarily permit volumes to overlap. With this button on, you can move volumes into one another using the arrow handles. Click the button again to deactivate overlaps; overlapping volumes can still be pushed apart without reactivating the button"
+    "body": "Activate Allow Overlapping to temporarily permit volumes to overlap. With this button on, you can move volumes into one another using the arrow handles. Click the button again to deactivate overlaps; overlapping volumes can still be pushed apart without reactivating the button"
   },
   {
     "id": "chunk_058",
@@ -297,22 +297,22 @@
   {
     "id": "chunk_060",
     "title": "Activate Volume",
-    "body": "Use Activate Volume to restrict editing to a selected volume. After selecting a volume with the Volume button, click Activate Volume; the activated volume is outlined in green and operations outside it are disabled. Click again to release editing for other volumes"
+    "body": "Use Activate Volume to restrict editing to a selected volume. After selecting a volume with the Volume button, click Activate Volume; the activated volume is outlined in green and operations outside it are disabled. Click again to release editing for other volumes"
   },
   {
     "id": "chunk_061",
     "title": "Select and Move",
-    "body": "Select and Move is the default control mode that allows you to select and move items. It remains active until you activate another tool such as Rotation"
+    "body": "Select and Move is the default control mode that allows you to select and move items. It remains active until you activate another tool such as Rotation"
   },
   {
     "id": "chunk_062",
     "title": "Additive Selection",
-    "body": "Activate Additive Selection to select multiple items or volumes. You can perform the same action by holding the Ctrl key while clicking items"
+    "body": "Activate Additive Selection to select multiple items or volumes. You can perform the same action by holding the Ctrl key while clicking items"
   },
   {
     "id": "chunk_063",
     "title": "Subtractive Selection",
-    "body": "Activate Subtractive Selection to deselect items or volumes. You can also hold the Alt key while clicking to deselect"
+    "body": "Activate Subtractive Selection to deselect items or volumes. You can also hold the Alt key while clicking to deselect"
   },
   {
     "id": "chunk_064",
@@ -322,7 +322,7 @@
   {
     "id": "chunk_065",
     "title": "Revert Selection",
-    "body": "Click Revert Selection to invert the current selection of elements"
+    "body": "Click Revert Selection to invert the current selection of elements"
   },
   {
     "id": "chunk_066",
@@ -332,37 +332,37 @@
   {
     "id": "chunk_067",
     "title": "Hide Fronts",
-    "body": "Use Hide Fronts to temporarily hide all fronts so you can more easily select interior items. Remember to show all fronts again before exporting your construction; only visible items are exported"
+    "body": "Use Hide Fronts to temporarily hide all fronts so you can more easily select interior items. Remember to show all fronts again before exporting your construction; only visible items are exported"
   },
   {
     "id": "chunk_068",
     "title": "Hide Selection",
-    "body": "Use Hide Selection to hide selected items so you can better work on internal parts. Show them again before exporting; only visible items are considered"
+    "body": "Use Hide Selection to hide selected items so you can better work on internal parts. Show them again before exporting; only visible items are considered"
   },
   {
     "id": "chunk_069",
     "title": "Hide Unselected",
-    "body": "Use Hide Unselected to display only selected items. This helps isolate components for machining or exporting. Before exporting, show all items again"
+    "body": "Use Hide Unselected to display only selected items. This helps isolate components for machining or exporting. Before exporting, show all items again"
   },
   {
     "id": "chunk_070",
     "title": "Show All",
-    "body": "Click Show All to display all items in the scene. Ensure all items are shown before exporting"
+    "body": "Click Show All to display all items in the scene. Ensure all items are shown before exporting"
   },
   {
     "id": "chunk_071",
     "title": "Show Separators",
-    "body": "Use Show Separators to toggle the visibility of all separators. Hiding separators makes selecting interior items easier; click again to show them"
+    "body": "Use Show Separators to toggle the visibility of all separators. Hiding separators makes selecting interior items easier; click again to show them"
   },
   {
     "id": "chunk_072",
     "title": "Solid mode",
-    "body": "Select Solid mode to switch from transparency to solid material display. The submenu allows you to toggle contour lines in material mode. Click again to return to transparency mode"
+    "body": "Select Solid mode to switch from transparency to solid material display. The submenu allows you to toggle contour lines in material mode. Click again to return to transparency mode"
   },
   {
     "id": "chunk_073",
     "title": "Activate snapping",
-    "body": "Activate activate snapping to set a minimum movement step for items. Enter the minimum distance in millimetres in the field below"
+    "body": "Activate activate snapping to set a minimum movement step for items. Enter the minimum distance in millimetres in the field below"
   },
   {
     "id": "chunk_074",
@@ -392,22 +392,22 @@
   {
     "id": "chunk_079",
     "title": "Edit Top",
-    "body": "Select an item and activate Edit Top to insert machining on the top side via WoodWOP. The side to be machined is marked with a yellow arrow"
+    "body": "Select an item and activate Edit Top to insert machining on the top side via WoodWOP. The side to be machined is marked with a yellow arrow"
   },
   {
     "id": "chunk_080",
     "title": "Edit Bottom",
-    "body": "Select an item and activate Edit Bottom to insert machining on the bottom side via WoodWOP. The side to be machined is marked with a yellow arrow"
+    "body": "Select an item and activate Edit Bottom to insert machining on the bottom side via WoodWOP. The side to be machined is marked with a yellow arrow"
   },
   {
     "id": "chunk_081",
     "title": "Activate Assistant",
-    "body": "Activate Activate Assistant to enable your assistant. In the Assistants menu at the bottom right you can create an assistant to speed up recurring constructions"
+    "body": "Activate Activate Assistant to enable your assistant. In the Assistants menu at the bottom right you can create an assistant to speed up recurring constructions"
   },
   {
     "id": "chunk_082",
     "title": "Export Tuning",
-    "body": "Activate the button to open the Export Tuning.\nIn the Export Tuning submenu we have the option of displaying or hiding a virtual machine table.\nSelect an item that you want to machine using Export Tuning or export to the WOP environment.\nIn the template window you will find further options for optimizing your workpiece."
+    "body": "Activate the button to open the Export Tuning. In the Export Tuning submenu we have the option of displaying or hiding a virtual machine table. Select an item that you want to machine using Export Tuning or export to the WOP environment. In the template window you will find further options for optimizing your workpiece."
   },
   {
     "id": "chunk_083",
@@ -487,7 +487,7 @@
   {
     "id": "chunk_098",
     "title": "Export Tuning : Profile",
-    "body": "Change settings in your WOP environment by duplicating the design and making changes in the duplicate.\nIt is important that you create a duplicate, as the pattern is reset to default after each update to avoid potential errors."
+    "body": "Change settings in your WOP environment by duplicating the design and making changes in the duplicate. It is important that you create a duplicate, as the pattern is reset to default after each update to avoid potential errors."
   },
   {
     "id": "chunk_099",
@@ -497,17 +497,17 @@
   {
     "id": "chunk_100",
     "title": "Center View",
-    "body": "Click Center View to centre the view on the selected item or volume"
+    "body": "Click Center View to centre the view on the selected item or volume"
   },
   {
     "id": "chunk_101",
     "title": "Create new folder",
-    "body": "In the Materials library, click Create new folder to make a new folder and name it. You can also open an existing folder before clicking to create a subfolder"
+    "body": "In the Materials library, click Create new folder to make a new folder and name it. You can also open an existing folder before clicking to create a subfolder"
   },
   {
     "id": "chunk_102",
     "title": "Create materials from texture folder",
-    "body": "To quickly create many materials, first create a subfolder then choose Automatically create materials from texture folder. In the dialog select panel thicknesses and edge thicknesses, add new panel materials (specifying raw material, thickness and supplier) and add new edge materials (specify name, article number, supplier, thickness, width and minimum/maximum panel thickness). Repeat this for all thicknesses you use. Then click Generate panel names to have SmartWOP generate names with décor and thickness or just thickness. Select the folder containing texture images, ensure the grain runs along the X‑direction and change the angle to 90° if necessary. Start the import; SmartWOP creates materials for each specified plate and edge thickness"
+    "body": "To quickly create many materials, first create a subfolder then choose Automatically create materials from texture folder. In the dialog select panel thicknesses and edge thicknesses, add new panel materials (specifying raw material, thickness and supplier) and add new edge materials (specify name, article number, supplier, thickness, width and minimum/maximum panel thickness). Repeat this for all thicknesses you use. Then click Generate panel names to have SmartWOP generate names with décor and thickness or just thickness. Select the folder containing texture images, ensure the grain runs along the X‑direction and change the angle to 90° if necessary. Start the import; SmartWOP creates materials for each specified plate and edge thickness"
   },
   {
     "id": "chunk_103",
@@ -532,7 +532,7 @@
   {
     "id": "chunk_107",
     "title": "Material Picker",
-    "body": "Click Material Picker to quickly find materials already applied in your created material folders"
+    "body": "Click Material Picker to quickly find materials already applied in your created material folders"
   },
   {
     "id": "chunk_108",
@@ -712,7 +712,7 @@
   {
     "id": "chunk_143",
     "title": "Allow Single Side Connectors",
-    "body": "Activate Allow Single Side Connectors to permit single‑sided machining. This allows machining to be added freely via drag and drop, but you must ensure that adjacent items also receive the necessary machining"
+    "body": "Activate Allow Single Side Connectors to permit single‑sided machining. This allows machining to be added freely via drag and drop, but you must ensure that adjacent items also receive the necessary machining"
   },
   {
     "id": "chunk_144",
@@ -722,7 +722,7 @@
   {
     "id": "chunk_145",
     "title": "Edit machining profile",
-    "body": "Machining profiles let you save recurring machining tasks. To edit profiles with a lock you must activate administrator mode via File → Options → General. Without admin mode, a new profile is created whenever parameters change. Profiles with a lock can only be deleted in admin mode"
+    "body": "Machining profiles let you save recurring machining tasks. To edit profiles with a lock you must activate administrator mode via File → Options → General. Without admin mode, a new profile is created whenever parameters change. Profiles with a lock can only be deleted in admin mode"
   },
   {
     "id": "chunk_146",
@@ -802,7 +802,7 @@
   {
     "id": "chunk_161",
     "title": "Vertical Drilling",
-    "body": "Use vertical drilling to add individual holes or drilling patterns to an item’s surface. Drag a vertical drilling onto an item. Under Distance Mode Start/End specify count, start and end points in X and Y. Under Distance Mode Start/Angle specify count, distance and angle with starting point. Under Distance Mode Middle/Angle specify count, distance and angle with a centre point. Also specify diameter, tool number, depth and processing side"
+    "body": "Use vertical drilling to add individual holes or drilling patterns to an item’s surface. Drag a vertical drilling onto an item. Under Distance Mode Start/End specify count, start and end points in X and Y. Under Distance Mode Start/Angle specify count, distance and angle with starting point. Under Distance Mode Middle/Angle specify count, distance and angle with a centre point. Also specify diameter, tool number, depth and processing side"
   },
   {
     "id": "chunk_162",
@@ -972,17 +972,17 @@
   {
     "id": "chunk_195",
     "title": "Additive selection method",
-    "body": "Activate the button to select multiple items. You can also use a Ctrl + left‑click to select several parts"
+    "body": "Activate the button to select multiple items. You can also use a Ctrl + left‑click to select several parts"
   },
   {
     "id": "chunk_196",
     "title": "Subtractive selection method",
-    "body": "Activate the button to deselect items. You can achieve the same result by holding Alt and left‑clicking"
+    "body": "Activate the button to deselect items. You can achieve the same result by holding Alt and left‑clicking"
   },
   {
     "id": "chunk_197",
     "title": "Frame",
-    "body": "Select the frame button to select several or all items at the same time. Only items that are completely within the frame are selected"
+    "body": "Select the frame button to select several or all items at the same time. Only items that are completely within the frame are selected"
   },
   {
     "id": "chunk_198",
@@ -992,12 +992,12 @@
   {
     "id": "chunk_199",
     "title": "Rotation",
-    "body": "You can rotate workpieces by clicking the arrow under the rotation button, selecting the number of degrees and activating the button. Select the workpiece and hold the mouse button down to rotate it; click the button again to leave rotation mode"
+    "body": "You can rotate workpieces by clicking the arrow under the rotation button, selecting the number of degrees and activating the button. Select the workpiece and hold the mouse button down to rotate it; click the button again to leave rotation mode"
   },
   {
     "id": "chunk_200",
     "title": "Solid Mode",
-    "body": "Select the solid mode button to switch from transparency mode to material mode. In the submenu you can switch contouring on and off. Click the button again to return to transparency mode"
+    "body": "Select the solid mode button to switch from transparency mode to material mode. In the submenu you can switch contouring on and off. Click the button again to return to transparency mode"
   },
   {
     "id": "chunk_201",
@@ -1017,7 +1017,7 @@
   {
     "id": "chunk_204",
     "title": "Recalculate all",
-    "body": "Click the button to recalculate the cutting plan. All workpieces are automatically repositioned and any manual optimisation is lost"
+    "body": "Click the button to recalculate the cutting plan. All workpieces are automatically repositioned and any manual optimisation is lost"
   },
   {
     "id": "chunk_205",
@@ -1027,12 +1027,12 @@
   {
     "id": "chunk_206",
     "title": "All to Machine",
-    "body": "Click the button to export all visible workpieces to the machine as a nesting program. This function is only available when nesting is active"
+    "body": "Click the button to export all visible workpieces to the machine as a nesting program. This function is only available when nesting is active"
   },
   {
     "id": "chunk_207",
     "title": "Preview",
-    "body": "Select a panel and click the preview button to display the selected board in the WOP environment. The preview function in the panel planner is available only when nesting is active"
+    "body": "Select a panel and click the preview button to display the selected board in the WOP environment. The preview function in the panel planner is available only when nesting is active"
   },
   {
     "id": "chunk_208",
@@ -1042,27 +1042,27 @@
   {
     "id": "chunk_209",
     "title": "Placement",
-    "body": "SmartWOP offers the option of selecting the corner from which items are oriented on the panel. Click the respective icon to recalculate the items from the selected panel corner"
+    "body": "SmartWOP offers the option of selecting the corner from which items are oriented on the panel. Click the respective icon to recalculate the items from the selected panel corner"
   },
   {
     "id": "chunk_210",
     "title": "Center view (Panel planner)",
-    "body": "Click the centre view button to centre the view on the cutting plan. Select a workpiece and click the button to centre the view on the selected workpiece"
+    "body": "Click the centre view button to centre the view on the cutting plan. Select a workpiece and click the button to centre the view on the selected workpiece"
   },
   {
     "id": "chunk_211",
     "title": "Overview Panel Planner",
-    "body": "Click the arrow to the left of a panel name to open the cutting plan for that material. The overview displays component designations, panel thickness, quantity and result dimensions; you can select and mark workpieces by clicking on them"
+    "body": "Click the arrow to the left of a panel name to open the cutting plan for that material. The overview displays component designations, panel thickness, quantity and result dimensions; you can select and mark workpieces by clicking on them"
   },
   {
     "id": "chunk_212",
     "title": "Panel planner Template",
-    "body": "Select a panel in the panel planner to open the template window. Here you can view the material name, type and panel name and modify the length, width and thickness. Changing the dimensions automatically creates a new panel with the entered values"
+    "body": "Select a panel in the panel planner to open the template window. Here you can view the material name, type and panel name and modify the length, width and thickness. Changing the dimensions automatically creates a new panel with the entered values"
   },
   {
     "id": "chunk_213",
     "title": "Panel planner display",
-    "body": "The panel planner display simplifies cutting and further processing. Comments list processing steps, programme names appear above the plate when nested, raw and real board dimensions are displayed, a continuous line marks the front edge and a dashed line marks the lower edge. Triangle symbols indicate whether an item must be pushed to the workstation or turned in the next processing step"
+    "body": "The panel planner display simplifies cutting and further processing. Comments list processing steps, programme names appear above the plate when nested, raw and real board dimensions are displayed, a continuous line marks the front edge and a dashed line marks the lower edge. Triangle symbols indicate whether an item must be pushed to the workstation or turned in the next processing step"
   },
   {
     "id": "chunk_214",
@@ -1077,7 +1077,7 @@
   {
     "id": "chunk_216",
     "title": "Basic Construction for the Assistant",
-    "body": "To teach an assistant you need a design that includes names, machining, edge assignments and export tuning settings for the parts to be used. You can create a design specifically for the assistant or use an existing one. The assistant records how components are positioned relative to each other and which joints are used. You can add new connection points or overwrite stored settings when teaching; fittings and free machining are not saved in the assistant"
+    "body": "To teach an assistant you need a design that includes names, machining, edge assignments and export tuning settings for the parts to be used. You can create a design specifically for the assistant or use an existing one. The assistant records how components are positioned relative to each other and which joints are used. You can add new connection points or overwrite stored settings when teaching; fittings and free machining are not saved in the assistant"
   },
   {
     "id": "chunk_217",
@@ -1097,12 +1097,12 @@
   {
     "id": "chunk_220",
     "title": "Learn Assistant",
-    "body": "Select an assistant in the lower‑right menu and then select the volume you want to use as a template (highlighted in blue). Click the learning icon to teach the assistant. The assistant stores part names, corner‑joint machining, edge assignments and export tuning settings. When re‑learning, SmartWOP asks if existing presets should be overwritten; only new information for components not yet stored in the assistant is added"
+    "body": "Select an assistant in the lower‑right menu and then select the volume you want to use as a template (highlighted in blue). Click the learning icon to teach the assistant. The assistant stores part names, corner‑joint machining, edge assignments and export tuning settings. When re‑learning, SmartWOP asks if existing presets should be overwritten; only new information for components not yet stored in the assistant is added"
   },
   {
     "id": "chunk_221",
     "title": "Information in the Assistant",
-    "body": "Opening the assistant’s drop‑down menu allows you to view the stored information. The application scope shows which types of information (Machining, Naming, Edge assignment, Export tuning) are active; letters such as M, N, E and X indicate active areas and can be toggled. Further sections list added machining joints with positions and types, panel names with their positions, edge thicknesses for each item and export tuning settings"
+    "body": "Opening the assistant’s drop‑down menu allows you to view the stored information. The application scope shows which types of information (Machining, Naming, Edge assignment, Export tuning) are active; letters such as M, N, E and X indicate active areas and can be toggled. Further sections list added machining joints with positions and types, panel names with their positions, edge thicknesses for each item and export tuning settings"
   },
   {
     "id": "chunk_222",
@@ -1112,7 +1112,7 @@
   {
     "id": "chunk_223",
     "title": "Activate Assistant",
-    "body": "To activate an assistant during design, enable one of the assistant buttons. As long as the assistant is activated, the buttons are highlighted in blue and the assistant’s settings are applied until the assistant is deactivated. If parts are not considered, add the missing names, machining, edge assignments or export tuning settings and re‑teach the assistant"
+    "body": "To activate an assistant during design, enable one of the assistant buttons. As long as the assistant is activated, the buttons are highlighted in blue and the assistant’s settings are applied until the assistant is deactivated. If parts are not considered, add the missing names, machining, edge assignments or export tuning settings and re‑teach the assistant"
   },
   {
     "id": "chunk_224",
@@ -1122,22 +1122,22 @@
   {
     "id": "chunk_225",
     "title": "Packet Export – Structure",
-    "body": "To perform a packet export without problems you must create Machine Set‑up Configurations for your machines and set individual directories for the WOP‑programs. After creating configurations for all machines, select the machines to be used for packet export. You can then construct in SmartWOP and export NC‑programs, material lists and drawings"
+    "body": "To perform a packet export without problems you must create Machine Set‑up Configurations for your machines and set individual directories for the WOP‑programs. After creating configurations for all machines, select the machines to be used for packet export. You can then construct in SmartWOP and export NC‑programs, material lists and drawings"
   },
   {
     "id": "chunk_226",
     "title": "Machine Set‑Up Configuration",
-    "body": "Create a configuration for each machine you intend to use. Open File → Options → General, create machine profiles for each machine and rename them as needed. In the set‑up window select each profile in the drop‑down menu, tick the box for packet export and complete the integration. After integrating the WOP environment and tool databases, complete the settings for Workshop, Export, Tools and other options"
+    "body": "Create a configuration for each machine you intend to use. Open File → Options → General, create machine profiles for each machine and rename them as needed. In the set‑up window select each profile in the drop‑down menu, tick the box for packet export and complete the integration. After integrating the WOP environment and tool databases, complete the settings for Workshop, Export, Tools and other options"
   },
   {
     "id": "chunk_227",
     "title": "Directories (Packet Export)",
-    "body": "Select the export path for the Export WOP for each machine individually via File → Options → Directories. Each machine must have its own path; otherwise the NC‑programs cannot be exported"
+    "body": "Select the export path for the Export WOP for each machine individually via File → Options → Directories. Each machine must have its own path; otherwise the NC‑programs cannot be exported"
   },
   {
     "id": "chunk_228",
     "title": "Packet to Machine",
-    "body": "After completing the project, export using File → Export → Machine → Packet to Machine. The NC‑programs are saved in the directory specified for each machine. In the drop‑down menu you can also choose to export the material list and drawings. The material list automatically includes lists for the different machines. When exporting, a window prompts you to choose the path for saving the material list and drawings"
+    "body": "After completing the project, export using File → Export → Machine → Packet to Machine. The NC‑programs are saved in the directory specified for each machine. In the drop‑down menu you can also choose to export the material list and drawings. The material list automatically includes lists for the different machines. When exporting, a window prompts you to choose the path for saving the material list and drawings"
   },
   {
     "id": "chunk_229",
@@ -1152,146 +1152,146 @@
   {
     "id": "chunk_231",
     "title": "Open Doors",
-    "body": "Press the 1 key to open or close the doors in your construction"
+    "body": "Press the 1 key to open or close the doors in your construction"
   },
   {
     "id": "chunk_232",
     "title": "Open Drawers",
-    "body": "Press the 2 key to open or close the drawers in your construction"
+    "body": "Press the 2 key to open or close the drawers in your construction"
   },
   {
     "id": "chunk_233",
     "title": "Open Fronts",
-    "body": "Press the 3 key to open or close all fronts in your construction"
+    "body": "Press the 3 key to open or close all fronts in your construction"
   },
   {
     "id": "chunk_234",
     "title": "Center View (Shortcut)",
-    "body": "Press the A key to centre the view on the selected item"
+    "body": "Press the A key to centre the view on the selected item"
   },
   {
     "id": "chunk_235",
     "title": "Categorie Machining",
-    "body": "Press the B key to go directly to machining mode"
+    "body": "Press the B key to go directly to machining mode"
   },
   {
     "id": "chunk_236",
     "title": "Hide Fronts (Shortcut)",
-    "body": "Press the F key to hide the fronts"
+    "body": "Press the F key to hide the fronts"
   },
   {
     "id": "chunk_237",
     "title": "Hide Unselected",
-    "body": "Press the G key to display only the selected parts (hiding unselected ones)"
+    "body": "Press the G key to display only the selected parts (hiding unselected ones)"
   },
   {
     "id": "chunk_238",
     "title": "Hide Selected",
-    "body": "Press the H key to hide the selected parts"
+    "body": "Press the H key to hide the selected parts"
   },
   {
     "id": "chunk_239",
     "title": "Show All (Shortcut)",
-    "body": "Press the J key to display all parts"
+    "body": "Press the J key to display all parts"
   },
   {
     "id": "chunk_240",
     "title": "Link (Shortcut)",
-    "body": "Press the L key to link selected items"
+    "body": "Press the L key to link selected items"
   },
   {
     "id": "chunk_241",
     "title": "Categorie Materials",
-    "body": "Press the M key to switch to material mode"
+    "body": "Press the M key to switch to material mode"
   },
   {
     "id": "chunk_242",
     "title": "Explosion",
-    "body": "Press the O key to activate the exploded view of your construction"
+    "body": "Press the O key to activate the exploded view of your construction"
   },
   {
     "id": "chunk_243",
     "title": "Function Measure",
-    "body": "Press the R key to activate the tape measure function"
+    "body": "Press the R key to activate the tape measure function"
   },
   {
     "id": "chunk_244",
     "title": "Show separator",
-    "body": "Press the S key to hide the separators"
+    "body": "Press the S key to hide the separators"
   },
   {
     "id": "chunk_245",
     "title": "Solid Mode (Shortcut)",
-    "body": "Press the T key to activate or deactivate the transparency (solid) mode"
+    "body": "Press the T key to activate or deactivate the transparency (solid) mode"
   },
   {
     "id": "chunk_246",
     "title": "Volume selection mode",
-    "body": "Press the V key to activate the volume selection mode"
+    "body": "Press the V key to activate the volume selection mode"
   },
   {
     "id": "chunk_247",
     "title": "Export Tuning (Shortcut)",
-    "body": "Press the X key to open Export Tuning"
+    "body": "Press the X key to open Export Tuning"
   },
   {
     "id": "chunk_248",
     "title": "Duplicate selected base",
-    "body": "Press Alt + C to duplicate the selected volume"
+    "body": "Press Alt + C to duplicate the selected volume"
   },
   {
     "id": "chunk_249",
     "title": "Delete selected item",
-    "body": "Press the Del key to delete the selected item"
+    "body": "Press the Del key to delete the selected item"
   },
   {
     "id": "chunk_250",
     "title": "Subtractive selection method (Shortcut)",
-    "body": "Press Alt + left mouse button to deselect individual items"
+    "body": "Press Alt + left mouse button to deselect individual items"
   },
   {
     "id": "chunk_251",
     "title": "Additive selection method (Shortcut)",
-    "body": "Press Ctrl + left mouse button to select individual parts"
+    "body": "Press Ctrl + left mouse button to select individual parts"
   },
   {
     "id": "chunk_252",
     "title": "Frame (Shortcut)",
-    "body": "Press Shift + left mouse button to drag a selection frame around items"
+    "body": "Press Shift + left mouse button to drag a selection frame around items"
   },
   {
     "id": "chunk_253",
     "title": "Change view",
-    "body": "Press Ctrl + keys 1 to 9 to change the view to the selected item. The different numbers correspond to predefined views such as isometric 45°, front view, left view, top view, right view, rear view and bottom view"
+    "body": "Press Ctrl + keys 1 to 9 to change the view to the selected item. The different numbers correspond to predefined views such as isometric 45°, front view, left view, top view, right view, rear view and bottom view"
   },
   {
     "id": "chunk_254",
     "title": "Wireframe",
-    "body": "Press Ctrl + Alt + W to activate or deactivate Wireframe mode"
+    "body": "Press Ctrl + Alt + W to activate or deactivate Wireframe mode"
   },
   {
     "id": "chunk_255",
     "title": "Invert selection (Shortcut)",
-    "body": "Press Ctrl + I to invert the selection of items"
+    "body": "Press Ctrl + I to invert the selection of items"
   },
   {
     "id": "chunk_256",
     "title": "Open file",
-    "body": "Press Ctrl + O to open a project"
+    "body": "Press Ctrl + O to open a project"
   },
   {
     "id": "chunk_257",
     "title": "Print",
-    "body": "Press Ctrl + P to open the print view"
+    "body": "Press Ctrl + P to open the print view"
   },
   {
     "id": "chunk_258",
     "title": "Save File",
-    "body": "Press Ctrl + S to save your project"
+    "body": "Press Ctrl + S to save your project"
   },
   {
     "id": "chunk_259",
     "title": "New File",
-    "body": "Press Ctrl + N to open a new file"
+    "body": "Press Ctrl + N to open a new file"
   }
 ]
