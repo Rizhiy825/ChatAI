@@ -1,0 +1,8 @@
+When using Traverses/cross beams in your build, panels that you want to go underneath the cross beam will be placed with a setback. That is not always wanted, here is how you prevent that.
+In this example the cross beam was placed flush in the top part of the design.
+If a Horizontal Panel is dragged in underneath the traverse it has a setback equivalent to the thickness of the traverse.
+To prevent this from happening you need to use a Horizontal Separator вЂ“ and you need to place it first, before the cross beam.
+Drag the Horizontal Separator into your carcass, and position it in a distance equivalent to the traverse width. 
+Now drag in your Frontal Traverse, select either Only Top or Only Bottom from the Type section to get a singular beam and adjust size if necessary.
+Every Horizontal Panel dragged in underneath the traverse now will be using the whole volume inside the carcass.
+Hint: This will work with Horizontal Traverses and Vertical Separators accordingly.

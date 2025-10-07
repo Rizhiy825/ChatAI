@@ -1,0 +1,1 @@
+In the base settings window of a corner slanted base you can enter back width, left width, front depth and right depth. The opening angle will be calculated and added automatically by SmartWOP

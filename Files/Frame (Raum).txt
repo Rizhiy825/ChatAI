@@ -1,0 +1,1 @@
+In room mode, use the Frame tool to select multiple room elements; only those completely inside the frame are selected

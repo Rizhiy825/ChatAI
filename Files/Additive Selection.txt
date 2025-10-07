@@ -1,0 +1,1 @@
+Activate Additive Selection to select multiple items or volumes. You can perform the same action by holding the Ctrl key while clicking items

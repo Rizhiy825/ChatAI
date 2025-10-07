@@ -1,0 +1,1 @@
+Drag carcass connectors onto surfaces where two panels lie against each other. Specify number or maximum spacing, distances and column distances, adjust holes for the first and second panel, and select a fitting profile to add them to the material list

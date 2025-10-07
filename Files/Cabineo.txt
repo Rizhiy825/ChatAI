@@ -1,0 +1,1 @@
+Drag a Rastex or Cabineo connector onto a joint between vertical and horizontal panels. Specify number or maximum spacing, distances, housing hole machining (including optional second and third holes), pocket for cover caps, housing side, bolt machining and connection area. Select a fitting profile to add the connector to the material list

@@ -1,0 +1,1 @@
+Activate room edit mode via the room start bar to customise the room. Select a room edge, corner or side (marked red or blue) and adjust it using the X/Y/Z coordinate system. Edges and corners can be extended or shortened; sides can be moved. While in edit mode, room elements cannot be selected

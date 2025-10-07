@@ -1,0 +1,1 @@
+Activate Hide ceiling to hide ceiling surfaces (including sloping roofs). Click again to show them

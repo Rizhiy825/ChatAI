@@ -1,0 +1,1 @@
+SmartWOP provides predefined room types that serve as templates for quickly planning a room. You can customise these room types individually

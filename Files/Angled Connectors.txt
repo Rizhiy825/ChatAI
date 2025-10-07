@@ -1,0 +1,1 @@
+Drag an angled connector onto the joint edge between panels positioned at any angle. Specify number or maximum spacing, distances, housing hole parameters, housing side, bolt parameters and connection area. Select a fitting profile to add them to the material list

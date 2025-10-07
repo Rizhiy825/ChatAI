@@ -1,0 +1,1 @@
+Specify manufacturers and suppliers for fittings so you can filter the fittings list. Selected manufacturers or suppliers are highlighted in blue; left‑click to select or deselect them

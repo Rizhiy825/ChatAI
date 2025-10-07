@@ -1,0 +1,5 @@
+Get a Base Volume вЂ“ SmartWOP construction is based on volumes, so for you to start working on your own design you need a Base
+Base volumes can be found in the Items tab (Hotkey: E). For this guide we will use a regular base. Drag the volume into your work area on screen.
+When you have dragged the base into the work area a window with its properties will open. Here you can name the Base, which is important, because every program and list item will be named accordingly.
+Here you have to define the dimensions of the base вЂ“ you can change them at any time and everything you have constructed inside the base will adjust accordingly.
+Once you are happy with your dimensions. Click on the Export section of the base template. Especially when you are just starting to use SmartWOP you need to set this up the way you prefer to work on your CNC center.

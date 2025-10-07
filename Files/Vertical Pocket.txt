@@ -1,0 +1,1 @@
+Drag a vertical pocket onto an item’s surface to mill a pocket. Specify start coordinates (X and Y), length, width, radius, angle, depth, plunging depth and tool overlap (0% for contour only, 80% to clear out pocket). Choose processing side and assign a tool via the export drop‑down menu

@@ -1,0 +1,1 @@
+Select Machining to switch to edit mode, where you can add machining operations to items

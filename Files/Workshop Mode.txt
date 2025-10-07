@@ -1,0 +1,1 @@
+Workshop mode freezes item numbering so numbers stay fixed for production. Only changed items are renumbered when modifications are made. Switching back to office mode recalculates all item numbers. Projects saved in workshop mode reopen in workshop mode

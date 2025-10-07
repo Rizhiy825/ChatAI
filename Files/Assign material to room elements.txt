@@ -1,0 +1,1 @@
+Switch to material mode to assign materials to floors, ceilings and walls. Only materials created for those surfaces can be assigned; floor/ceiling materials cannot be used for walls and vice versa. You do not need to be in edit mode to assign materials

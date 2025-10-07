@@ -1,0 +1,1 @@
+Create a custom rail fitting by entering supplier and article number, angle and icon. Choose whether the rail is simple or a self‑defined profile, import your own profile, and specify width, height and radius. Additional information can be added. Switch to machining mode to add drilling patterns, then confirm via the drop‑down menu

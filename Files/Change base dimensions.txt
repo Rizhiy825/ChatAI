@@ -1,0 +1,1 @@
+Double‑click the base whose dimensions you want to change. Each side will display a corresponding arrow which you can drag with the left mouse button to change the base dimensions. Alternatively, use the input fields at the arrows or dimension lines to enter the desired dimensions

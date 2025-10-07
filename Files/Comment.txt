@@ -1,0 +1,1 @@
+Activate Comment to add comments to specific items or volumes. Click an item to attach a comment identified by the item name, then enter your text. You can move comments by dragging them. Comments remain until deleted and can be shown or hidden in the View task

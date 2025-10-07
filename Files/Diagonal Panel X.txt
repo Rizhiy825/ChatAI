@@ -1,0 +1,1 @@
+Drag the diagonal panel X into the base and position it using arrows or by entering dimensions. In the settings window you will find more settings to optimise your panel, such as name, absolute left and right positions, angle (‑89° to 89°), setback, safety clearance, thickness, adjustable panel dimensions, and pick point

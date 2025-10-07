@@ -1,0 +1,7 @@
+Depending on your building style you might need to change how the back panel is installed in your design. Here is how you can insert a thick rebated back panel.
+This is the Back Panel Template.
+It allows you to change its basic values such as Thickness and Setback. It is important to know, that a setback of 20 mm and a Back Panel of 8 mm means the actual Setback is 12 mm.
+Overlap determines how far into your carcass panels the back panel will insert.
+Back Panel Rebating is most helpful for thicker back panels. Front and Back will determine the distances highlighted below.
+Air Gap Width determines a gap around the rebate for easier installation.
+Unselecting Machine on CNC prevents SmartWOP from writing a program for the back panel. If it is selected however, you will need to determine a Tool Number in the dropdown menu which you can use with a Custom Feedrate too.

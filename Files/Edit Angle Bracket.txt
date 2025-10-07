@@ -1,0 +1,1 @@
+Edit a custom angle bracket by changing the icon, supplier and article number and adding additional information. Switch to machining mode to define the drilling pattern; the angle fitting is visualised only after machining is added. Confirm via the orange arrow

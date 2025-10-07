@@ -1,0 +1,1 @@
+Use Hide Selection to hide selected items so you can better work on internal parts. Show them again before exporting; only visible items are considered

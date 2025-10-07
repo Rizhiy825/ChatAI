@@ -1,0 +1,1 @@
+To insert a drawer system, select a drawer front and drag a drawer fitting onto it. In the template window specify supplier and article number, bottom indent, space bottom indent, panel generation options, default depth, depth extension, material, limit space height, space height, accessories and additional information

@@ -1,0 +1,1 @@
+To create a horizontal room edge, select two horizontal room edges, split them and link the resulting corners. Linking is used to create continuous horizontal edges

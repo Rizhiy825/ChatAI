@@ -1,0 +1,1 @@
+Use Mirror to create a mirrored copy of a base volume with its items. Select an item in the volume or the entire volume, click the arrow under Duplicate and choose the mirror option. Individual items cannot be mirrored

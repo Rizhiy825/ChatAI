@@ -1,0 +1,1 @@
+Use the drop‑down menu in the fittings selection bar to create your own fitting. Open the menu, choose the type of fitting, give it a name and set parameters. When finished, confirm the fitting by clicking the orange tick in the drop‑down menu

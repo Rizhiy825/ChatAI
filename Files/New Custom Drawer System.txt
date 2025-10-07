@@ -1,0 +1,1 @@
+When creating a custom drawer system fitting you can choose an icon, supplier and article number, specify bottom indent, set panel generation parameters, default depth and material, define rail width and limit distance to bottom, and set additional information. Switch to machining mode to add or remove drilling patterns, then confirm the fitting

@@ -1,0 +1,1 @@
+Activate activate snapping to set a minimum movement step for items. Enter the minimum distance in millimetres in the field below

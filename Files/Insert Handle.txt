@@ -1,0 +1,1 @@
+To insert a handle, select a door or drawer front and drag a handle onto it. In the template window specify the supplier and article number, horizontal and vertical distances, angle, alignments, absolute position and additional information

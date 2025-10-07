@@ -1,0 +1,1 @@
+Free machining operations allow you to machine individual items without using the WOP interface later. Drag a free machining operation onto an item; operations are assigned to that item

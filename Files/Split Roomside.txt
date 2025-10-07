@@ -1,0 +1,1 @@
+Select a room side (marked blue) and click Split Roomside to divide it. A new room edge is automatically created in the middle; select it and move it via the coordinate system or input fields. Ceiling and floor cannot be split; sides can be divided multiple times

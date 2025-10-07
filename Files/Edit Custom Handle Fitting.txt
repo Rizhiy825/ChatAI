@@ -1,0 +1,1 @@
+When editing a custom handle fitting you can adjust the icon, supplier, article number and handle style, import a profile or handle, reposition and rotate the handle, change horizontal and vertical distances and alignment, adjust absolute position and add information. Switch to edit mode to change machining, then confirm changes via the orange arrow

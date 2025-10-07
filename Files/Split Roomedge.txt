@@ -1,0 +1,1 @@
+In room mode, select a room edge (marked red) and click Split Roomedge to divide it. A new room corner is created and the edge splits in the middle; move the new corner using the input fields. Upright edges cannot be split and edges can be divided multiple times

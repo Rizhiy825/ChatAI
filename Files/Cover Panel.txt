@@ -1,0 +1,1 @@
+The cover panel can only be placed outside the base. Drag the cover panel onto the base and use the settings window to optimise it. You can enter a name, thickness, individual panel positions, choose whether the panel is on the exterior or interior side and set a pick point

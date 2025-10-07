@@ -1,0 +1,1 @@
+Use the Duplicate button to make a copy of a material. Duplicates open automatically for editing so you can adjust them without changing the original

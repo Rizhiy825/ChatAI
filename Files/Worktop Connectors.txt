@@ -1,0 +1,1 @@
+Drag worktop connectors onto the joint between two worktops that butt at the edges. Specify number or maximum spacing, distances, housing hole parameters and distance between panels, housing side, slot depth, whether to machine a butt joint (choose joint parameters and tool), and select a fitting profile to add them to the material list

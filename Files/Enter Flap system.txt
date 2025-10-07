@@ -1,0 +1,1 @@
+To add a flap fitting, select a door and drag the flap fitting onto it. In the template you can configure the overlay situation using the configuration UI, choose the application and accessories, and specify additional information

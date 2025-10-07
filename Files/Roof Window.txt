@@ -1,0 +1,1 @@
+In the base settings window of a roof window you can enter several settings: window width, window height, window depth, total installation depth, material thickness, roof angle, left angle and right angle. You can also enter the desired frame dimensions (depth and width) for the window and wall connection

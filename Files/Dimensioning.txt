@@ -1,0 +1,1 @@
+Use Dimensioning to create permanent dimension lines. Activate the button, select a start point and drag to an end point; you can move the dimension display by dragging it. Dimensions remain until you delete them using the delete function

@@ -1,0 +1,1 @@
+Edit a drawer fitting by adjusting the icon, supplier and article number, bottom indent, panel generation settings, default depth, material, rail width, distance limits and additional information. Switch to edit mode to modify machining patterns and confirm changes via the orange arrow

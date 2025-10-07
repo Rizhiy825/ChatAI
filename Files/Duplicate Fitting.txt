@@ -1,0 +1,1 @@
+Use the duplicate option in the fitting selection bar to copy an existing fitting and customise it. Select the fitting, click the duplicate button in the drop‑down menu and adjust the copy; confirm changes using the orange arrow

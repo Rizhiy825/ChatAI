@@ -1,0 +1,1 @@
+Drag a WoodWOP component onto an item to insert a complex machining. Specify the path to the component, start coordinates (X, Y, Z), processing side, swap axes, condition and whether the component is embedded in the exported CNC file. You can also edit component parameters via the drop‑down menu

@@ -1,0 +1,1 @@
+Activate Magnet to enable automatic magnet points when moving objects. Enter in the field below the distance from which a workpiece should be attracted to a magnet location

@@ -1,0 +1,1 @@
+Office mode renumbers items throughout your design during planning. The numbering can change if you add or edit items later, so avoid exporting items until the design is finished. Projects saved in office mode reopen in office mode

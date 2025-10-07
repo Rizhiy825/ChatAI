@@ -1,0 +1,1 @@
+In room mode, activate Additive selection method to select multiple room elements at once. The same function can be performed by holding the Ctrl key while clicking

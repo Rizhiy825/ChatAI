@@ -1,0 +1,1 @@
+To rename a custom or duplicated fitting, open the fitting selection menu, select the fitting, activate edit mode and click the rename button. Only self‑defined or duplicated fittings can be renamed

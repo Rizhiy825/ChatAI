@@ -1,0 +1,1 @@
+Use Duplicate to copy a complete base volume along with its items. Select an item in the volume or the entire volume, then click Duplicate. It is not possible to duplicate single items
