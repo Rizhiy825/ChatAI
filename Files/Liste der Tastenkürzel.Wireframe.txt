@@ -1,0 +1,3 @@
++
++
+Press the Ctrl, Alt and W keys to activate or deactivate the Wireframe mode.

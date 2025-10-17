@@ -1,0 +1,20 @@
+Drag the diagonal separator Y in the base.
+You can drag the separator by arrows in the right place or enter the desired dimensions for the separator.
+In the settings window you will find more settings to optimize your separator.
+Absolute Front Position:
+Determine the space of the front side of your separator to the base outline.
+Absolute Back Position:
+Determine the space of the back side of your separator to the base outline.
+Angle:
+Enter the desired angle for your separator. You can enter an angle of-89° to 89°.
+Safety clearance:
+Enter a safety clearance to determine how much space you want to have between other diagonal separators.
+
+Absolute Front Position:
+Determine the space of the front side of your separator to the base outline.
+Absolute Back Position:
+Determine the space of the back side of your separator to the base outline.
+Angle:
+Enter the desired angle for your separator. You can enter an angle of-89° to 89°.
+Safety clearance:
+Enter a safety clearance to determine how much space you want to have between other diagonal separators.

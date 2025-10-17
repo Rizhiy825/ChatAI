@@ -1,1 +1,0 @@
-Drag the universal panel into the base. Position it by arrows or by entering the desired dimensions. In the settings window you will find more settings to optimise your panel, including the centre position in X/Y/Z, rotation in X/Y/Z, thickness, orientation, skewed edges and pick point

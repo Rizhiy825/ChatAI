@@ -1,0 +1,2 @@
+As last step you will have to select the path for the export of the Export WOP for each machine in File-Options-Directories individually.
+The path for the Export WOP must be different for each machine, otherwise the NC programs cannot be exported.

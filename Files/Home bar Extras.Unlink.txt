@@ -1,0 +1,3 @@
+The button only becomes active when you select a workpiece that you can unlink.
+You can only detach workpieces if they have already been linked.
+Select the workpiece to be unlinked and click the button to unlink the linked panel.

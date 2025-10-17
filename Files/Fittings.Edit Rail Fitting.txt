@@ -1,0 +1,31 @@
+Supplier:
+Indicate the supplier of the fitting.
+Select an already created supplier via the drop-down selection.
+Click on the X symbol in the line to delete the supplier entered in the line from your list.
+Article.:
+Enter the item number of the rail.
+Angle:
+Specify the angle at which the rail is to be applied.
+Icon:
+Click on the dots in the line to open the selection menu.
+Select an image stored on your computer for the icon of the fitting.
+Rail Style:
+Select whether the rail is to be created as a simple rail or as a self-defined profile.
+Import Profile:
+Define your own rail profile in the editor and import it into SmartWOP.
+Width:
+Specify the width of the rail.
+Height:
+Specify the height of the rail.
+Radius:
+Specify the radius of the rail.
+Additional Info:
+Specify additional information that you want to automatically assign to the fitting.
+
+Switch to machining mode while machining the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your machining by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+
+Switch to machining mode while machining the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your machining by clicking on the orange arrow in the drop-down menu of the fitting selection bar.

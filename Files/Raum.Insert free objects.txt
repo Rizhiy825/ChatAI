@@ -1,0 +1,8 @@
+SmartWOP offers you the possibility to draw free 3-D objects into your design and visualise them in your project.
+Use the button at the bottom right of the screen to switch to the free objects.
+Select the desired 3-D object and drag it into the scene.
+Drag the free 3-D object to the desired location using the coordinate cross or move the element to the desired location by entering the distance dimensions in the input fields.
+As long as the overlapping of elements is not allowed in the start command bar, 3-D objects on components or spatial components will be trapped when dragged across the coordinate cross.
+If you move free objects to the desired position via dimension lines, they can be intersected via room walls/ceilings and building components.
+Free objects are only used for visualisation and have no effect on the output CNC-programs and material lists.
+3-D elements cannot be adjusted in dimensions.

@@ -1,0 +1,27 @@
+Drag the adjustable shelves in the base.
+You can drag the adjustable shelves by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Name
+: Enter a name for your Panel.
+Skewed Edges
+: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Count
+: Enter how much panels you need. SmartWOP will split the space between the panels automatically identical in the base volume.
+Top Distance
+: Enter the desired space of the outer upper baseline to the upper adjustable shelves.
+Bottom Distance
+: Enter the desired space of the outer lower baseline to the lower adjustable shelves.
+Panel Position
+: Open the dropdown menu to enter the desired space individually for every shelves to the lower base volume.
+Distance
+: The distance between the adjustable shelves will be shown in this input box.
+Thickness
+: Enter the thickness of the shelves.
+Setback
+: Enter how far the shelves should receive a setback from each open side that is not restricted by an item or separator.
+The retraction is applied to each edge of the shelves that are not limited by an item or separator.
+Air Gap
+: Enter the desired space of the adjustable shelves to the left and right corpus panels.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.

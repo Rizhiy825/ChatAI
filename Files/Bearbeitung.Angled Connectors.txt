@@ -1,0 +1,27 @@
+As long as single-sided machining is not activated, you can only pull on the angled connectors when two panels abut against each other.
+The angle at which the items are positioned in relation to each other is irrelevant for inserting the angle connector.
+Pull the angle connector onto the joint edge that is to receive the connection.
+You will find further settings for optimisation in the template window. Drag the angle connector onto the joint edge that is to receive the joint.your machining.
+
+Count:
+Enter the required amount of angled connectors.
+Step Max.:
+Specify the maximum distance between the angle connectors.
+You have the option of either specifying the number of angle connectors or specifying a maximum step at which the angle connectors should be spaced.
+To do this, click on the symbol on the far right of the line.
+Distances:
+Specify the distances of the first and/or last angle connector in mm.
+Click on the symbol on the right-hand side of the line to set the distances between the angle connectors, either to a fixed value in mm or divided into the spaces.
+Housing Hole:
+In the drop-down menu, you have the option of customising the machining of the housing.
+Housing Side:
+Tick the box to change the housing opening side.
+Bolts:
+You can specify the desired values for machining the bolts in the drop-down menu.
+Take into account that the machining of the bolt may protrude over a workpiece.
+Connection Area:
+SmartWOP shows you the connection area of the currently selected connection.
+Fitting:
+Select a prefabricated fitting (Angled Connectors) for the connectors to add them to the material list.
+The machining of the connectors is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.
+If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.

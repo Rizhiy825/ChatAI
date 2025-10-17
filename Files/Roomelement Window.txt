@@ -1,1 +1,0 @@
-Drag a window onto a room wall to add it. Position it using the coordinate system. In the template specify width, height, X and Z positions, add and adjust a frame, and specify muntin width and thickness

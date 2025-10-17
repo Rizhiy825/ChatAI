@@ -1,0 +1,2 @@
+Activate the button to select several items or volumes.
+You have the option of using the same function by left-clicking with the Ctrl key.

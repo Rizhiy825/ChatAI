@@ -1,0 +1,36 @@
+Icon:
+Click on the dots in the line to open the selection menu.
+Select an image stored on your computer for the icon of the fitting.
+Supplier:
+Indicate the supplier of the fitting.
+Select an already created supplier via the drop-down selection.
+Click on the X symbol in the line to delete the supplier entered in the line from your list.
+Article:
+Enter the item number of the drawer system.
+Space Bottom Indent:
+Enter the lower distance of the frame to the calculating base.
+Panel Generation:
+In the drop-down menu of the workpiece setting you have further settings to output the drawer interior parts to fit the fitting.
+Default Depth:
+Specify the standard depth of the drawer system.
+Material:
+Specify the material from which the drawer interiors are to be made.
+Use the arrow on the right of the line to select a material from your material database.
+Rail Width:
+Specify the installation clearance of the fitting.
+The installation clearance is calculated from each side.
+Limit Distance to Bottom:
+Check the box if you want to limit your frame height from the center of the pull-out.
+Distance to Bottom:
+Specify how deep the frame should run from the center of the pull-out.
+Remember that if you want to determine the distance to bottom via the limit, the space bottom indent should be set to 0.
+Additional Info:
+Specify additional information that you want to automatically assign to the fitting.
+
+Switch to machining mode while machining the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your machining using the orange arrow in the drop-down menu of the fitting selection bar.
+
+Switch to machining mode while machining the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your machining using the orange arrow in the drop-down menu of the fitting selection bar.

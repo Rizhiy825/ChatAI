@@ -1,0 +1,2 @@
++
+Press the Ctrl and P keys to open the print view.

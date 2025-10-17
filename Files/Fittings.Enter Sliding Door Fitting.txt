@@ -1,0 +1,17 @@
+To fit a sliding door system into your construction, you need a sliding door on which you can mount the fitting.
+Select the sliding door fitting and pull it into your construction.
+In the template window, you have the option of making adjustments to the fitting.
+
+Supplier:
+Indicate the supplier of the fitting.
+Select an already created supplier via the drop-down selection.
+Click on the X symbol in the line to delete the supplier entered in the line from your list.
+Article:
+Enter the article number of the fitting.
+Distance:
+Specify the distance from the center of the sliding door carriage to the outer edge of the sliding door.
+The distance of the sliding door carriage machining is taken from the center of the cup bore.
+Accessories:
+In the drop-down menu, SmartWOP shows you which accessories are required for the retracted sliding door system.
+Additional Info:
+Specify additional information that you want to automatically assign to the fitting.

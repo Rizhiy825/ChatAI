@@ -1,0 +1,2 @@
+Select and move is the control mode automatically used by SmartWOP.
+This button is active until you activate another button, such as 'Rotation'.

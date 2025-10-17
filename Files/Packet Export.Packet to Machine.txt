@@ -1,0 +1,6 @@
+If the project is completed you will have to export via File-Export-Machine-Packet to Machine.
+The NC-programs will be saved in the path which you entered in the Directories.
+In the drop-down-menu of Packet to Machine, can be selected if you also want to export the materialist and the drawings for the project.
+The materialist and the drawings will be exported once.
+The materialist includes all list for the different machines automatically.
+If you export with the packet export a window will appear, in which you will have to choose the path for saving the materialist and the drawings.

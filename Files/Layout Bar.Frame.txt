@@ -1,0 +1,2 @@
+Select the 'Frame' button to select several or all items at once.
+Only items that are completely within the frame are selected.

@@ -1,0 +1,41 @@
+Icon:
+Click on the dots in the line to open the selection menu.
+Select an image stored on your computer for the icon of the fitting.
+Supplier:
+Specify the supplier of the fitting.
+Select an already created supplier via the dropdown selection.
+Delete the supplier entered in the line from your list by clicking on the X symbol in the line.
+Article:
+Enter the article number of the handle.
+Type:
+Use the arrow on the right of the line to select whether the self-defined handle is a standard handle or a profile handle.
+Import profile:
+Define your own handle profile in the editor and import it to SmartWOP.
+Import:
+You have the possibility to import already ready defined standard handles as .VRML file.
+Position:
+Open the drop-down menu to position the .VRML imported fittings.
+Position:
+Open the drop-down menu to move the imported fitting in X/Y/Z axis.
+Rotate:
+Open the drop-down menu to rotate the imported fitting in X/Y/Z axis.
+Horizontal Distance:
+SmartWOP shows you how large the horizontal distance of the handle to the outer edge of the workpiece is.
+Vertical Distance:
+SmartWOP shows you how large the vertical distance of the handle to the outer edge of the workpiece is.
+Horizontal Align:
+SmartWOP shows you how the handle is aligned when you create it, in the horizontal position..
+Vertical Align:
+SmartWOP shows you how the handle is aligned when you create it, in the vertical position.
+Absolute Position:
+SmartWOP shows you the absolute position of the handle when creating the fitting.
+Additional Info:
+Specify additional information that you want to assign to the fitting automatically.
+
+Switch to machining mode while creating the fitting to add or remove machining to the fitting.
+When you have added the appropriate hole pattern to the fitting, switch back to the fitting mode.
+Confirm your self-defined fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+
+Switch to machining mode while creating the fitting to add or remove machining to the fitting.
+When you have added the appropriate hole pattern to the fitting, switch back to the fitting mode.
+Confirm your self-defined fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.

@@ -1,1 +1,0 @@
-Use Show Separators to toggle the visibility of all separators. Hiding separators makes selecting interior items easier; click again to show them

@@ -1,0 +1,5 @@
+Click the button to get an explosion view.
+In the explosion view, items are displayed numbered.
+Indicate the distances of the items in the explosion in X/Y/Z.
+Move the fronts in the explosion in X/Z to the desired dimension.
+Activate the Show Connections button to display a line between the connected items in the explosion.

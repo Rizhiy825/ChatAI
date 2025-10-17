@@ -1,0 +1,26 @@
+As long as single-sided machining is not activated, you can only mount the carcass connector if two panels are positioned with their surfaces against each other.
+Pull the carcass connector onto the surface that is to receive the connection.
+In the template window you will find further settings to optimise your machining.
+
+Count:
+Enter the required amount of connectors.
+Step Max.:
+Specify the maximum distance between the connectors.
+You have the option of either specifying the count of connectors or specifying a maximum step at which the connectors should be spaced.
+To do this, click on the symbol on the far right of the line.
+Distances:
+Specify the distances of the first and/or last connector in mm.
+Click on the symbol on the right-hand side of the line to set the distances between the connectors, either to a fixed value in mm or divided into the gaps.
+Column Distances:
+Specify the distances of the first and/or last connector in mm.
+Click on the symbol on the right-hand side of the line to set the distances between the connectors, either to a fixed value in mm or divided into the gaps.
+Panel 1:
+In the drop-down menu, you have the option of adjusting the holes in the cabinet joints for the first panel.
+Panel 2:
+In the drop-down menu, you have the option of adjusting the holes in the cabinet joints for the second panel.
+Connection Area:
+SmartWOP shows you the connection area of the currently selected connection.
+Fitting:
+Select a prefabricated accessory (connector) for the connection to add it to the material list.
+The machining of the worktop connectors is related to the fitting profiles, so the machining is automatically added when the accessory is selected.
+If you have not yet created any accessory profiles, enter the suppliers and article numbers so that these can be included in the material list.

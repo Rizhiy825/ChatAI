@@ -1,0 +1,5 @@
+The tape measure allows you to measure distances between the selected points.
+Activate the button to activate the measuring tape.
+Select a starting point and drag a dimension line to the desired measuring point.
+If the measuring points are on different axes, the measurement is additionally output in X/Y/Z.
+The display of the measurements is temporary and is automatically hidden when a starting point is selected again.

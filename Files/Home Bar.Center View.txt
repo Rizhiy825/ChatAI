@@ -1,0 +1,1 @@
+Click the button to center the view on the selected item or volume.

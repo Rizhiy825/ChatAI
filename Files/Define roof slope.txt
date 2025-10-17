@@ -1,1 +1,0 @@
-To define a roof slope, select two opposite horizontal room edges, divide them and link the new corners to create a new horizontal edge. Select the new edge and move it using the coordinate system or input fields. Roof slopes can be divided and linked as required

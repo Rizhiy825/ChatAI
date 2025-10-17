@@ -1,0 +1,2 @@
+In SmartWOP, you can use keyboard shortcuts to perform functions more quickly.
+The respective shortcut key is displayed in SmartWOP next to the function.

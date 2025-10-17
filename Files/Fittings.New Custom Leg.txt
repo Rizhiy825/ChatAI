@@ -1,0 +1,40 @@
+Supplier:
+Indicate the supplier of the fitting.
+Select an already created supplier via the drop-down selection.
+Click on the X symbol in the line to delete the supplier entered in the line from your list.
+Article.:
+Enter the item number of the drawer system.
+Icon:
+Click on the dots in the line to open the selection menu.
+Select an image stored on your computer for the icon of the fitting.
+Import:
+You have the option of importing already defined legs as a .VRML file.
+Fittings imported as a .VRML file already contain the fitting's drilling pattern.
+Positioning:
+Open the drop-down menu to position the .VRML imported fittings.
+Position:
+Open the drop-down menu to move the imported fitting in X/Y/Z axis.
+Rotation:
+Open the drop-down menu to rotate the imported fitting in X/Y/Z axis.
+The length and the width are determined by the .VRML file and are only displayed after the import.
+Length:
+Enter the length of the leg.
+Width:
+Enter the width of the foot.
+Cylindric:
+Set the hook when the foot is Cylindrical.
+Remove the hook if the foot is rectangular.
+Minimal Height:
+Specify the minimum height of the foot.
+Maximal Height:
+Specify the maximum height of the foot.
+Additional Information:
+Specify additional information that you want to automatically assign to the fitting.
+
+Switch to edit mode while creating the fitting to add or remove edits to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your custom fitting by clicking on the orange tick in the drop-down menu of the fitting selection bar.
+
+Switch to edit mode while creating the fitting to add or remove edits to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your custom fitting by clicking on the orange tick in the drop-down menu of the fitting selection bar.

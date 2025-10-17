@@ -1,0 +1,30 @@
+The vertical milling can be applied to the surface of any item.
+The milling is only applied to one item at a time.
+Drag the milling onto an item.
+In the template window you will find further settings to optimise your machining.
+
+Tool Number:
+Specify the tool you want to use for contour milling.
+Start Z:
+Specify the starting point of the contour in Z.
+Machining Side:
+In the drop-down menu, select the side of the contour on which the mill should run.
+Offset:
+Specify a distance between the routing and the contour.
+Approach Mode:
+In the drop-down menu, select how the milling tool should approach the workpiece.
+Withdrawal Mode:
+In the drop-down menu, select how the milling tool should extend from the workpiece.
+Top Side/ bottom Side:
+Tick the box if you want to change the processing side of the item.
+Contour Name:
+Give your milling contour a name.
+In the drop-down menu, you have the option of specifying contour points to customise your milling contour.
+Contour Point 1:
+SmartWOP specifies that the first contour point is the starting point of the milling contour.
+In the drop-down menu, you have the option of defining the starting point of the routing X1/Y1.
+Contour Point 2-X:
+In the drop-down menu, select how the contour should be continued to the next contour point.
+In the drop-down menu, you have the option of defining the next contour point of the routing in X/Y.
+To add another contour point, click on the orange plus sign on the right-hand side of the line.
+To remove a contour point, click on the light blue cross on the right-hand side of the line.

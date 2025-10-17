@@ -1,0 +1,40 @@
+As long as single-sided machining is not activated, you can only bring the system holes into your construction if you have two opposite sides.
+Pull the system holes between two vertical panels.
+In the template window you will find further settings to optimise your machining.
+
+Count:
+Enter the desired count of the system holes.
+Max Length:
+Specify the maximum distance between the system holes.
+You have the option of either specifying the cout of the system holes or specifying a maximum step at which the system holes should be spaced.
+To do this, click on the symbol on the far right of the line.
+Front/Back Distances:
+Specify the distances of the system holes.
+Bore:
+In the bore drop-down menu, you have the option of customising the machining for the system holes.
+If you make changes to the hole without being in administrator mode, a new profile is created for the system hole machining.
+Machining Side:
+In the drop-down menu, you have the option of moving the machining to the desired side.
+Bottom/Top Distance:
+Specify the distances between the system holes from the top and bottom.
+Row Alignment:
+In the drop-down menu, you have the option of adjusting the alignment of the system holes.
+Groups:
+In the drop-down menu, you have the option of activating group drillings for the system holes.
+Specify the number of drillings, the number of groups and the distances between the groups from the top and bottom.
+Link to adjustable shelves:
+Select Link to adjustable shelves in the drop-down menu for the groups to determine the distances between the groups based on the adjustable shelves.
+Support extension:
+Select fitting bores or a WoodWOP component under machining type to add a drilling for the underside of the adjustable shelf, corresponding to the system holes.
+Define the machining for the pin of the shelf.
+Deactivate the machining type if no drillings are to be added to the underside of the adjustable shelf.
+Fitting:
+Select a prefabricated fitting (shelf support) for the row of holes to add it to the material list.
+The machining of the underside of the bottom is related to the accessory profiles, so that the holes in the underside of the bottom are automatically added when the accessory is selected.
+If you have not yet created any fitting profiles, enter the supplier and the article number of the shelf support so that these can be included in the material list.
+Profile:
+Profiles can only be customised if you are in administrator mode.
+If you are not in administrator mode, a new profile is always created when changes are made for the machining.
+As soon as a new profile is to be created automatically, SmartWOP will ask you whether you would like to create a new profile.
+Profiles must be deleted individually from the profile list if they are no longer required.
+The drilling patterns are saved within the profiles so that you do not have to adapt the drill holes for every situation, but simply select them via the profile.

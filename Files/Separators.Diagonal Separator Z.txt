@@ -1,0 +1,20 @@
+Drag the diagonal separator Z in the base.
+You can drag the separator by arrows in the right place or enter the desired dimensions for the separator.
+In the settings window you will find more settings to optimize your separator.
+Absolute Left Position:
+Determine the space of the front side of your separator to the base outline. The arrow in the right side of the row allows you to switch between front and back base outside line.
+Absolute Right Position:
+Determine the space of the back side of your separator to the base outline. The arrow in the right side of the row allows you to switch between front and back base outside line.
+Angle:
+Enter the desired angle for your separator. You can enter an angle of-89° to 89°.
+Orientation:
+Determine the orientation of the diagonal separator Z. This can be helpful to bring the separator in the desired position.
+
+Absolute Left Position:
+Determine the space of the front side of your separator to the base outline. The arrow in the right side of the row allows you to switch between front and back base outside line.
+Absolute Right Position:
+Determine the space of the back side of your separator to the base outline. The arrow in the right side of the row allows you to switch between front and back base outside line.
+Angle:
+Enter the desired angle for your separator. You can enter an angle of-89° to 89°.
+Orientation:
+Determine the orientation of the diagonal separator Z. This can be helpful to bring the separator in the desired position.

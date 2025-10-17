@@ -1,0 +1,24 @@
+You need a room on which you can raise room elements.
+Drag the window to one side of the room to add it to the room.
+After opening the window, you can drag it to the desired position on the room wall using the coordinate system.
+The template window of the room elements does not open until it has been drawn onto the room.
+In the template window you have the option of customising the window.
+
+Width:
+Specify the width of the window.
+Height:
+Specify the height of the window.
+Position X:
+Specify the position of the window, in X-axis of the room side.
+The coordinate system in the construction shows you from which direction the position X is taken.
+You also have the option of entering the position X directly in the dimension line in the drawing.
+Position Z:
+Specify the position of the window, in Z-axis of the room side.
+The coordinate system in the construction shows you from which direction the position Z is taken.
+You also have the option of entering the position Z directly in the dimension line in the drawing.
+Frame:
+In the drop-down menu you have the option of adding a frame to the window and adjusting it.
+Mounting Width:
+Geben Sie die Breite der Fenstersprossen an.
+Mountig Thickness:
+Geben Sie die dicke der Fenstersprossen an.

@@ -1,0 +1,1 @@
+Activate the button to open the price list in a separate window.

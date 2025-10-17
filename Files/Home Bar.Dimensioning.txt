@@ -1,0 +1,6 @@
+The dimensioning allows permanent dimensioning of the distances.
+Click on the button to activate the dimensioning.
+Select a starting point and drag a dimension line to the desired measuring point.
+You have the option of moving the dimension display by selecting a dimension and dragging it to the desired position with the mouse button held down.
+Dimensions are permanent and can only be deleted using the delete function (Del)..
+In the View-task, you have the option of showing and hiding dimensions.

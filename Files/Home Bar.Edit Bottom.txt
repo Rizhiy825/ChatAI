@@ -1,0 +1,2 @@
+Select an item and activate the button to insert machining via WoodWOP, on the Bottom Side.
+The side to be machined is marked with a yellow arrow.

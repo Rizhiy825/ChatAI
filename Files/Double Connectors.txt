@@ -1,1 +1,0 @@
-Drag double connectors onto the joint edge between panels that butt together. Specify number or maximum spacing, distances, housing hole parameters (including side), bolt parameters and connection area. Select a fitting profile to add to the material list

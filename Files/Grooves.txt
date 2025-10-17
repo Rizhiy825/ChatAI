@@ -1,1 +1,0 @@
-Drag a groove onto an item’s surface. Specify start and end coordinates in X and Y (with axes changeable via arrows), depth, prescoring depth (if needed), groove width, insert mode, saw mode, machining side, processing side and tool for export

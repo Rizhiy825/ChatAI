@@ -1,0 +1,4 @@
+You have the option of deleting folders or elements from your gallery by clicking on the icon.
+Select the folder or item from your gallery by clicking on it with the left mouse button.
+If you delete an item from your gallery, it will also be deleted from your computer.
+Deleted items are moved to your computer's recycle bin.

@@ -1,0 +1,9 @@
+Eine bestehende Komponente kann auch nachträglich verändert werden.
+Hierzu muss die entsprechende Komponente aus der Galerie mit Doppelklick aufgerufen werden.
+Alle Bauteile so wie auch Bearbeitungen sind frei anwählbar.
+Die Komponente kann mit weiteren Elementen, Bearbeitungen, Materialien oder Beschlägen ergänzt werden.
+Nach dem die Komponente abgeändert wurde,kann diese im Anschluss einfach, über das Diskettten-Symbol, gespeichert werden.
+Über Speichern wird die bestehende Komponente überschrieben.
+Sie muss nicht wieder als Komponente gespeichert werden.
+Wenn die geänderte Komponente als neue Komponente mit neuem Namen hinzugefügt werden soll, muss diese über Komponente – Speichern unter gespeichert werden.
+So lassen sich immer wiederkehrende umfangreiche Konstruktionen als variable SmartWOP Komponenten erstellen und archivieren.

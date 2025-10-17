@@ -1,0 +1,2 @@
+Select a disc and click the button to display the selected board in the WOP environment.
+The preview function in the panel planner is only available when nesting is active.

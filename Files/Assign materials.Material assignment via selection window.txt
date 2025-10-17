@@ -1,0 +1,7 @@
+If you have selected one or more items in material mode, you have the option of applying a new material to the surfaces of the selected items.
+Select the material you want to add to your selected items from the material database.
+Select the surfaces via the selection window to change the material.
+Panels
+Select the materialpanel you want to add to your selected items.
+If the item with a certain thickness is used in the construction, a panel material with a different thickness is not automatically added.
+Confirm the assignment of the material using the orange tick in the material.

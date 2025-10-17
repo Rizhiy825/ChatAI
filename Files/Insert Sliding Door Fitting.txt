@@ -1,1 +1,0 @@
-To insert a sliding door fitting, select a sliding door and drag the fitting onto it. In the template specify supplier and article number, offset from the centre of the carriage machining to the door edge, and select necessary parts for the sliding door system. You can also add additional information

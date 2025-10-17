@@ -1,1 +1,0 @@
-SmartWOP allows you to define your own handle profiles in a text file. Define contour points in X and Y coordinates (starting at 0/0) to describe the profile; the line must be closed. The length of the handle is not specified, as it follows the length of the workpiece

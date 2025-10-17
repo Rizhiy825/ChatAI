@@ -1,0 +1,15 @@
+There are various displays in the panel planner that simplify the cutting and further processing of the items.
+Comments:
+All processing steps are displayed with a comment, numbered consecutively.
+The programme name is displayed directly above the plate in the plate planner as soon as nested.
+Board Dimensions:
+SmartWOP shows you the raw dimensions of the panel used for nesting or cutting on a blue background.
+SmartWOP shows you the real dimensions required for nesting or cutting on a green background.
+Continuous line:
+The continuous line that can be found in each item marks the front edge of the item.
+Dashed line:
+The dashed line in each item marks the lower edge of the item.
+Triangle symbol with slant:
+The triangle symbol with the bevelled edge indicates that the item will be pushed to the workstation in the next processing step (not turned).
+Triangle symbol with arc:
+The triangle symbol with the arc indicates that the item must be turned and placed at the workstation in the next processing step.

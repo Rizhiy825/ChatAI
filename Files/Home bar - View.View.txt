@@ -1,0 +1,2 @@
+In the submenu of the button, you have the option of displaying the workpiece or the volume from a predetermined view.
+Press the button to see the selected workpiece in the desired view. If no workpiece is selected, the entire volume is placed in the scene in the desired view.

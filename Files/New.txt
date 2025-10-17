@@ -1,1 +1,0 @@
-Use the New button in the Home Bar to start a completely new SmartWOP project in an empty scene

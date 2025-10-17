@@ -1,0 +1,2 @@
+Activate the button to check the project for collisions of the machining.
+If there are collisions, they are marked in red.

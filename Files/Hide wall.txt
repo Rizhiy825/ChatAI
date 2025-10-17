@@ -1,1 +1,0 @@
-Select one or more walls in room mode and click Hide wall to hide them. Hidden walls can be shown again at any time

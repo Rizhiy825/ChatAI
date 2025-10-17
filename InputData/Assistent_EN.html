@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+   <title>Menu1</title>
+   <link rel="stylesheet" href="../style.css">
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta http-equiv="cache-control" content="no-cache" />
+   <script src="../scripts.js"></script>
+</head>
+
+<body>
+   <div>
+      <div id="myModal" class="modal">
+         <span class="close">&times;</span>
+         <img class="modal-content" id="img01">
+         <div id="caption"></div>
+      </div>
+
+      <h1>Assistant</h1>
+      <div class="content" id="object1">
+         <div class="content-header">
+            <h2>preface</h2>
+         </div>
+            <p>
+                SmartWOP offers the possibility to teach the assistant to save templates for designing different construction methods and to use them automatically when designing.
+            </p>
+    </div>
+    <div class="content" id="object2">
+         <div class="content-header">
+            <h2>Structure</h2>
+         </div>
+            <p>
+                In order to use a assistant, you must first create a basic construction from which you take into account the name, the joint processing, the edge assignment and the settings of the export tuning of the components to be used in the assistant.<br>
+                Once you have created a basic design, you can teach the assistant. As long as an assistant is activated, the preset points will be applied in your design.
+            </p>
+    </div>
+    <div class="content" id="object3">
+         <div class="content-header">
+            <h2>Basic Construction for the Assistant</h2>
+            <img id="myImg" src="images\Assistant_EN\BasicAssistant.png">
+         </div>
+         <div class="content-text">
+            <p>
+                To teach an assistant, you need a design in which you apply the names, machining, edge assignments and export tuning settings of the parts to be used in the assistant.<br>
+                You have the option of either creating a design just for the assistant or using an existing design for teaching the assistant.<br>
+                Consider any type of construction you want to teach the assistant.<br>
+                The assistant detects, for example, whether a top panel is placed in between two sides or passing through.<br>
+                The assistant saves a setting for each component and each joint, but the decisive factor is how the components are positioned in relation to each other and which joints have been used.<br>
+                Basically, the assistant can always be taught further, so that you can add new connection points to the assistant.<br>
+                If names, machining, edge assignment and settings are already stored for parts or joints in Export Tuning, these will be overwritten when the assistant is taught if other information is available in the new volume to be taught.<br>
+                Fittings and free machining are not saved in the assistant.
+            </p>
+         </div>
+    </div>
+    <div class="content" id="object4">
+         <div class="content-header">
+            <h2>Add new Assistant</h2>
+            <img id="myImg" src="images\Assistant_EN\NewAssistant.png">
+         </div>
+         <div class="content-text">
+            <p>
+                Select the assistant in the lower right menu selection to open the assistant menu.<br>
+                Click the icon to add a new assistant.<br>
+                Give the assistant the desired name.
+            </p>
+         </div>
+    </div>
+    <div class="content" id="object5">
+         <div class="content-header">
+            <h2>Rename Assistant</h2>
+            <img id="myImg" src="images\Assistant_EN\RenameAssistant.png">
+         </div>
+         <div class="content-text">
+            <p>
+                Select the assistant you want to rename in the assistant list. The selected assistant will be highlighted in gray.<br>
+                Click the rename icon in the upper action bar.
+            </p>
+         </div>
+    </div>
+    <div class="content" id="object6">
+         <div class="content-header">
+            <h2>Delete Assistant</h2>
+            <img id="myImg" src="images\Assistant_EN\DeleteAssistant.png">
+         </div>
+         <div class="content-text">
+            <p>
+                Select the assistant that you want to delete.<br>
+                The selected assistant will be highlighted in gray. Click the icon to delete the selected assistant.
+            </p>
+         </div>
+    </div>
+    <div class="content" id="object7">
+        <div class="content-header">
+           <h2>Learn Assistant</h2>
+           <img id="myImg" src="images\Assistant_EN\LearnAssisstant.png">
+        </div>
+        <div class="content-text">
+           <p>
+                Select the assistant in the lower right menu selection to open the assistant menu.<br>
+                Select the volume you want to use as a template for your assistant<br>
+                The selected volume will be highlighted in blue.<br>
+                Click on the icon for teaching the assistant.<br>
+                When you teach the assistant, it saves the part names, the machining of the applied corner joints, the edge assignment of the parts and the settings you assigned to the parts in Export Tuning.<br>
+                The saved information, can be viewed in the drop-down menu of the assistants.<br>
+                If you have already trained the assistant, SmartWOP will always ask you if you want to overwrite the presets already stored in the assistant. <br>
+                Information is overwritten only if it is already stored in the assistant for a component included in the design.<br>
+                If the same names, machining, edge assignments or export tuning settings were used in the design, these settings will not be changed in the assistant.<br>
+                If new items or joints are used in the design, they are added to the selected assistant when learning the assistant.
+           </p>
+        </div>
+    </div>
+    <div class="content" id="object8">
+        <div class="content-header">
+            <h2>Information in the Assistant</h2>
+            <img id="myImg" src="images\Assistant_EN\InfoInAssistant.png">
+        </div>
+        <div class="content-text">
+            <p>
+                When you open the drop-down menu of the assistant, you will have the possibility to view the information savedd in the assistant.<br>
+                <b>Application Scope:</b> In the menu item of the application scope, you can see what information is applied when using the assistant<br>
+                If there is a 1 behind the description, this application is active in the assistant, if there is a 0 in the line, it is disabled.<br>
+                The line where the assistant is listed also shows which application area is active.<br>
+                M indicates machining, N indicates naming, E indicates edge assignment, and X indicates export tuning settings.<br>
+                If the marked letters are outlined in orange, they are active, if they are outlined in black, they are deactivated.<br>
+                Clicking on the respective letter activates or deactivates the application in the assistant.<br>
+                <b>Machining:</b> In the menu item of machining, you can see which machining joints have been added.<br>
+                The connection joints are listed in each case with the position and type of positioning of the individual items.<br>
+                When further opening the drop-down arrows, you have the possibility to see under which joint dimensions the assistants have been trained and which joint machining is added.<br>
+                <b>Panel Names:</b> In the menu item of the panel names, the used elements are displayed with their respective position.<br>
+                The panel names are displayed in the same line for the listed elements.<br>
+                <b>Edges:</b> In the menu item of the edges all possible itmes of the construction are listed.<br>
+                When you open the drop-down arrows further, SmartWOP shows you which edge thickness is stored for which item in the assistant.<br>
+                <b>Export Tuning:</b> In the Export Tuning menu item, the components used in the assistant are listed with their position.<br>
+                If you open the drop-down arrows of the individual components, you have the possibility to view which settings of the export tuning are stored in the assistant.
+            </p>
+        </div>
+    </div>
+        <div class="content" id="object9">
+        <div class="content-header">
+            <h2>Apply Assistant</h2>
+            <img id="myImg" src="images\Assistant_EN\ApplyAssisstant.png">
+        </div>
+        <div class="content-text">
+            <p>
+                SmartWOP offers you the possibility to apply the settings stored in the assistant to your design afterwards.<br>
+                To apply an assistant to your design after designing, select the desired assistant.<br>
+                The selected assistant will be highlighted in gray.<br>
+                Click the icon to apply the assistant to the construction located in the scene.
+            </p>
+        </div>
+    </div>
+    <div class="content" id="object10">
+        <div class="content-header">
+            <h2>Activate Assistant</h2>
+            <img id="myImg" src="images\Assistant_EN\ActivateAssisstant.png">
+        </div>
+        <div class="content-text">
+            <p>
+                To activate the assistant during design and apply the information activated in the assistant directly when designing your piece of furniture, activate one of the two buttons.<br>
+                As long as the assistant is activated, the buttons are highlighted in blue.<br>
+                The selected assistant is applied until the assistant is deactivated again via the button.<br>
+                If, while using the assistant, you notice that parts are not taken into account by the assistant, add the desired name, machining, edge assignment and export tuning setting to these parts and relearn the assistant.<br>
+                This way you can teach the assistant more and more and perfect it for your desired use.
+            </p>
+        </div>
+    </div>
+
+</body>

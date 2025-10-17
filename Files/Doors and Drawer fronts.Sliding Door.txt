@@ -1,0 +1,51 @@
+Pull the sliding door into the volume.
+In the template window you will find further options for optimizing your workpiece.
+Name:
+Give the workpiece a name.
+Count:
+Enter the number of sliding doors required, SmartWOP will automatically distribute the number of workpieces evenly over the volume body.
+Thickness:
+Enter the thickness of the workpiece.
+Layout:
+To change the layout, open the submenu in the template window and remove the tick at Double Rails if the sliding doors are to run on one rail.
+Door Offset:
+Enter the desired door offset.
+Overlay:
+To change the overlay, open the submenu in the template window and enter for each side whether there should be an overlay on the carcass.
+Overlap:
+GSpecify how far the sliding doors should overlap each other.
+First Door on first Rail:
+You can determine which door should run on the first rail by placing a tick.
+Gap:
+To change the gaps, open the submenu in the template window and enter the gap dimension for each side.
+Distance:
+Specify whether and how much to move the front/fitting outwards to the front.
+Chamfer:
+Place a hook if you want to mitre the outer edges of the front with the carcass.
+Pick Point:
+When inserting a component or separating a workpiece with WoodWOP, you can use the "Pick point" to define which side is to be retained as the workpiece after machining.
+
+Name:
+Give the workpiece a name.
+Count:
+Enter the number of sliding doors required, SmartWOP will automatically distribute the number of workpieces evenly over the volume body.
+Thickness:
+Enter the thickness of the workpiece.
+Layout:
+To change the layout, open the submenu in the template window and remove the tick at Double Rails if the sliding doors are to run on one rail.
+Door Offset:
+Enter the desired door offset.
+Overlay:
+To change the overlay, open the submenu in the template window and enter for each side whether there should be an overlay on the carcass.
+Overlap:
+GSpecify how far the sliding doors should overlap each other.
+First Door on first Rail:
+You can determine which door should run on the first rail by placing a tick.
+Gap:
+To change the gaps, open the submenu in the template window and enter the gap dimension for each side.
+Distance:
+Specify whether and how much to move the front/fitting outwards to the front.
+Chamfer:
+Place a hook if you want to mitre the outer edges of the front with the carcass.
+Pick Point:
+When inserting a component or separating a workpiece with WoodWOP, you can use the "Pick point" to define which side is to be retained as the workpiece after machining.

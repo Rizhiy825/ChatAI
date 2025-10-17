@@ -1,1 +1,0 @@
-Click Show All to display all items in the scene. Ensure all items are shown before exporting

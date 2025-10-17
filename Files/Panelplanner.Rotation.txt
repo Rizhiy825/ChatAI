@@ -1,0 +1,6 @@
+You can rotate workpieces.
+Click on the arrow under the button.
+Select the number of degrees by which you want to rotate the workpiece.
+Activate the button and select the workpiece to be rotated.
+You can rotate the volume around the desired axis by holding down the mouse button.
+Clicking the button again deactivates the rotation.

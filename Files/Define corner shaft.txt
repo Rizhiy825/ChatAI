@@ -1,1 +1,0 @@
-To define a corner shaft, switch to room mode and divide two adjacent room sides. Define the shaft’s outer dimensions using the distances between the divided edges, then select the corner edge and drag it into the room. Align the shaft precisely by entering dimensions in the input fields

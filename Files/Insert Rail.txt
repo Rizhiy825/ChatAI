@@ -1,1 +1,0 @@
-To insert a rail fitting, select a workpiece and drag the rail onto it. In the template you can specify supplier and article number, positions on the X and Y axes (switching axes via arrow), rotation angle, extensions left and right (including pockets for recessed grips) and additional information

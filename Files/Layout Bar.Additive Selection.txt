@@ -1,0 +1,2 @@
+Select the '+' button to select multiple items or volumes.
+You have the option of using the same function by left-clicking with the Ctrl key.

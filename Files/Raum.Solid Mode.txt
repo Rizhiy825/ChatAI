@@ -1,0 +1,4 @@
+When you switch to room mode, the room start bar button appears in the top selection bar.
+Select the button to move from the transparency mode to the material mode.
+In the submenu of the button, we have the option of switching contour trains on and off in material mode.
+To return to transparency mode, click the button again.

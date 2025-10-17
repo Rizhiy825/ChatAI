@@ -1,0 +1,15 @@
+In the drop-down menu above the machining, you can directly select the connection areas to which you want to add machining.
+Connection areas that are selected via the drop-down menu are highlighted in red in the scene.
+
+No connection area:
+Select no connection area to drag and drop your connection machining onto your items manually.
+All connection areas:
+Select all connection areas to add the same machining to all joints.
+All Surfaces:
+Select all surfaces to add the same machining to all surface connections.
+Individual connection areas:
+Each connection area is listed in the drop-down menu. Select the connection area to be machined.
+
+Connection areas to which machining has already been added, but where there are other connection areas with the same dimensions in your design, are highlighted in red in the drop-down menu.
+Connection areas to which machining has already been added and there are no other connection areas with the same dimensions in your design are marked grey in the drop-down menu.
+Once you have selected the connection area, you can add or delete machining using the two drilling machines to the right of the drop-down menu.

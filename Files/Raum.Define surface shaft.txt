@@ -1,0 +1,11 @@
+When you switch to room mode, the room start bar button appears in the top selection bar.
+Select a room side in your construction.
+The selected room side is marked blue.
+Click on the button to split the room side.
+When dividing the room side, a new room edge is automatically created.
+Select the same room side again and divide it for each room edge to be determined.
+Define the outer dimensions of the shaft using the distances of the outer partitioned room edges.
+Now select the corner edges and bring them into the desired position.
+You have the option of moving the newly separated room sides in the desired direction by selecting them or defining them using the input fields attached to the coordinate cross.
+You also have the option of splitting the wall that is to receive the shaft twice and selecting the newly separated side of the room that is now in the middle, entering the setback of the shaft in the coordinate cross, holding down the CTRL key on the keyboard and confirming your measurement with Enter.
+Two new room edges are automatically created and the shaft jumps in the direction by the dimension you have entered in the coordinate cross.

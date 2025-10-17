@@ -1,0 +1,25 @@
+The WoodWOP component can be applied to any item.
+The WoodWOP component is only ever applied to one item.
+Drag the WoodWOP component onto an item.
+In the template window you will find further settings to optimise your machining.
+
+Path:
+Select the WoodWOP component in the line on the right, the name of the component is displayed in the line.
+Start X:
+Specify the starting point of the WoodWOP component on the X-axis.
+Start Y:
+Specify the starting point of the WoodWOP component on the Y-axis.
+You have the option of changing the axis for determining the start points using the arrows on the right-hand side of the lines.
+The axis is displayed for orientation in the scene.
+Start Z:
+Specify the starting point of the WoodWOP component on the Z-axis.
+Top Side/ bottom Side:
+Tick the box if you want to change the processing side of the component.
+Turn Axes:
+Tick the box to swap the X and Y axes.
+Condition:
+Give the component a condition.
+Embedded:
+Tick the box if the WoodWOP component is to be embedded in the exported CNC-file.
+Parameter:
+In the drop-down menu, you have the option of machining the parameters of your component.

@@ -1,0 +1,4 @@
+SmartWOP offers you the possibility to apply the settings stored in the assistant to your design afterwards.
+To apply an assistant to your design after designing, select the desired assistant.
+The selected assistant will be highlighted in gray.
+Click the icon to apply the assistant to the construction located in the scene.

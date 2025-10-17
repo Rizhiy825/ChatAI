@@ -1,0 +1,4 @@
+In the drop-down menu of the upper fitting selection bar, you can create fittings yourself.
+Open the drop-down menu by clicking on the arrow of the upper fitting selection bar and click on the first button.
+Now select the type of fitting you want to create.
+Give your custom fitting a name.

@@ -1,0 +1,4 @@
+You have the option of creating folders in your gallery by clicking on the icon.
+If you create a new folder in your SmartWOP gallery, it will be created in the selected path and folder.
+New folders that you create in your SmartWOP gallery are also automatically created in the selected folder on your computer.
+Folders, like individual elements, can be moved within the gallery using drag and drop.

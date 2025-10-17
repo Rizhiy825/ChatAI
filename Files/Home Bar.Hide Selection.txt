@@ -1,0 +1,4 @@
+Select the button to hide selected items.
+If you hide individual items, you have the option of better selecting internal items.
+Before exporting your construction, remember to display all items..
+Only the items that are in the scene are taken into account when exporting.

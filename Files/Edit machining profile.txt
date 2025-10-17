@@ -1,1 +1,0 @@
-Machining profiles let you save recurring machining tasks. To edit profiles with a lock you must activate administrator mode via File → Options → General. Without admin mode, a new profile is created whenever parameters change. Profiles with a lock can only be deleted in admin mode

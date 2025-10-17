@@ -1,0 +1,4 @@
+In the drop-down menu of the upper fitting selection bar, you can edit fittings.
+Select a self-defined or duplicated fitting and machine it.
+Click on the pencil button of the drop-down menu to edit the selected fitting.
+You can only machine fittings if you have created or duplicated them yourself.

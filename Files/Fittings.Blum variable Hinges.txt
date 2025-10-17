@@ -1,0 +1,43 @@
+To add a hinge to your construction, you need a door that you can put the hinges on.
+Blum's combined hinge fittings lists provide you with flexible and quick choices to match the hinge to your construction.
+The icons show you for which overlay situation, the individual data banks can be used.
+The different applications are divided into standard application, wide angle hinges and profile door application, each for inside and outside hinges.
+When using the variable Blum hinges data base, the pot hole spacing is taken into account and automatically adjusted when the fittings are pulled in, depending on the joint dimensions.
+
+Count:
+Specify the number of pot bands.
+Step (max.):
+Specify a dimension at which distances the pot bands should be located at maximum.
+You have the option of either specifying the number of pot bands or setting a maximum step at which the pot bands should be spaced.
+To do this, click on the icon on the far right in the line.
+Top Distance:
+Specify the desired distance of the upper pot band.
+Bottom Distance:
+Specify the desired distance of the lower pot band.
+Positions:
+In the dropdown menu you have the possibility to determine the positions of the individual pot bands.
+Configuration UI:
+In the UI configurator, you have the option of specifying an individual name for the fitting in the CSV material list.
+Call the name Template Editor via the pencil icon on the right side of the bar.
+Select the information stored in the template editor with a double left mouse click to add the selected information to the fitting in the CSV material list.
+Configuration:
+In the drop-down menu, you have the option of specifying settings for the fitting and inserting the cup hinge and the mounting plate directly via the filter function to suit the fitting.
+To activate the configurator, click on the filter icon in the "Hinge" line.
+If the configuration has been set in such a way that there is no possible combination for the cup hinge or mounting plate, the hinge or mounting plate is not output when the fitting is pulled in..
+The fitting information entered in the configurator is processed directly by SmartWOP and the matching cup hinge and mounting plate are selected directly in the "Accessories" field and used directly when inserting the fitting.
+Accessories:
+In the drop-down menu you have the possibility to select the hinge and mounting plate of the fitting.
+Hinge:
+Use the drop-down selection on the right of the line to select the hinge.
+Activate the filter function to consider the information set in the configurator for the selection of the hinge and mounting plate.
+Deactivate the filter function to specify the selection of the hinge and mounting plate itself.
+Mounting Plate:
+Use the drop-down selection on the right of the line to select the mounting plate.
+Alignment:
+Select on which side the hinge is to be attached.
+Bind outer to Shelf Bores:
+Tick the box to orient the upper and lower hinge, for mounting plate machining, directly to the system hole..
+The outer hinges are set on the next possible system hole line machining, the positions are assigned to the fitting.
+Bound inner to Shelf Bores:
+Tick the box to let the middle hinges, for the mounting plate machining, orient directly to the system hole line.
+The middle hinges are set on the next possible system hole line machining, the positions are aligned to the fitting.

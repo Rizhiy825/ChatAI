@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Manu1</title>
+    <link rel="stylesheet" href="../style.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="cache-control" content="no-cache" />
+    <script src="../scripts.js"></script>
+</head>
+
+
+<body>
+    <div id="content1">
+        <h1>Panelplanner</h1>
+        <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content" id="img01">
+            <div id="caption"></div>
+        </div>
+        <div class="content" id="object1">
+            <img src="images\Plattenplanner_EN\Homebar.jpg">
+        </div>
+        <div class="content" id="object2">
+            <div class="content-header">
+            <h2>Select and move</h2>
+            <img id="myImg" src="images\Plattenplanner_EN\Move.jpg">
+            </div>
+            <div class="content-text">
+            <p>
+                The button is active by default for selecting and moving workpieces.
+            </p>
+            </div>
+        </div>
+        <div class="content" id="object3">
+            <div class="content-header">
+                <h2>Additive selection method</h2>
+                <img id="myImg" src="images\Plattenplanner_EN\Add.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    Activate the button to select multiple items.<br>
+                    You have the option of using the same function with a Ctrl left-click.
+                </p>
+            </div>
+
+        </div>
+        <div class="content" id="object4">
+            <div class="content-header">            
+                <h2>Subtractive selection method</h2>
+                <img id="myImg" src="images\Plattenplanner_EN\Subtract.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    Activate the button to deselect items.<br>
+                    You have the option of using the same function by Alt left-clicking.
+                </p>
+            </div>
+
+        </div>
+        <div class="content" id="object5">
+            <div class="content-header">
+                <h2>Frame</h2>
+                <img id="myImg" src="images\Plattenplanner_EN\Frame.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    Select the button to select several or all items at the same time.<br>
+                    Only items that are completely within the frame are selected.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object6">
+            <div class="content-header">
+                <h2>Invert selection</h2>
+            </div>
+                <p>
+                    Click the button to select all unselected items and deselect the selected ones.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object7">
+            <div class="content-header">
+                <h2>Rotation</h2>
+                <img id="myImg" src="images\Plattenplanner_EN\Rotate.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    You can rotate workpieces.<br>
+                    Click on the arrow under the button.<br>
+                    Select the number of degrees by which you want to rotate the workpiece.<br>
+                    Activate the button and select the workpiece to be rotated.<br>
+                    You can rotate the volume around the desired axis by holding down the mouse button.<br>
+                    Clicking the button again deactivates the rotation.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object8">
+            <div class="content-header">
+                <h2>Solid Mode</h2>
+                <img id="myImg" src="images\Plattenplanner_EN\Solid.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    Select the button to switch from transparency mode to material mode.<br>
+                    In the submenu of the button, you have the option of switching contouring on and off in material mode.<br>
+                    To return to transparency mode, click on the button again.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object9">
+            <div class="content-header">
+                <h2>Outer width</h2>
+            </div>
+                <p>
+                    Specify how much the panel should be trimmed from the outer edge of the panel to the workpiece.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object10">
+            <div class="content-header">
+                <h2>Inner width</h2>
+            </div>
+                <p>
+                    Specify how much distance between the workpieces should be taken into account during nesting.<br>
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object11">
+            <div class="content-header">
+                <h2>Cutting width</h2>
+            </div>
+                <p>
+                    Enter the saw blade thickness of your machine.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object12">
+            <div class="content-header">
+                <h2>Recalculate all</h2>
+                <img id="myImg" src="images\Plattenplanner_EN\Recalculate.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    Click the button to recalculate the cutting plan.<br>
+                    All workpieces are automatically repositioned and manual optimisation is lost.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object13">
+            <div class="content-header">
+                <h2>Selection to Machine</h2>
+            </div>
+                <p>
+                    Click the button to export the selected workpieces to the machine.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object14">
+            <div class="content-header">
+                <h2>All to Machine</h2>
+            </div>
+                <p>
+                    Click the button to export all visible workpieces to the machine as a nesting program.<br>
+                    The function to export all items in the panel planner is only available if nesting is active.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object15">
+            <div class="content-header">
+                <h2>Preview</h2>
+                <img id="myImg" src="images\Plattenplanner_EN\Preview.jpg">
+            </div>
+                <p>
+                    Select a disc and click the button to display the selected board in the WOP environment.<br>
+                    The preview function in the panel planner is only available when nesting is active.
+                </p>
+        </div>
+        <div class="content" id="object16">
+            <div class="content-header">
+                <h2>Area</h2>
+            </div>
+                <p>
+                    Select the button to activate the automatic catching of workpieces.<br>
+                    Specify the area from which the workpieces are to be catched.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object17">
+            <div class="content-header">
+                <h2>Placement</h2>
+            </div>    
+            <p>
+                SmartWOP offers you the option of selecting the corner from which the items are to be orientated on the panel.<br>
+                Click on the respective icon to recalculate the items from the selected panel corner.
+            </p>
+        </div>
+        <div class="content" id="object18">
+            <div class="content-header">
+                <h2>Center view</h2>
+            </div>      
+            <p>
+                Click the button to centre the view on the cutting plan.<br>
+                Select a workpiece and click the button to centre the view on the selected workpiece.
+            </p>
+        </div>
+        <div class="content" id="object19">
+            <div class="content-header">
+                <h2>Overview Panel Planner</h2>
+                <img id="myImg" src="images\Plattenplanner_EN\Overview.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    Click on the arrow to the left of the panel name to open the cutting plan for this material.<br>
+                    <b>Name/Description:</b>SmartWOP shows you the component designations of the individual workpieces in the panel planner overview.<br>
+                    The panel thickness used is shown in brackets next to the material name.<br>
+                    <b>Number:</b> SmartWOP shows you the component number of the individual workpieces in the panel planner overview.<br>
+                    The item numbers are also displayed on the item in the panel itself.<br>
+                    <b>Result Length/Width:</b>SmartWOP shows you the finished dimensions of the individual workpieces in the panel planner overview.<br>
+                    <b>Amount:</b>SmartWOP shows you the quantity of the individual workpieces in the overview of the panel planner.<br>
+                    You can select and mark workpieces by clicking on them in the overview.<br>
+                    The panel dimensions displayed depend on the stored panel dimensions of the material.<br>
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object20">
+            <div class="content-header">
+                <h2>Panel planner Template</h2>
+                <img id="myImg" src="images\Plattenplanner_EN\Template.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    Select a panel in the panel planner to call up the template window.<br>
+                    <b>Name:</b>SmartWOP shows you the name of the material used.<br>
+                    <b>Type:</b>SmartWOP shows you the type of material used.<br>
+                    <b>Panel Name:</b>SmartWOP shows you the name of the used board.<br>
+                    <b>Length:</b>SmartWop offers you the option of modifying the panel dimensions of the panel to be used in order to utilise leftover panels and plan the cutting in these.<br>
+                    Change the length of the board.<br>
+                    When the panel dimensions are changed, a new panel is automatically created with the entered (changed) panel dimensions.<br>
+                    <b>Width:</b>SmartWop offers you the option of modifying the panel dimensions of the panel to be used in order to utilise leftover panels and plan the cutting in these.<br>
+                    Change the width of the panel.<br>
+                    When the panel dimensions are changed, a new panel is automatically created with the entered (changed) panel dimensions.<br>
+                   <b>Thickness:</b>SmartWOP shows you the thickness of the panel used.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object21">
+            <div class="content-header">
+                <h2>Panel planner display</h2>
+                <img id="myImg" src="images\Plattenplanner_EN\Display.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    There are various displays in the panel planner that simplify the cutting and further processing of the items.<br>
+                    <b>Comments:</b> All processing steps are displayed with a comment, numbered consecutively.<br>
+                    The programme name is displayed directly above the plate in the plate planner as soon as nested.
+                    <b>Board Dimensions:</b>SmartWOP shows you the raw dimensions of the panel used for nesting or cutting on a blue background.<br>
+                    SmartWOP shows you the real dimensions required for nesting or cutting on a green background.<br>
+                    <b>Continuous line:</b>The continuous line that can be found in each item marks the front edge of the item.<br>
+                    <b>Dashed line:</b>The dashed line in each item marks the lower edge of the item.<br>
+                    <b>Triangle symbol with slant:</b> The triangle symbol with the bevelled edge indicates that the item will be pushed to the workstation in the next processing step (not turned).<br>
+                    <b>Triangle symbol with arc:</b> The triangle symbol with the arc indicates that the item must be turned and placed at the workstation in the next processing step.<br>
+                </p>
+            </div>
+        </div>
+    </div>
+</body>

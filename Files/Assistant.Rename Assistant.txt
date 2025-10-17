@@ -1,0 +1,2 @@
+Select the assistant you want to rename in the assistant list. The selected assistant will be highlighted in gray.
+Click the rename icon in the upper action bar.

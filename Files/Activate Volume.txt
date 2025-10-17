@@ -1,1 +1,0 @@
-Use Activate Volume to restrict editing to a selected volume. After selecting a volume with the Volume button, click Activate Volume; the activated volume is outlined in green and operations outside it are disabled. Click again to release editing for other volumes

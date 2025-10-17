@@ -1,0 +1,24 @@
++
+bis
+Press the Ctrl and 1 to 9 keys to change the view to the selected item.
+Isometric 45°
++
+Front view
++
+Isometric 135°
++
+View left
++
+Top view
++
+View right
++
+Isometric 315°
++
+Rear view
++
+Isometric 225°
++
+Bottom view
++
++

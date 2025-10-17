@@ -1,6 +1,0 @@
-There may be cases where you donвЂ™t want to drill a hole in your panels but rather treat them as a small pockets and have them milled.
-In order to do this within SmartWOP follow this short guide.
-Go to File>Options>Workshop here you can find the new settings in the lower right corner.
-Now you need to enter the drill diameter in mm followed by => and the Tool Number you want to use for your pocket.
-Example: 10=>201;12=>201
-After you have saved your settings, restart SmartWOP and the diameters you have entered will now be treated as pockets.

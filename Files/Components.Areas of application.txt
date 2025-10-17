@@ -1,0 +1,5 @@
+SmartWOP components can only be created as rectangular constructions.
+Constructions with diagonal items such as back angled or slanted bases are not considered as SmartWOP components.
+Inserted components can be subsequently adapted and changed.
+On the one hand, adjustments to the components are made via entries in the properties window.
+On the other hand, a resolution of the components is possible, which can then be completely changed.

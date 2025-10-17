@@ -1,0 +1,22 @@
+To add a handle to your design, you need a door or drawer front that you can pull the handle onto.
+Select the desired handle and drag it into your construction.
+In the template window, you have the option of making adjustments to the fitting.
+
+Supplier:
+Specify the supplier of the fitting.
+Select an already created supplier via the drop-down selection.
+Click on the X symbol in the line to delete the supplier entered in the line from your list.
+Article:
+Enter the item number of the fitting.
+Horizontal Distance:
+SmartWOP shows you how large the horizontal distance of the handle to the outer edge of the handle is is.
+Vertical Distance:
+SmartWOP shows you what the vertical distance of the handle to the outer edge of the component is.
+Angle:
+Specify the angle at which the handle should be placed.
+Horizontal Align:
+Specify how the handle, in the horizontal, should be aligned.
+Vertical Align:
+Specify how the handle, in the vertical, should be aligned.
+Absolute Position:
+Under vertical alignment, select the base area and specify the absolute position of the handle from the base line.

@@ -1,0 +1,14 @@
+Drag one of the room types into the scene.
+In the template window, you have the option of customising your room.
+
+Name:
+Give the room a name.
+Height:
+Specify the height of the room.
+Width:
+Specify the width of the room.
+Depth:
+Specify the depth of the room.
+Transformation:
+Specify the position of the room in the scene.
+The position in X/Y/Z are measured from the centre of the room.

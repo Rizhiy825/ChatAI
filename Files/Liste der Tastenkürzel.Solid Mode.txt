@@ -1,0 +1,1 @@
+Press the T key to activate or deactivate the transparency mode.

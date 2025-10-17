@@ -1,0 +1,2 @@
+When you switch to room mode, the room start bar button appears in the top selection bar.
+Select a room page to delete the room from your construction.

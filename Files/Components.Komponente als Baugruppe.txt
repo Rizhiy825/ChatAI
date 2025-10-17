@@ -1,0 +1,5 @@
+Wenn die Bauteile einer Komponente in einem Grundvolumen zusammen berücksichtigt werden sollen, können die einzelnen Komponenten als Baugruppe definiert werden.
+Hierzu die Komponenten anwählen und im Eigenschaftenfenster im Untermenü Typ auf Baugruppe umstellen.
+ierbei kann frei entschieden werden ob die Komponente direkt bei der Erstellung, oder bei der Verwendung, als Volumen oder Baugruppe gespeichert wird.
+Eingezogene Komponenten können auch in der Konstruktion (ohne sie aufzulösen) nachträglich umgestellt werden.
+In der Stückliste werden die einzelnen Komponenten (Basis und Basis2) in einem Grundvolumen nun zusammen berücksichtigt.

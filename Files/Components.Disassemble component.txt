@@ -1,0 +1,7 @@
+A component can be disassembled in order to adapt or change items or the machining of an inserted component.
+A component can only be disassembled if no scaling or position locking is provided in the properties window.
+All distance values must be set to 0. All lock symbols must be open.
+Select the component you want to disassemble.
+If all distance values are set to 0 and no locking is active, the component can be disassembled.
+To do this, go to "Extras" - "Component" and click on the Dissolve button to disassemble the component.
+The component breaks down into individual items that can now be changed, removed or completely redesigned.

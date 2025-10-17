@@ -1,0 +1,4 @@
+Select the button to display selected items alone.
+If you show individual items, you have the option of machining or exporting these items separately.
+Before exporting your construction, think that you are showing all the items.
+Only the items that are in the scene are taken into account when exporting.

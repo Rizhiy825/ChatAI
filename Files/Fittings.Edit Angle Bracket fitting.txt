@@ -1,0 +1,23 @@
+Icon:
+Click on the dots in the line to open the selection menu.
+Select an image stored on your computer for the icon of the fitting.
+Supplier:
+Specify the supplier of the fitting.
+Select an already created supplier via the drop-down selection.
+Click on the X symbol in the line to delete the supplier entered in the line from your list.
+Article:
+Enter the article number of the angle.
+Additional Info:
+Specify additional information that you want to automatically assign to the fitting.
+
+Switch to machining mode while machining the fitting to add or remove machining to the fitting.
+The visualization of the angle fitting is only created once machining has been added to the fitting.
+The separators in the editing mode of the angle fitting help you to create the drilling pattern so that you can easily pull the angle bracket fitting into your construction.
+               When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your machining using the orange arrow in the drop-down menu of the fitting selection bar.
+
+Switch to machining mode while machining the fitting to add or remove machining to the fitting.
+The visualization of the angle fitting is only created once machining has been added to the fitting.
+The separators in the editing mode of the angle fitting help you to create the drilling pattern so that you can easily pull the angle bracket fitting into your construction.
+               When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your machining using the orange arrow in the drop-down menu of the fitting selection bar.

@@ -1,0 +1,5 @@
+Use the button at the bottom right of the screen to switch to the free objects.
+Create a new folder or open the folder where you want to add your newly added free object.
+Click the button to add a free object.
+Sketchup 3D elements can be added and are freely available for download from the Sketchup website (3D Warehouse).
+Select the Sketchup file from your folders and import it into the previously selected folder of free elements.

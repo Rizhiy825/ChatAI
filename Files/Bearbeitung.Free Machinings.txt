@@ -1,0 +1,2 @@
+Free machining enables the machining of individual items in SmartWOP so that items do not have to be edited in the WOP interface afterwards.
+Free machining operations are assigned to the item on which you drag this machining operation.

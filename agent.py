@@ -69,9 +69,9 @@ async def run_workflow(workflow_input: WorkflowInput):
   # Асинхронный поиск в векторном хранилище
   search_results = []
   async for result in client.vector_stores.search(
-      vector_store_id="vs_68e4fc9fa5948191a7b26eace8b8c7d9", 
+      vector_store_id="vs_68f2281d09848191b25ebf000599fd52", 
       query=workflow["input_as_text"], 
-      max_num_results=5
+      max_num_results=8
   ):
       search_results.append({
           "id": result.file_id,
@@ -84,7 +84,7 @@ async def run_workflow(workflow_input: WorkflowInput):
   
   # Формируем контекст из результатов
   context_parts = []
-  for i, res in enumerate(filesearch_result["results"][:6]):
+  for i, res in enumerate(filesearch_result["results"][:9]):
       if res.get("content"):
           context_parts.append(res["filename"])
           for content_item in res["content"][:2]:

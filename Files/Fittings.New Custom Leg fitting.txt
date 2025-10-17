@@ -1,0 +1,40 @@
+Supplier:
+Specify the supplier of the fitting.
+Select an already created supplier via the dropdown selection.
+Delete the supplier entered in the line from your list by clicking on the X symbol in the line.
+Article:
+Enter the article number of the leg.
+Icon:
+Click on the dots in the line to open the selection menu.
+Select an image stored on your computer for the icon of the fitting.
+Import:
+You have the possibility to import already defined feet as .VRML file.
+Fittings imported as .VRML file, already contain the fitting's drilling pattern.
+Position:
+Open the drop-down menu to position the .VRML imported fittings.
+Position:
+Open the drop-down menu to move the imported fitting in X/Y/Z axis.
+Rotation>:
+Open the drop-down menu to rotate the imported fitting in X/Y/Z axis.
+The length and the width are determined by the .VRML file and are only displayed after the import.
+Length:
+Enter the length of the leg.
+Width:
+Enter the width of the leg.
+Cylindric:
+Set the hook when the leg is Cylindrical.
+Remove the hook when the leg is rectangular.
+Minimal Height:
+Specify the minimum height of the leg.
+Maximal Height:
+Specify the maximum height of the leg.
+Additional Info:
+Specify additional information that you want to assign to the fitting automatically.
+
+Switch to machining mode while creating the fitting to add or remove machining to the fitting.
+When you have added the appropriate hole pattern to the fitting, switch back to the fitting mode.
+Confirm your self-defined fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar..
+
+Switch to machining mode while creating the fitting to add or remove machining to the fitting.
+When you have added the appropriate hole pattern to the fitting, switch back to the fitting mode.
+Confirm your self-defined fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar..

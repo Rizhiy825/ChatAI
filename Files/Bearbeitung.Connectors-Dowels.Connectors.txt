@@ -1,0 +1,49 @@
+As long as one-sided machining is not activated, you can only place the Connectors/Screws if you have a vertical panel and a horizontal panel that abut against each other.
+Pull the Screws onto the joint edge that is to receive the machining.
+In the template window you will find further settings to optimise your machining.
+
+Count:
+Enter the desired amount of connectors.
+Step Max.:
+Specify the maximum distance between the connectors.
+You have the option of either specifying the number of connectors or specifying a maximum step at which the connectors should be spaced.
+To do this, click on the symbol on the far right of the line.
+Distances:
+Specify the distances of the first and/or last connector in mm.
+Click on the symbol on the right-hand side of the line to set the distances between the connectors, either to a fixed value in mm or divided into the gaps.
+Housing Hole:
+You can specify the desired values for machining the housing in the drop-down menu.
+Housing Side:
+Tick the box to change the housing opening side.
+Bolt:
+You can specify the desired values for machining the bolts in the drop-down menu.
+
+Count:
+Enter the desired number of the Dowels.
+Step Max.:
+Specify the maximum step between the Dowels.
+You have the option of either specifying the number of Dowels or specifying a maximum step at which the Dowels should be spaced.
+To do this, click on the symbol on the far right of the line.
+Distances:
+Specify the distance of the first and/or Dowels in mm.
+Click on the symbol on the right-hand side of the line to set the distances between the Screw, either to a fixed value in mm or divided into the spaces.
+Align Center:
+Set the hook if the dowel is to be machined in the center of the edge.
+If you remove the tick, you have the option of specifying the dimension to the dowel center point under the selection box.
+Change the reference edge for calculating the dimension by clicking on the arrow on the right-hand side of the line.
+Face Bore Depth:
+Specify the depth for machining the dowel into the surface of the panel.
+Bear in mind that the dowel cannot be inserted if the depth of the facebore is deeper than the thickness of the workpiece.
+Dowel:
+In the drop-down menu, you have the option of customising the dowel processing as required.
+Call Dowel Component:
+Tick the box if you want to carry out your dowel processing with a WoodWOP component.
+In the drop-down menu of the dowel component, you must enter the path of the component if you are working with a dowel component.
+You can select the component using the three dots on the right-hand side of the line.
+Tick the box to embed the component if this component is not stored on your machine.
+Connection Area:
+SmartWOP shows you the connection area of the currently selected connection.
+Fitting:
+Select a prefabricated fitting (Connectors/Dowels) for the connectors to add them to the material list.
+The machining of the connectors is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.
+If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.

@@ -1,0 +1,2 @@
+Activate the button to hide all fittings in the construction.
+The machining of the hidden fittings remains visible.

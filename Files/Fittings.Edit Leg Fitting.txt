@@ -1,0 +1,40 @@
+Supplier:
+Specify the supplier of the fitting.
+Select an already created supplier via the drop-down selection.
+Click on the X symbol in the line to delete the supplier entered in the line from your list.
+Article:
+Enter the item number of the foot.
+Icon:
+Click on the dots in the line to open the selection menu.
+Select an image stored on your computer for the icon of the fitting.
+Import:
+You have the option of importing already defined feet as a .VRML file.
+Fittings imported as a .VRML file already contain the fitting's drilling pattern.
+Transformation:
+Open the drop-down menu to position the .VRML imported fittings.
+Offset:
+Open the drop-down menu to move the imported fitting in X/Y/Z axis.
+Rotation:
+Open the drop-down menu to rotate the imported fitting in X/Y/Z axis.
+The length and the width are determined by the .VRML file and are only displayed after the import.
+Length:
+Enter the length of the foot.
+Width:
+Enter the width of the foot.
+Cylindric:
+Set the hook if the foot is Cylindrical.
+Remove the hook if the foot is rectangular.
+Minimal Height:
+Specify the minimum height of the foot.
+Maximal Height:
+Specify the maximum height of the foot.
+Additional Info:
+Specify additional information that you want to automatically assign to the fitting.
+
+Switch to machining mode while machining the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your machining using the orange arrow in the drop-down menu of the fitting selection bar.
+
+Switch to machining mode while machining the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your machining using the orange arrow in the drop-down menu of the fitting selection bar.

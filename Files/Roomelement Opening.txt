@@ -1,1 +1,0 @@
-Drag an opening onto a room wall to add it. Position it using the coordinate system. In the template window specify width, height, X and Z positions (using coordinate system or dimension lines) and choose whether to add a frame and adjust it

@@ -1,0 +1,49 @@
+Pull the overlay door into the volume.
+In the template window you will find further options for optimizing your workpiece.
+Name:
+Give the workpiece a name.
+Double:
+Place a tick if you want to insert the door as a double door.
+Thickness:
+Enter the thickness of the workpiece.
+Gap:
+To change the gaps, open the submenu in the template window and enter the gap dimension for each side.
+Overlay:
+To change the support, open the submenu in the template window and enter for each side whether there should be a overlay on the carcass.
+Door Frame:
+Select whether and how the door is to be framed.
+Frame width:
+Enter the width of the door frames.
+Distance:
+Specify whether and how much to move the front/fitting outwards to the front.
+Chamfer:
+Place a hook if you want to mitre the outer edges of the front with the carcass.
+Damper:
+Place a tick if you need dampers on the opposite side of the fittings.
+In the submenu of Dampers per Front, you can define the position and dimension of the dampers as you wish.
+Pick Point:
+When inserting a component or separating a workpiece with WoodWOP, you can use the "Pick point" to define which side is to be retained as the workpiece after machining.
+
+Name:
+Give the workpiece a name.
+Double:
+Place a tick if you want to insert the door as a double door.
+Thickness:
+Enter the thickness of the workpiece.
+Gap:
+To change the gaps, open the submenu in the template window and enter the gap dimension for each side.
+Overlay:
+To change the support, open the submenu in the template window and enter for each side whether there should be a overlay on the carcass.
+Door Frame:
+Select whether and how the door is to be framed.
+Frame width:
+Enter the width of the door frames.
+Distance:
+Specify whether and how much to move the front/fitting outwards to the front.
+Chamfer:
+Place a hook if you want to mitre the outer edges of the front with the carcass.
+Damper:
+Place a tick if you need dampers on the opposite side of the fittings.
+In the submenu of Dampers per Front, you can define the position and dimension of the dampers as you wish.
+Pick Point:
+When inserting a component or separating a workpiece with WoodWOP, you can use the "Pick point" to define which side is to be retained as the workpiece after machining.

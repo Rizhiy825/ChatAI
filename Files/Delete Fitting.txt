@@ -1,1 +1,0 @@
-To delete a custom or duplicated fitting, open the fitting selection menu, select the fitting and click the trash can icon. Only self‑defined or duplicated fittings can be deleted

@@ -1,0 +1,13 @@
+Click on the arrow to the left of the panel name to open the cutting plan for this material.
+Name/Description:
+SmartWOP shows you the component designations of the individual workpieces in the panel planner overview.
+The panel thickness used is shown in brackets next to the material name.
+Number:
+SmartWOP shows you the component number of the individual workpieces in the panel planner overview.
+The item numbers are also displayed on the item in the panel itself.
+Result Length/Width:
+SmartWOP shows you the finished dimensions of the individual workpieces in the panel planner overview.
+Amount:
+SmartWOP shows you the quantity of the individual workpieces in the overview of the panel planner.
+You can select and mark workpieces by clicking on them in the overview.
+The panel dimensions displayed depend on the stored panel dimensions of the material.

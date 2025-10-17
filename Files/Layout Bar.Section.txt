@@ -1,0 +1,1 @@
+Activate the button to select all workpieces that are within two separators.

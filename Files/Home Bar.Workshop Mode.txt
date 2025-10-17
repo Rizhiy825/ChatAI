@@ -1,0 +1,5 @@
+In workshop mode, the numbering of the items is frozen.
+Care should be taken not to make any changes to the design if the items have already been exported.
+If you add or change items in production mode, only the items that have received changes are renumbered.
+If you want to go back to office mode, SmartWOP will notify you that all item numbers will be recalculated.
+Projects that you save in workshop mode are also recalled in workshop mode.

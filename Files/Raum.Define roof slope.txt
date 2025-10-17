@@ -1,0 +1,5 @@
+When you switch to room mode, the room start bar button appears in the top selection bar.
+Select two opposite horizontal space edges and divide them.
+Link the two newly created room corners and use them to create a new Horiontal room edge.
+Select the room edge to be moved and bring it into position using the coordinate cross or enter the dimensions using the input fields.
+You have the option of dividing and linking the roof slopes as the situation requires.

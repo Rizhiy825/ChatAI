@@ -1,0 +1,6 @@
+Konstruktionen die in SmartWOP als Zukaufteile benötigt werden, können als Volumentyp Artikel definiert werden.
+Hierbei finden Komponenten oder Volumeninhalte keine Berücksichtigung in den Ausgaben der Stücklisten.
+Artikel werden in der Beschläge Zukaufliste als Zukaufteile mit Außenmaßen ausgegeben.
+In der CSV-Materialliste werden die Außenmaße unter der Option Fertigmaß, Länge, Breite und Dicke ausgegeben.
+Um Zukaufteile in der CSV Liste zu berücksichtigen muss in den CSV Eigenschaften die Option 
+                Artikel aktiviert sein.

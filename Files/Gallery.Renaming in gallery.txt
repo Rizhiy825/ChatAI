@@ -1,0 +1,6 @@
+You have the option of renaming folders or elements in your gallery by clicking on the icon.
+Select the folder or item from your gallery by clicking on it with the left mouse button.
+Rename the selected element in the window that opens.
+You can also change the extension by renaming the elements, so .swp (projects) can be converted to .swk (components).
+The same renaming function is also available in reverse, so .swk (components) can be converted to .swp (projects).
+As long as you have not selected an element in your gallery, the rename function is greyed out and cannot be used.

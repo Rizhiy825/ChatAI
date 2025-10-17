@@ -1,0 +1,32 @@
+To insert a drawer fitting into your construction, you need a drawer front on which you can pull the drawer system.
+Select the desired drawer system and drag it into your design.
+In the template window, you have the option of making adjustments to the fitting.
+
+Supplier:
+Specify the supplier of the fitting.
+Select an already created supplier via the drop-down selection.
+Click on the X symbol in the line to delete the supplier entered in the line from your list.
+Article:
+Enter the article number of the fitting.
+Bottom Indent:
+Specify the lower distance of the drawer fitting to the volume.
+Space Bottom Indent:
+Enter how much the frame should recess in height from the bottom.
+Panel Generation:
+In the drop-down menu you have the option of making settings for the workpiece.
+Default Depth:
+The standard depth is displayed depending on the selected fitting.
+Depth Extension:
+Specify the extension in depth, for determining the volume, for the drawer frame.
+You can lengthen the volume with a positive value or shorten it with a negative value.
+Material:
+Specify the material from which the drawer wood parts are going to be produced by yourself.
+Limit Space Height:
+Check the box if you want to set the volume for the drawer interiors in height to a fixed value.
+Space Height:
+Specify how high the volume for the drawer interiors should be.
+Accessories:
+SmartWOP shows you which fitting you have selected.
+This information is taken into account and included in the material list.
+Additional Info:
+Specify additional information you want to add to the fitting on the material list.

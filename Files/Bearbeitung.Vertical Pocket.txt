@@ -1,0 +1,28 @@
+The vertical pocket can be dragged on the surface of any item.
+The pocket is only ever applied to one item.
+Drag the pocket onto an item.
+In the template window you will find further settings to optimise your machining.
+
+Start X:
+Specify the starting point of the pocket on the X-axis.
+Start Y:
+Specify the starting point of the pocket on the Y-axis.
+Length:
+Enter the length of the pocket.
+Width:
+Enter the width of the pocket.
+Radius:
+Specify the radius of the corners in the pocket milling.
+Angle:
+Specify the angle at which the pocket should be positioned.
+Depth:
+Enter the depth of the pocket.
+Plunging Depth:
+Specify the plunging depth of the pocket milling.
+Tool Overlap in %:
+Enter 0% if only the contour of the pocket is to be milled.
+Enter 80% if the pocket is to be completely cleared out.
+Top Side/ bottom Side:
+Tick the box if you want to change the processing side of the machining.
+Export:
+In the drop-down menu, you have the option of assigning a tool directly to the pocket machining.

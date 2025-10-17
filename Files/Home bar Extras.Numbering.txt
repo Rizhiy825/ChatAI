@@ -1,0 +1,2 @@
+Enter the start number of the component numbering.
+Specify the step of consecutive component numbering.

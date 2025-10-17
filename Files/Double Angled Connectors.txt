@@ -1,1 +1,0 @@
-Drag double angled connectors onto a mitred joint at 45°. Specify number or maximum spacing, distances, housing hole parameters, housing side and bolt parameters, and select a fitting profile to add them to the material list

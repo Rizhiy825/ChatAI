@@ -1,0 +1,3 @@
+Activate the button to activate your assistant.
+In the image at the bottom right, under the menu item Assistants, you can create an assistant.
+The assistant can be taught to speed up and simplify re-occurring constructions.

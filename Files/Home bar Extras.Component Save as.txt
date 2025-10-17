@@ -1,0 +1,5 @@
+Select a volume and click the button to save the construction in this volume as a variable component.
+You can only save one volume at a time, including its contents, as a component.
+A saved component retains all the machining, fittings and materials that were inserted.
+A component is a variable construction that adapts to the selected volume.
+Saved components can be pinned and selected as quick access in the gallery.

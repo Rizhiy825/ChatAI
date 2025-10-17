@@ -1,0 +1,5 @@
+You have the option to specify the manufacturer and supplier of the fittings.
+To find fittings for which you have specified manufacturer and supplier more quickly in the hardware database, 
+               you can select the manufacturers and suppliers to the left of the fittings to display only these in the list.
+The selected manufacturers and suppliers are displayed with a blue background.
+To select or deselect individual manufacturers or suppliers left-click on the manufacturer or supplier.

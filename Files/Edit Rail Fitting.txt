@@ -1,1 +1,0 @@
-When editing a rail fitting you can adjust the supplier, article number, angle, icon, rail type, import profile, set width, height, radius and additional information. Switch to edit mode to modify machining; confirm via the orange arrow

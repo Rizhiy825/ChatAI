@@ -1,0 +1,8 @@
+When you switch to room mode, the room start bar button appears in the top selection bar.
+Activate the edit mode of the room to customise the room.
+Select a room edge, room corner or room side in your design.
+The selected room edge or corner is marked red and the room side is marked blue.
+You can adjust the edge, corner or side using the X/Y/Z coordinate system displayed on the selected element.
+Individual edges and corners are extended or shortened when the dimensions are changed.
+Room sides are only moved when the dimensions are changed.
+As long as you are in room edit mode, room elements can no longer be selected.

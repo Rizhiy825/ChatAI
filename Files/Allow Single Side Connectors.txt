@@ -1,1 +1,0 @@
-Activate Allow Single Side Connectors to permit single‑sided machining. This allows machining to be added freely via drag and drop, but you must ensure that adjacent items also receive the necessary machining

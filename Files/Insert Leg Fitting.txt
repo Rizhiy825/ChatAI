@@ -1,1 +1,0 @@
-To insert a leg fitting, select a horizontal plate and drag the adjustable leg fitting onto it. In the template you can specify supplier and article number, number of legs, whether legs are placed at front, rear or both, offsets from edges, row distance (with options for mm or division), rotation angle of each leg and note that height is predefined

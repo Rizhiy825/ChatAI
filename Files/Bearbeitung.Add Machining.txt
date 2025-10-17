@@ -1,0 +1,3 @@
+To insert machinings, you need items to which you can assign machinings.
+You can drag and drop machinings onto the item or onto the connection area.
+Machining can also be added directly for individual or all connection areas.

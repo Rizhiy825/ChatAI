@@ -1,0 +1,3 @@
+Select the 'Solid Mode' button to switch from transparency mode to material mode.
+In the submenu of the button, you have the option of switching contour trains on and off in material mode.
+To return to transparency mode, click the button again.

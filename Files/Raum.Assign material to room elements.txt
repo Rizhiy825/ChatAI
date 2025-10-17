@@ -1,0 +1,5 @@
+When you switch to room mode, the room start bar button appears in the top selection bar.
+Switch to material mode to assign material to the floor, ceilings and walls.
+Only materials that have been created for floors/ceilings or walls can be assigned to the room elements.
+This means that materials designed for floors/ceilings cannot be used for walls.
+You do not need to be in edit mode to assign materials to the room.

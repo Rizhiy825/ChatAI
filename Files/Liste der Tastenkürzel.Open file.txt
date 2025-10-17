@@ -1,0 +1,2 @@
++
+Press the Ctrl and O keys to open a project.

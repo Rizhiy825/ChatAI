@@ -1,0 +1,20 @@
+Drag the diagonal panel Z in the base.
+You can drag the Diagonal Panel Z by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Name
+: Enter a name for your Panel.
+Absolute Left Position
+: Determine the space of the left side of your panel to the base outline. The arrow in the right side of the row allows you to switch between front or back base outside line.
+Absolute Right Position
+: Determine the space of the right side of your panel to the base outline. The arrow in the right side of the row allows you to switch between front or back base outside line.
+Angle
+: Enter the desired angle for your panel. You can enter an angle of-89° to 89°.
+Thickness
+: Enter the thickness of the panel.
+Orientation
+: Determine the orientation of the diagonal panel Z. This can be helpful to bring the panel in the desired position.
+Skewed Edges
+: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.

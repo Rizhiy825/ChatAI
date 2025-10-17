@@ -1,0 +1,10 @@
+Select the assistant in the lower right menu selection to open the assistant menu.
+Select the volume you want to use as a template for your assistant
+The selected volume will be highlighted in blue.
+Click on the icon for teaching the assistant.
+When you teach the assistant, it saves the part names, the machining of the applied corner joints, the edge assignment of the parts and the settings you assigned to the parts in Export Tuning.
+The saved information, can be viewed in the drop-down menu of the assistants.
+If you have already trained the assistant, SmartWOP will always ask you if you want to overwrite the presets already stored in the assistant.
+Information is overwritten only if it is already stored in the assistant for a component included in the design.
+If the same names, machining, edge assignments or export tuning settings were used in the design, these settings will not be changed in the assistant.
+If new items or joints are used in the design, they are added to the selected assistant when learning the assistant.

@@ -1,0 +1,25 @@
+Drag the diagonal panel Y in the base.
+You can drag the Diagonal Panel X by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Name
+: Enter a name for your Panel.
+Absolute Left Position
+: Determine the space of the left side of your panel to the base outline. The arrow in the right side of the row allows you to switch between top or bottom base outside line.
+Absolute Right Position
+: Determine the space of the Right side of your panel to the base outline. The arrow in the right side of the row allows you to switch between top or bottom base outside line.
+Angle
+: Enter the desired angle for your panel. You can enter an angle of-89° to 89°.
+Setback
+: Give the item a setback that reduces the volume for all subsequent items that are dragged in.
+The setback entered is subtracted from the front edge of the item and limits the volume in order to assign a general setback to the subsequent items.
+Items that are drawn in after an item with a setback, are automatically calculated by the volume with the reduced setback and therefore have the value 0 for the setback.
+Safety clearance: Enter a safety clearance to determine how much space you want to have between other diagonal panels.
+Thickness
+: Enter the thickness of the panel.
+In the dropdown menu of Panel Dimensions you can change the dimensions of the panels in all directions.
+You can extend the panel over the base volume.
+Keep in mind that you can not add any panels outside the base volume even if other panels are extended over the base volume.
+Skewed Edges: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.

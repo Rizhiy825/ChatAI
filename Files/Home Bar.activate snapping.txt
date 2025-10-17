@@ -1,0 +1,2 @@
+Activate the button to set a specific minimum step size for moving objects.
+Enter this minimum distance in mm in the field below.

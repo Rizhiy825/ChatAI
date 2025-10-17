@@ -1,0 +1,36 @@
+Icon:
+Click on the dots in the line to open the selection menu.
+Select an image stored on your computer for the icon of the fitting.
+Supplier:
+Specify the supplier of the fitting.
+Select an already created supplier via the dropdown selection.
+Delete the supplier entered in the line from your list by clicking on the X symbol in the line.
+Article:
+Enter the article number of the drawer system.
+Space Bottom Indent:
+Specify the lower distance of the frame to the drawer box base being calculated.
+Panel Generation:
+In the drop-down menu of the panel setting you have further settings to output the drawer interior parts suitable for the fitting.
+Default Depth:
+Specify the standard depth of the drawer system.
+Material:
+Specify the material from which the drawer interiors are to be made.
+Select a material from your material database via the arrow on the right side of the line.
+Rail Width:
+Specify the fitting installation clearance.
+The installation clearance is calculated from each side.
+Limit Distance to Bottom:
+Check the box if you want to limit your frame height from the center point of the drawer.
+Distance to Bottom:
+Specify how deep the frame should run from the center of the pullout.
+Remember that if you want to determine the frame height via the Distance to Bottom, the space bottom indent should be set to 0.
+Additional Info:
+Specify additional information that you want to automatically assign to the fitting.
+
+Switch to edit mode while editing the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your edited fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+
+Switch to edit mode while editing the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your edited fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.

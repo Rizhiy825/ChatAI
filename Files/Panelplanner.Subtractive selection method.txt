@@ -1,0 +1,2 @@
+Activate the button to deselect items.
+You have the option of using the same function by Alt left-clicking.

@@ -1,0 +1,20 @@
+Drag the diagonal panel Y in the base.
+You can drag the Diagonal Panel Y by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Name
+: Enter a name for your Panel.
+Absolute Front Position
+: Determine the space of the front side of your panel to the base lower outline.
+Absolute Back Position
+: Determine the space of the back side of your panel to the base lower outline.
+Angle
+: Enter the desired angle for your panel. You can enter an angle of-89° to 89°.
+Safety clearance
+: Enter a safety clearance to determine how much space you want to have between other diagonal panels.
+Thickness
+: Enter the thickness of the panel.
+Skewed Edges
+: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.

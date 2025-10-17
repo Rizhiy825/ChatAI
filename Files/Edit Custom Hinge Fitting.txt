@@ -1,1 +1,0 @@
-When editing a custom hinge fitting you can choose a new icon, change the supplier, edit article numbers for hinge and mounting plate, import hinges or plates via VRML files, and adjust transformation and rotation. You can modify count, cup distance and additional information. Switch to edit mode to adjust machining, then confirm changes via the orange arrow

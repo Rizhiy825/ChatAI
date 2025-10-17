@@ -1,1 +1,0 @@
-The horizontal panel can be used as a bottom panel, top panel or construction panel. Drag the horizontal panel into the base and position it using arrows or by entering dimensions. In the settings window you will find more settings to optimise your panel

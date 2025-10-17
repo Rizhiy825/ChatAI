@@ -1,0 +1,2 @@
++
+Press the Ctrl and I keys to invert the selection of items.

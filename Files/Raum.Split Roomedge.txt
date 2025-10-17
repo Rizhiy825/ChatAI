@@ -1,0 +1,8 @@
+When you switch to room mode, the room start bar button appears in the top selection bar.
+Select a room edge in your construction.
+The selected edge is marked red.
+Click on the button to divide a room edge.
+When dividing the edge, a new room corner is automatically created.
+The edge is automatically split in the middle and the corner can be moved using the input fields on the edge.
+Upright room edges cannot be split.
+You can divide an edge as much as you like.

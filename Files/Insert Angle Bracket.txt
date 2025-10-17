@@ -1,1 +1,0 @@
-To insert an angle bracket, select an item and drag the bracket onto it. In the template you can specify supplier, article number, number of brackets or maximum spacing, top and bottom distances (with locking option), positions, distance to the edge, reference edge, machining side, arm swap and mirroring. Additional information can be added

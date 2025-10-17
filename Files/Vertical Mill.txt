@@ -1,1 +1,0 @@
-Drag a vertical milling operation onto an item’s surface to mill a contour. Specify tool number, starting Z, machining side, offset distance, approach and withdrawal modes, processing side, contour name and define contour points (add and remove points). Use the drop‑down menus to customise each contour point’s X and Y values

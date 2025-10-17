@@ -1,1 +1,0 @@
-In room mode, activate Subtractive selection method to deselect room elements. You can also hold the Alt key while clicking

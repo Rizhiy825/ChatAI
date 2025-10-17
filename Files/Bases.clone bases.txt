@@ -1,0 +1,4 @@
+Left click the volume you want to duplicate.
+Select the duplicate button on the menu bar.
+The volume will be duplicated with all its contents.
+In the drop-down menu, you can select to mirror the selected base.

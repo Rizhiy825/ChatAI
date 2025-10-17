@@ -1,0 +1,8 @@
+Drag the horizontal separator in the base.
+You can drag the separator by arrows in the right place or enter the desired dimensions for the separator.
+In the settings window you will find more settings to optimize your separator.
+Absolute Position:
+Determine the space of your separator to the base outline. The arrow in the right side of the row allows you to switch between top or bottom base outside line.
+
+Absolute Position:
+Determine the space of your separator to the base outline. The arrow in the right side of the row allows you to switch between top or bottom base outside line.

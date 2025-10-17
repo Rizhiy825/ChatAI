@@ -1,0 +1,41 @@
+Drag the horizontal division into the volume.
+The horizontal division is used, for example, to construct drawers that you can name individually.
+Note that if you design according to this principle, before the front is drawn in, you must draw in separators and delete the division again.
+In the template window you will find further options for optimizing your workpiece.
+Name:
+Give the workpiece a name.
+Count:
+Enter the number of splits required, SmartWOP will automatically divide the number of splits evenly over the volume.
+Door width:
+Specify the desired measurement for each partition individually.
+Thickness:
+Enter the thickness of the workpiece.
+Gap:
+To change the gaps, open the submenu in the template window and enter the gap dimension for each side.
+Overlay:
+To change the overlay, open the submenu in the template window and enter for each side whether there should be an overlay on the carcass.
+Chamfer:
+Place a hook if you want to mitre the outer edges of the front with the carcass.
+Distance:
+Specify whether and how much to move the front/fitting outwards to the front.
+Pick Point:
+When inserting a component or separating a workpiece with WoodWOP, you can use the "Pick point" to define which side is to be retained as the workpiece after machining.
+
+Name:
+Give the workpiece a name.
+Count:
+Enter the number of splits required, SmartWOP will automatically divide the number of splits evenly over the volume.
+Door width:
+Specify the desired measurement for each partition individually.
+Thickness:
+Enter the thickness of the workpiece.
+Gap:
+To change the gaps, open the submenu in the template window and enter the gap dimension for each side.
+Overlay:
+To change the overlay, open the submenu in the template window and enter for each side whether there should be an overlay on the carcass.
+Chamfer:
+Place a hook if you want to mitre the outer edges of the front with the carcass.
+Distance:
+Specify whether and how much to move the front/fitting outwards to the front.
+Pick Point:
+When inserting a component or separating a workpiece with WoodWOP, you can use the "Pick point" to define which side is to be retained as the workpiece after machining.

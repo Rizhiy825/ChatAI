@@ -1,0 +1,16 @@
+Inserted components can be customized on all sides via the properties window.
+To do this, change the height dimension of the component.
+The component is adjusted upwards and downwards in the same proportion.
+The changes are taken into account when specifying the distances (distance top, distance bottom).
+A customized component can be moved directly using the direction arrows in the volume.
+The changes are taken into account in the distances in the properties window.
+The dimensional changes can also be made directly via the dimensions of the distances.
+If a dimension is changed, the opposite dimension is automatically corrected.
+Lock symbols can be used to lock the component in the respective direction in the event of a size change.
+If, for example, the distance at the bottom is set to 0 and locked with the lock symbol, the excess dimension is deducted from the top when adjusting the height of the component.
+The dimension can only be fixed in one direction.
+The actual size of the component cannot be changed by locking.
+A simultaneous locking of the top and bottom distances is not taken into account.
+Notice
+: A component cannot be larger than the actual solid.
+Changes to the size are only taken into account in reductions.

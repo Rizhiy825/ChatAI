@@ -1,1 +1,0 @@
-You can define your own rail profiles by creating a text file and listing the contour points (X and Y) that describe a closed profile. The length of the rail is determined by the workpiece, not by the file

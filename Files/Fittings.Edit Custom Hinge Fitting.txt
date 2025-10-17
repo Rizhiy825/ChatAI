@@ -1,0 +1,7 @@
+Switch to edit mode while editing the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your edited fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+
+Switch to edit mode while editing the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your edited fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.

@@ -1,0 +1,2 @@
+Activate the button to make the material removal of individual or several items visible.
+If you have activated the button, the material removal is applied to the items you select.

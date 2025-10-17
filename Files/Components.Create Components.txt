@@ -1,0 +1,3 @@
+Create a construction that is planned within a base volume.
+The design can also be carried out by an assistant.
+Once you have finished planning the design, you must now save it as a SmartWOP component so that it can be incorporated into your other designs on an ongoing basis.

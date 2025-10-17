@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+   <title>Menu1</title>
+   <link rel="stylesheet" href="../style.css">
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta http-equiv="cache-control" content="no-cache" />
+   <script src="../scripts.js"></script>
+</head>
+
+<body>
+   <div>
+      <div id="myModal" class="modal">
+         <span class="close">&times;</span>
+         <img class="modal-content" id="img01">
+         <div id="caption"></div>
+      </div>
+
+      <h1>Fittings</h1>
+      <div class="content" id="object1">
+         <div class="content-header">
+            <h2>Add Fittings</h2>
+         </div>
+         <div class="content-text2">
+            <p>
+                To insert fittings, you need item to which you can assign the fittings.<br>
+                You can drag and drop fittings onto the items.<br>
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object2">
+         <div class="content-header">
+            <h2>Manufacturer and Supplier</h2>
+            <img id="myImg" src="images\Beschlaege_EN\Supplier.png">
+         </div>
+         <div class="content-text">
+            <p>
+                You have the option of specifying the manufacturer and supplier of the fitting.<br>
+                To find fittings for which you have specified manufacturers and suppliers more quickly in the fittings database, you can select the manufacturers and suppliers to the left of the fittings to display only these in the list.<br>
+                The selected manufacturers and suppliers are displayed with a blue background.<br>
+                To select or deselect individual manufacturers or suppliers, left-click on the manufacturer or supplier.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object3">
+         <div class="content-header">
+            <h2>New Custom Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\NewCustomFitting.png">
+         </div>
+         <div class="content-text">
+            <p>
+                In the drop-down menu of the upper fittings selection bar, you can create fittings yourself.<br>
+                Open the drop-down menu by clicking the arrow on the top fitting selection bar and click the first button.<br>
+                Now select the type of fitting you want to create.<br>
+                Give your custom fitting a name.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object4">
+         <div class="content-header">
+            <h2>New Custom Hinge Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\NewCustomHinge.png">
+         </div>
+         <div class="content-list2">
+            <p>
+                <b>Icon:</b> Click on the dots in the line to open the selection menu.<br>
+                Select an icon for the fitting from your images saved on the computer.<br>
+                <b>Supplier:</b> Indicate the supplier of the fitting.<br>
+                Select an already created supplier via the drop-down selection.<br>
+                Click on the X symbol in the line to delete the supplier entered in the line from your list.<br>
+                <b>Article.:</b> Enter the item number of the hinge.<br>
+                <b>Mounting plate:</b> Enter the item number of the mounting plate.<br>
+                <b>Import Hinges:</b> You have the option of importing already defined hinges as a .VRML file.<br>
+                <b>Import Mounting plate:</b> You have the option of importing already defined mounting plates as a .VRML file.<br>
+                The .VRML files indicate the already given opening angle of the hinge so that you can better plan with the hinges.<br>
+                Fittings imported as a .VRML file already contain the fitting's drilling pattern.<br>
+                <b>Transformation:</b> Open the drop-down menu to position the .VRML imported fittings.<br>
+                <b>Standard:</b> Open the drop-down menu to move the imported fitting in X/Y/Z axis.<br>
+                <b>Rotation:</b> Open the drop-down menu to rotate the imported fitting in X/Y/Z axis.<br>
+                <b>Count:</b> SmartWOP shows you how many tapes are used when creating the fitting.<br>
+                <b>Bores Distance:</b> SmartWOP shows you how the pot hole distance is set.<br>
+                <b>Additional Information:</b> Specify additional information that you want to automatically assign to the fitting.
+            </p>
+         </div>
+         <div class="content-text2">
+            <p>
+                Switch to edit mode while creating the fitting to add or remove edits to the fitting.<br>
+                When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.<br>
+                Confirm your self-defined fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object5">
+         <div class="content-header">
+            <h2>New Handle Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\NewCustomHandle.png">
+         </div>
+         <div class="content-list2">
+            <p>
+                <b>Icon:</b> Click on the dots in the line to open the selection menu.<br>
+                Select an image stored on your computer for the icon of the fitting.<br>
+                <b>Supplier:</b> Indicate the supplier of the fitting.<br>
+                Select an already created supplier via the drop-down selection.<br>
+                Click on the X symbol in the line to delete the supplier entered in the line from your list.<br>
+                <b>Article:</b> Enter the item number of the handle.<br>
+                <b>Type:</b> Use the arrow on the right of the line to select whether the self-defined handle is a standard handle or a profile handle.<br>
+                <b>Import profile:</b> Define your own handle profile in the editor and import it into SmartWOP.<br>
+                <b>Import:</b> You have the possibility to import already defined standard handles as .VRML file.<br>
+                Fittings imported as a .VRML file already contain the fitting's drilling pattern.<br>
+                <b>Positioning:</b> Open the drop-down menu to position the .VRML imported fittings.<br>
+                <b>Position:</b> Open the drop-down menu to move the imported fitting in X/Y/Z axis.<br>
+                <b>Rotation:</b> Open the drop-down menu to rotate the imported fitting in X/Y/Z axis.<br>
+                <b>Horizontal Distance:</b> SmartWOP shows you how large the horizontal distance of the handle to the outer edge of the workpiece is.<br>
+                <b>Vertical Distance:</b> SmartWOP shows you what the vertical distance of the handle to the outer edge of the workpiece is.<br>
+                <b>Horizontal Alignment:</b> SmartWOP shows you how the handle is aligned when you create it, horizontally.<br>
+                <b>Vertical Alignment:</b> SmartWOP shows you how the handle is aligned when you create it, in the vertical.<br>
+                <b>Absolute Position:</b> SmartWOP shows you the absolute position of the handle when creating the fitting.<br>
+                <b>Additional Information:</b> Specify additional information that you want to automatically assign to the fitting.
+            </p>
+         </div>
+         <div class="content-text2">
+            <p>
+                Switch to edit mode while creating the fitting to add or remove edits to the fitting.<br>
+                When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.<br>
+                Confirm your self-defined fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object6">
+         <div class="content-header">
+            <h2>Custom Handle Profile</h2>
+            <img id="myImg" src="images\Beschlaege_EN\Griffleiste_Profil.jpg">
+         </div>
+         <div class="content-text">
+            <p>
+               You have the option of defining handle profiles yourself and then importing them.<br>
+               To define a profile yourself, you must first create a .txt file, e.g. using Microsoft's editor.<br>
+               When the file is created, you must define the contour of the profile using X and Y in the 2-dimentional.<br>
+               You always determine the contour line via the contour points (X= and Y=).<br>
+               The contour must first be given a starting point, e.g.(X=0 Y=0).<br>
+               The contour line is always drawn directly from contour point to contour point.<br>
+               The entire contour must be self-contained again at the end.<br>
+               The length of the handle is not specified in the file, as it automatically refers to the entire length of the item.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object7">
+         <div class="content-header">
+            <h2>New Custom Drawer System</h2>
+            <img id="myImg" src="images\Beschlaege_EN\NewCustomDrawer.png">
+         </div>
+         <div class="content-list2">
+            <p>
+               <b>Icon:</b> Click on the dots in the line to open the selection menu.<br>
+               Select an image stored on your computer for the icon of the fitting.<br>
+               <b>Supplier:</b> Indicate the supplier of the fitting.<br>
+               Select an already created supplier via the drop-down selection.<br>
+               Click on the X symbol in the line to delete the supplier entered in the line from your list.<br>
+               <b>Article.:</b> Enter the item number of the drawer system.<br>
+               <b>Space Bottom Indent:</b> Enter the distance of the  to the calculating solid.<br>
+               <b>panel generation:</b> In the drop-down menu of the panel generation you have further settings to output the drawer interior parts to fit the fitting.<br>
+               <b>Default Depth:</b> Specify the standard depth of the drawer system.<br>
+               <b>Material:</b> Specify the material from which the drawer interiors are to be made.<br>
+               Use the arrow on the right of the line to select a material from your material database.<br>
+               <b>Rail Width:</b> Specify the fitting installation clearance.<br>
+               The installation distance is calculated from each side.<br>
+               <b>Limit Distance to Bottom:</b> Check the box if you want to limit your frame height from the center of the drawer rail.<br>
+               <b>Distance to Bottom</b> Specify the depth of the inner drawer parts from the center of the pull-out to the lower outer edge.<br>
+               Remember that if you want to determine the frame height via the limit, the space bottom indent should be set to 0.<br>
+               <b>Additional Information:</b> Specify additional information that you want to automatically assign to the fitting.
+            </p>
+         </div>
+         <div class="content-text2">
+            <p>
+               Switch to machining mode while creating the fitting to add or remove machining to the fitting.<br>
+               When you have added the required drilling pattern to the fitting, switch back to the fitting mode.<br>
+               Confirm your custom fitting by clicking on the orange tick in the drop-down menu of the fitting selection bar.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object8">
+         <div class="content-header">
+            <h2>New Custom Leg</h2>
+            <img id="myImg" src="images\Beschlaege_EN\NewCustomLeg.png">
+         </div>
+         <div class="content-list2">
+            <p>
+               <b>Supplier:</b> Indicate the supplier of the fitting.<br>
+               Select an already created supplier via the drop-down selection.<br>
+               Click on the X symbol in the line to delete the supplier entered in the line from your list.<br>
+               <b>Article.:</b> Enter the item number of the drawer system.<br>
+               <b>Icon:</b> Click on the dots in the line to open the selection menu.<br>
+               Select an image stored on your computer for the icon of the fitting.<br>
+               <b>Import:</b> You have the option of importing already defined legs as a .VRML file.<br>
+               Fittings imported as a .VRML file already contain the fitting's drilling pattern.<br>
+               <b>Positioning:</b> Open the drop-down menu to position the .VRML imported fittings.<br>
+               <b>Position:</b> Open the drop-down menu to move the imported fitting in X/Y/Z axis.<br>
+               <b>Rotation:</b> Open the drop-down menu to rotate the imported fitting in X/Y/Z axis.<br>
+               The length and the width are determined by the .VRML file and are only displayed after the import.<br>
+               <b>Length:</b> Enter the length of the leg.<br>
+               <b>Width:</b> Enter the width of the foot.<br>
+               <b>Cylindric:</b> Set the hook when the foot is Cylindrical.<br>
+               Remove the hook if the foot is rectangular.<br>
+               <b>Minimal Height:</b> Specify the minimum height of the foot.<br>
+               <b>Maximal Height:</b> Specify the maximum height of the foot.<br>
+               <b>Additional Information:</b> Specify additional information that you want to automatically assign to the fitting.
+            </p>
+         </div>
+         <div class="content-text2">
+            <p>
+               Switch to edit mode while creating the fitting to add or remove edits to the fitting.<br>
+               When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.<br>
+               Confirm your custom fitting by clicking on the orange tick in the drop-down menu of the fitting selection bar.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object9">
+         <div class="content-header">
+            <h2>New Custom Angle Bracket Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\NewCustomAngleBracket.png">
+         </div>
+         <div class="content-list2">
+            <p>
+               <b>Icon:</b> Click on the dots in the line to open the selection menu.<br>
+               Select an image stored on your computer for the icon of the fitting.<br>
+               <b>Supplier:</b> Indicate the supplier of the fitting.<br>
+               Select an already created supplier via the drop-down selection.<br>
+               Click on the X symbol in the line to delete the supplier entered in the line from your list.<br>
+               <b>Article:</b> Enter the article number of the angle bracket.<br>
+               <b>Additional Information:</b> Specify additional information that you want to automatically assign to the fitting.
+            </p>
+         </div>
+         <div class="content-text2">
+            <p>
+               Switch to edit mode while creating the fitting to add or remove edits to the fitting.<br>
+               The visualization of the angle fitting is only created once edits have been added to the fitting.<br>
+               The separators in the editing mode of the angle fitting help you to create the drilling pattern so that you can easily pull the angle fitting into your construction.<br>
+               When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.<br>
+               Confirm your self-defined fitting by clicking on the orange tick in the drop-down menu of the fitting selection bar.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object10">
+         <div class="content-header">
+            <h2>New Custom Rail Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\NewCustomRail.png">
+         </div>
+         <div class="content-list2">
+            <p>
+               <b>Supplier:</b> Enter the supplier of the fitting.<br>
+               Select an already created supplier via the drop-down selection.<br>
+               By clicking on the X symbol in the line, delete the supplier entered in the line from your list.<br>
+               <b>Article.:</b> Enter the article number of the rail.<br>
+               <b>Angle:</b> Specify the angle at which the rail is to be created.<br>
+               <b>Icon:</b> click on the dots in the line to open the selection menu.<br>
+               Select an image stored on your computer for the icon of the fitting.<br>
+               <b>Rail Style:</b> Choose whether the rail should be created as a simple rail or as a self-defined profile.<br>
+               <b>Import Profile:</b> Define your own rail profile in the editor and import it to SmartWOP.<br>
+               <b>Width:</b> Specify the width of the rail.<br>
+               <b>Height:</b> Specify the height of the rail.<br>
+               <b>Radius:</b> Specify the radius of the rail.<br>
+               <b>Additional Info:</b> Specify additional information that you want to automatically assign to the fitting.
+            </p>
+         </div>
+         <div class="content-text2">
+            <p>
+               Switch to machining mode while creating the fitting to add or remove machining to the fitting.<br>
+               When you have added the correct hole pattern to the fitting, switch back to the fitting mode.<br>
+               Confirm your self-defined fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object11">
+         <div class="content-header">
+            <h2>Custom Defined Rail</h2>
+            <img id="myImg" src="images\Beschlaege_EN\Griffleiste_Profil.jpg">
+         </div>
+         <div class="content-text">
+            <p>
+               You have the possibility to define rail profiles yourself and then import them.<br>
+               To define a profile yourself, you must first create a .txt file e.g. via Microsoft's editor.<br>
+               When the file is created, you need to define the contour of the profile using X and Y in the 2-dimentional.<br>
+               You always determine the contour line via the contour points (X= and Y=).<br>
+               The contour must first be given a starting point e.g.(X=0 Y=0).<br>
+               The contour line is always drawn directly from contour point to contour point.<br>
+               The entire contour must be self-contained again at the end.<br>
+               The length of the rail is not included in the file, because it is automatically related to the total volume.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object12">
+         <div class="content-header">
+            <h2>Duplicate Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\DublicateFitting.png">
+         </div>
+         <div class="content-text">
+            <p>
+               In the drop-down menu of the top fitting selection bar, you can duplicate fittings and customize them as desired.<br>
+               Open the drop-down menu by clicking on the arrow of the upper fitting selection bar.<br>
+               Select the fitting you want to duplicate and click the second button of the drop-down menu.<br>
+               Duplicating a fitting opens the edit mode.<br>
+               Adjust the fitting and save the changes of the duplicate by confirming the changes via the orange arrow of the dropdown menu.<br>
+               Duplicate fittings can help you to quickly adjust a fitting in this way without having to create a new fitting.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object13">
+         <div class="content-header">
+            <h2>Rename fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\RenameFitting.png">
+         </div>
+         <div class="content-text">
+            <p>
+               In the drop-down menu of the upper fitting selection bar, you can rename fittings.<br>
+               Select a self-defined or duplicated fitting and activate the fitting editing mode.<br>
+               Now click on the third button of the drop-down menu to rename the selected fitting.<br>
+               You can rename fittings only if you have created or duplicated on your own.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object14">
+         <div class="content-header">
+            <h2>Delete Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\DeleteFitting.png">
+         </div>
+         <div class="content-text">
+            <p>
+               In the drop-down menu of the upper fitting selection bar, you can delete fittings.<br>
+               Select a self-defined or duplicated fitting and delete it from your fitting database.<br>
+               Click on the trash can button of the dropdown menu to delete the selected fitting.<br>
+               You can delete fittings only if you have created or duplicated them yourself.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object15">
+         <div class="content-header">
+            <h2>Edit Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EditFitting.png">
+         </div>
+         <div class="content-text">
+            <p>
+               In the drop-down menu of the upper fitting selection bar, you can edit fittings.<br>
+               Select a self-defined or duplicated fitting and edit it.<br>
+               Click on the pencil button of the drop-down menu to edit the selected fitting.<br>
+               You can edit fittings only if you have created or duplicated them yourself.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object16">
+         <div class="content-header">
+            <h2>Edit Custom Hinge Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EditHinges.png">
+         </div>
+         <div class="content-list2">
+            <b>Icon:</b> Click on the dots in the line to open the selection menu.<br>
+            Select an icon for the fitting from your images saved on the computer.<br>
+            <b>Supplier:</b> Specify the supplier of the fitting.<br>
+            Select an already created supplier via the dropdown selection.<br>
+            Delete the supplier entered in the line from your list by clicking on the X symbol in the line.<br>
+            <b>Article:</b> Enter the article number of the hinge.<br>
+            <b>Mounting Plate:</b> Enter the article number of the mounting plate.<br>
+            <b>Import Hinge:</b> You have the possibility to import already defined hinges as .VRML file.<br>
+            <b>Import Mounting Plate:</b> You have the possibility to import already defined mounting plates as .VRML file.<br>
+            The .VRML files include the already given opening angle of the hinge, so you can better plan with the hinges.<br>
+            Fittings imported as .VRML file, already contain the fitting's bore images.<br>
+            <b>Transformation:</b> Open the drop-down menu to position the .VRML imported fittings.<br>
+            <b>Standard:</b> Open the drop-down menu to move the imported fitting in X/Y/Z axis.<br>
+            <b>Rotation:</b> Open the drop-down menu to rotate the imported fitting in X/Y/Z axis.<br>
+            <b>Count:</b> SmartWOP shows you how many hinges are used when creating the fitting.<br>
+            <b>Cup Distance:</b> SmartWOP shows you how the pot hole distance is set.<br>
+            <b>Additional Info:</b> Specify additional information that you want to assign to the fitting automatically.
+            </p>
+         </div>
+         <div class="content-text2">
+            <p>
+               Switch to edit mode while editing the fitting to add or remove machining to the fitting.<br>
+               When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.<br>
+               Confirm your edited fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object17">
+         <div class="content-header">
+            <h2>Edit Custom handle fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EditHandle.png">
+         </div>
+         <div class="content-list2">
+            <p>
+               <b>Icon:</b> Click on the dots in the line to open the selection menu.<br>
+               Select an image stored on your computer for the icon of the fitting.<br>
+               <b>Supplier:</b> Specify the supplier of the fitting.<br>
+               Select an already listed supplier via the dropdown selection.<br>
+               Delete the supplier entered in the line from your list by clicking on the X symbol in the line..<br>
+               <b>Article Nr.:</b> Enter the article number of the handle.<br>
+               <b>Handle Style:</b> Use the arrow on the right of the line to select whether the self-defined handle is a standard handle or a profile handle.<br>
+               <b>Import Profile:</b> Define your own handle profile in the editor and import it to SmartWOP.<br>
+               <b>Import:</b> You have the possibility to import already ready defined standard handles as .VRML file.<br>
+               Fittings imported as .VRML file, already contain the fitting's drilling patterns.<br>
+               <b>Positioning:</b> Open the drop-down menu to position the .VRML imported fittings.<br>
+               <b>Position:</b> Open the drop-down menu to move the imported fitting in X/Y/Z axis.<br>
+               <b>Rotate:</b> Open the drop-down menu to rotate the imported fitting in X/Y/Z axis.<br>
+               <b>Horizontal Distance:</b> SmartWOP shows you how large the horizontal distance of the handle to the outer edge of the front is.<br>
+               <b>Vertical Distance:</b> SmartWOP shows you how large the vertical distance of the handle to the front is.<br>
+               <b>Horizontal Align:</b> SmartWOP shows you how the handle is aligned when you create it, in the horizontal position..<br>
+               <b>Vertical Align:</b> SmartWOP shows you how the handle is aligned when you create it, in the vertical position.<br>
+               <b>Absolute Position:</b> SmartWOP shows you the absolute position of the handle when creating the fitting.<br>
+               <b>Additional Info:</b> Specify additional information that you want to automatically assign to the fitting.
+            </p>
+         </div>
+         <div class="content-text2">
+            <p>
+               Switch to edit mode while editing the fitting to add or remove machining to the fitting.<br>
+               When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.<br>
+               Confirm your edited fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object18">
+         <div class="content-header">
+            <h2>Edit Drawer Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EditDrawer.png">
+         </div>
+         <div class="content-list2">
+            <p>
+               <b>Icon:</b> Click on the dots in the line to open the selection menu.<br>
+               Select an image stored on your computer for the icon of the fitting.<br>
+               <b>Supplier:</b> Specify the supplier of the fitting.<br>
+               Select an already created supplier via the dropdown selection.<br>
+               Delete the supplier entered in the line from your list by clicking on the X symbol in the line.<br>
+               <b>Article:</b> Enter the article number of the drawer system.<br>
+               <b>Space Bottom Indent:</b> Specify the lower distance of the frame to the drawer box base being calculated.<br>
+               <b>Panel Generation:</b> In the drop-down menu of the panel setting you have further settings to output the drawer interior parts suitable for the fitting.<br>
+               <b>Default Depth:</b> Specify the standard depth of the drawer system.<br>
+               <b>Material:</b> Specify the material from which the drawer interiors are to be made.<br>
+               Select a material from your material database via the arrow on the right side of the line.<br>
+               <b>Rail Width:</b> Specify the fitting installation clearance.<br>
+               The installation clearance is calculated from each side.<br>
+               <b>Limit Distance to Bottom:</b> Check the box if you want to limit your frame height from the center point of the drawer.<br>
+               <b>Distance to Bottom:</b> Specify how deep the frame should run from the center of the pullout.<br>
+               Remember that if you want to determine the frame height via the Distance to Bottom, the space bottom indent should be set to 0.<br>
+               <b>Additional Info:</b> Specify additional information that you want to automatically assign to the fitting.
+            </p>
+         </div>
+         <div class="content-text2">
+            <p>
+               Switch to edit mode while editing the fitting to add or remove machining to the fitting.<br>
+               When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.<br>
+               Confirm your edited fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+         </div>
+      </div>
+      <div class="content" id="object19">
+         <div class="content-header">
+            <h2>Edit Leg Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EditLeg.png">
+         </div>
+         <div class="content-list2">
+            <p>
+               <b>Supplier:</b> Specify the supplier of the fitting.<br>
+               Select an already created supplier via the dropdown selection.<br>
+               Delete the supplier entered in the line from your list by clicking on the X symbol in the line.<br>
+               <b>Article:</b> Enter the article number of the leg.<br>
+               <b>Icon:</b> Click on the dots in the line to open the selection menu.<br>
+               Select an image stored on your computer for the icon of the fitting.<br>
+               <b>Import:</b> You have the possibility to import already defined legs as .VRML file.<br>
+               Fittings imported as .VRML file, already contain the drilling pattern of the fitting.<br>
+               <b>Positioning:</b> Open the drop-down menu to position the .VRML imported fittings.<br>
+               <b>Position:</b> Open the drop-down menu to move the imported fitting in X/Y/Z axis.<br>
+               <b>Rotate:</b> Open the drop-down menu to rotate the imported fitting in X/Y/Z axis.<br>
+               The length and the width are determined by the .VRML file and are only displayed after the import.<br>
+               <b>Length:</b> Enter the length of the leg.<br>
+               <b>Width:</b> Enter the width of the leg..<br>
+               <b>Cylindric:</b> Tick the box when the leg is Cylindrical.<br>
+               Untick the box when the leg is rectangular.<br>
+               <b>Minimal height:</b> Specify the minimum height of the leg.<br>
+               <b>Maximum height:</b> Specify the maximum height of the leg.<br>
+               <b>Additional Info:</b> Specify additional information that you want to automatically assign to the fitting.
+            </p>
+         </div>
+         <div class="content-text2">
+            <p>
+               Switch to edit mode while editing the fitting to add or remove machining to the fitting.<br>
+               When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.<br>
+               Confirm your edited fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object20">
+         <div class="content-header">
+            <h2>Edit Angle Bracket</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EditAngleBracklet.png">
+         </div>
+         <div class="content-list2">
+            <p>
+               <b>Icon:</b> Click on the dots in the line to open the selection menu.<br>
+               Select an image stored on your computer for the icon of the fitting.<br>
+               <b>Supplier:</b> Specify the supplier of the fitting.<br>
+               Select an already created supplier via the dropdown selection.<br>
+               Delete the supplier entered in the line from your list by clicking on the X symbol in the line.<br>
+               <b>Article.:</b> Enter the article number of the angle bracket.<br>
+               <b>Additional Info:</b> Specify additional information that you want to automatically assign to the fitting.
+            </p>
+         </div>
+         <div class="content-text2">
+            <p>
+               Switch to machining mode while editing the fitting to add or remove machining to the fitting.<br>
+               The visualization of the angle fitting is only created once machining has been added to the fitting.<br>
+               The separator in the angle fitting editing mode help you to create the drilling pattern so that you can easily draw the angle fitting into your construction.<br>
+               When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.<br>
+               Confirm your machining by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object21">
+         <div class="content-header">
+            <h2>Edit Rail Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EditRail.png">
+         </div>
+         <div class="content-list2">
+            <p>
+               <b>Supplier:</b> Specify the supplier of the fitting.<br>
+               Select an already created supplier via the dropdown selection.<br>
+               Delete the supplier entered in the line from your list by clicking on the X symbol in the line.<br>
+               <b>Article:</b> Enter the article number of the Rail.<br>
+               <b>Angle:</b> Specify the angle at which the rail is to be created.<br>
+               <b>Icon:</b> Click on the dots in the line to open the selection menu.<br>
+               Select an image stored on your computer for the icon of the fitting.<br>
+               <b>Type:</b> Select whether the rail should be created as a simple rail or as a self-defined profile.<br>
+               <b>Import Profile:</b> Define your own rail profile in the editor and import it to SmartWOP.<br>
+               <b>Width:</b> Specify the width of the rail.<br>
+               <b>Height:</b> Specify the height of the rail.<br>
+               <b>Radius:</b> Specify the radius of the rail<br>
+               <b>Additional Info:</b> Specify additional information that you want to automatically assign to the fitting.
+            </p>
+         </div>
+         <div class="content-text2">
+            <p>
+               Switch to edit mode while editing the fitting to add or remove machining to the fitting.<br>
+               When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.<br>
+               Confirm your edited fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object22">
+         <div class="content-header">
+            <h2>Set  Favorites</h2>
+            <img id="myImg" src="images\Beschlaege_EN\Favoriten.jpg">
+         </div>
+         <div class="content-text">
+            <p>
+               You have the possibility to mark selected fittings as favorites so that you can quickly find them in your fittings.<br>
+               To do this, select the fitting you want to set as a favorite and click on the small blue bordered star in the icon of the fitting.<br>
+               To remove a fitting as a favorite, click the favorite star again.<br>
+               SmartWOP will ask you if the fitting should be removed from the favorites list.<br>
+               Activate the orange favorites star under the hardware selection bar to display only your favorites in the hardware list.<br>
+               Fittings that have already been combined in a variable database, such as the Blum variable pot hinges, cannot be marked as a favorite.<br>
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object23">
+         <div class="content-header">
+            <h2>Fitting Search bar</h2>
+         </div>
+         <div class="content-text2">
+            <p>
+               In the fitting search bar, you can filter out and display individual fittings from your entire fitting database 
+               using the name of a fitting or the article number of a fitting.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object24">
+         <div class="content-header">
+            <h2>Blum variable Hinges</h2>
+            <img id="myImg" src="images\Beschlaege_EN\ApplicationHingesBlum.png">
+         </div>
+         <div class="content-text">
+            <p>
+               To add a hinge to your construction, you need a door that you can put the hinges on.<br>
+               Blum's combined hinge fittings lists provide you with flexible and quick choices to match the hinge to your construction.<br>
+               The icons show you for which overlay situation, the individual data banks can be used.<br>
+               The different applications are divided into standard application, wide angle hinges and profile door application, each for inside and outside hinges.<br>
+               When using the variable Blum hinges data base, the pot hole spacing is taken into account and automatically adjusted when the fittings are pulled in, depending on the joint dimensions.<br>
+            </p>
+         </div>
+         <div class="content-list">
+            <p>
+               <b>Count:</b> Specify the number of pot bands.<br>
+               <b>Step (max.):</b> Specify a dimension at which distances the pot bands should be located at maximum.<br>
+               You have the option of either specifying the number of pot bands or setting a maximum step at which the pot bands should be spaced.<br>
+               To do this, click on the icon on the far right in the line.<br>
+               <b>Top Distance:</b> Specify the desired distance of the upper pot band.<br>
+               <b>Bottom Distance:</b> Specify the desired distance of the lower pot band.<br>
+               <b>Positions:</b> In the dropdown menu you have the possibility to determine the positions of the individual pot bands.<br>
+               <b>Configuration UI:</b> In the UI configurator, you have the option of specifying an individual name for the fitting in the CSV material list.<Br>
+               Call the name Template Editor via the pencil icon on the right side of the bar.<br>
+               Select the information stored in the template editor with a double left mouse click to add the selected information to the fitting in the CSV material list.<br>
+               <b>Configuration:</b> In the drop-down menu, you have the option of specifying settings for the fitting and inserting the cup hinge and the mounting plate directly via the filter function to suit the fitting.<br>
+               To activate the configurator, click on the filter icon in the "Hinge" line.<br>
+               If the configuration has been set in such a way that there is no possible combination for the cup hinge or mounting plate, the hinge or mounting plate is not output when the fitting is pulled in..<br>
+               The fitting information entered in the configurator is processed directly by SmartWOP and the matching cup hinge and mounting plate are selected directly in the "Accessories" field and used directly when inserting the fitting.<br>
+               <b>Accessories:</b> In the drop-down menu you have the possibility to select the hinge and mounting plate of the fitting.<br>
+               <b>Hinge:</b> Use the drop-down selection on the right of the line to select the hinge.<br>
+               Activate the filter function to consider the information set in the configurator for the selection of the hinge and mounting plate.<br>
+               Deactivate the filter function to specify the selection of the hinge and mounting plate itself.<br>
+               <b>Mounting Plate:</b> Use the drop-down selection on the right of the line to select the mounting plate.<br>
+               <b>Alignment:</b> Select on which side the hinge is to be attached.<br>
+               <b>Bind outer to Shelf Bores:</b> Tick the box to orient the upper and lower hinge, for mounting plate machining, directly to the system hole..<br>
+               The outer hinges are set on the next possible system hole line machining, the positions are assigned to the fitting.<br>
+               <b>Bound inner to Shelf Bores:</b> Tick the box to let the middle hinges, for the mounting plate machining, orient directly to the system hole line.<br>
+               The middle hinges are set on the next possible system hole line machining, the positions are aligned to the fitting.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object25">
+         <div class="content-header">
+            <h2>Insert Hinges</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EnterHinge.png">
+         </div>
+         <div class="content-text">
+            <p>
+               To add a pot hinge to your construction, you need a door that you can put the pot hinge on.<br>
+               Select the desired pot hinge and drag it into your design.<br>
+               In the template window you have the possibility to make adjustments to the fitting.
+            </p>
+         </div>
+         <div class="content-list">
+            <p>   
+               <b>supplier:</b> Specify the supplier of the fitting.<br>
+               Select an already created supplier via the dropdown selection.<br>
+               Delete the supplier entered in the line from your list by clicking on the X symbol in the line.<br>
+               <b>Article:</b> Specify the article number of the fitting.<br>
+               <b>Mounting plate:</b> Use the drop-down selection on the right of the line to select the mounting plate.<br>
+               Activate the filter function to automatically select the mounting plate based on the set adjustments.<br>
+               Deactivate the filter function to specify the selection of the mounting plate yourself.<br>
+               <b>Count:</b>Specify the number of pot hinges.<br>
+               <b>Step (max.):</b> Specify a dimension at which distances the hinges should be located at maximum.<br>
+               You have the option of either specifying the number of pot hinges or specifying a maximum step at which the pot hinges should be spaced.<br>
+               To do this, click on the icon on the far right in the line.<br>
+               <b>Top Distance:</b> Specify the desired distance of the upper pot hinge.<br>
+               <b>Bottom Distance:</b> Specify the desired distance of the lower pot hinge.<br>
+               <b>Positions:</b> In the drop-down menu you have the possibility to determine the positions of the individual pot hinges.<br>
+               <b>Cup Distance:</b> Specify the desired pot hole spacing for the fitting.<br>
+               <b>Alignment:</b> Select on which side the pot hinge is to be attached.<br>
+               <b>Bind outer to Shelf Bores:</b> Tick the box to orient the upper and lower pot hinge, for mounting plate machining, directly to the system hole line.<br>
+               The outer pot hinges are set on the next possible system hole line machining, the positions are assigned to the fitting..<br>
+               <b>Bind inner to Shelf Bores:</b> Set the hook to orient the middle pot hinges, for the mounting plate machining, directly to the system hole line..<br>
+               The middle pot hinges are set on the next possible system hole line machining, the positions are assigned to the fitting..
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object26">
+         <div class="content-header">
+            <h2>Insert Handle</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EnterHandle.png">
+         </div>
+         <div class="content-text">
+            <p>
+               To add a handle to your construction, you need a door or a drawer front, which you can put the handle on.<br>
+               Select the desired handle and drag it into your construction.<br>
+               In the template window you have the possibility to make adjustments to the fitting.
+            </p>
+         </div>
+         <div class="content-list">
+            <p>
+               <b>Supplier:</b> Specify the supplier of the fitting.<br>
+               Select an already created supplier via the dropdown selection.<br>
+               Delete the supplier entered in the line from your list by clicking on the X symbol in the line.<br>
+               <b>Article:</b> Specify the article number of the fitting.<br>
+               <b>Horizontal Distance:</b> SmartWOP shows you how large the horizontal distance of the handle to the outer edge of the workpiece is.<br>
+               <b>Vertical Distance:</b> SmartWOP shows you how large the vertical distance of the handle to the outer edge of the workpiece is.<br>
+               <b>Angle:</b> Specify at what angle the handle should be.<br>
+               <b>Horizontal Align:</b> Specify how the handle, in the horizontal, should be aligned.<br>
+               <b>Vertical Align:</b> Specify how the handle, in the vertical, should be aligned.<br>
+               <b>Absolute Position:</b> Under the vertical alignment, select the base surface and specify the absolute position of the handle from the base line.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object27">
+         <div class="content-header">
+            <h2>Blum variable Drawer Systems</h2>
+            <img id="myImg" src="images\Beschlaege_EN\ApplicationDrawerBlum.png">
+         </div>
+         <div class="content-text">
+            <p>
+               In order to insert a drawer fitting into your construction, you need a drawer front on which you can mount the drawer system.<br>
+               Blum's summarized drawer fittings lists offer you flexible and quick selection options to adapt the drawer system to your construction.<br>
+               The icons show you for which versions the individual databases can be used..<br>
+               The different applications are divided into frame height and for inner and regular drawers.<br>
+               When using the variable Blum drawer fittings, the longest possible rail length, depending on the cabinet depth, is taken into account and automatically adjusted when pulling in the fittings..<br>
+            </p>
+         </div>
+         <div class="content-list">
+            <p>   
+               <b>Bottom Indent:</b> Specify the bottom distance of the drawer fitting to the volume.<br>
+               <b>Configuration UI:</b> In the UI configurator, you have the option of specifying an individual name for the fitting in the CSV material list.<Br>
+               Call the name Template Editor via the pencil icon on the right side of the bar.<br>
+               Select the information stored in the template editor with a double left mouse click to add the selected information to the fitting in the CSV material list.<br>
+               <b>Configuration:</b> In the drop-down menu, you have the option to specify settings for the hardware and directly insert the carcass rail set, frame set, back panel holder set and the front fasteners to fit..<br>
+               The drawer systems configurator is always active and does not have to be selected beforehand via a filter.<br>
+               If the configuration is set in such a way that there is no possible combination for rail system, frame set, back panel holder set or the front fixings, the part of the drawer system is not output when the fitting is pulled in.<br>
+               The missing accessory part is then no longer displayed in the template window.<br>
+               The fitting information entered in the configurator is processed directly by SmartWOP and the matching rail set, frame set, rear panel holder set and front fasteners are selected directly under the "Accessories" field and used directly when the fitting is inserted..<br>
+               The fitting parts, are directly output with article number in the material list.<br>
+               <b>Accessories:</b> In the drop-down menu you have the option to select rail set, frame set and the front fixings of the fitting.<br>
+               <b>Cabinet profile set:</b> Select the rail set via the drop-down selection on the right side of the line.<br>
+               <b>Back fix set:</b> Select the back fix set via the drop-down selection on the right side of the line.<br>
+               <b>Front fixing bracket:</b> Select the front fixing bracket set via the drop-down selection on the right side of the line.<br>
+               <b>Panel Generation:</b> Specify the material from which the drawer parts(bottom/back) to be produced yourself are to be made.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object28">
+         <div class="content-header">
+            <h2>Insert Drawer System</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EnterDrawer.png">
+         </div>
+         <div class="content-text">
+            <p>
+               In order to insert a drawer fitting into your construction, you need a drawer front on which you can mount the drawer system.<br>
+               Select the desired drawer system and drag it into your construction.<br>
+               In the template window you have the possibility to make adjustments to the fitting.
+            </p>
+         </div>
+         <div class="content-list">
+            <p>   
+               <b>Supplier:</b> Specify the supplier of the fitting.<br>
+               Select an already created supplier via the dropdown selection.<br>
+               Delete the supplier entered in the line from your list by clicking on the X symbol in the line.<br>
+               <b>Article:</b> Specify the article number of the fitting.<br>
+               <b>Bottom Indent:</b> Specify the bottom clearance of the drawer fitting to the volume.<br>
+               <b>Space Bottom Indent:</b> Enter how much the frame should recess in height from the bottom.<br>
+               <b>Panel Generation:</b> In the drop-down menu you have the possibility to make settings of the workpiece.<br>
+               <b>Default Depth:</b> The default depth is displayed depending on the selected fitting.<br>
+               <b>Depth Extension:</b> Specify the extension in depth, for the determination of the volume, for the drawer frame.<br>
+               You can lengthen the volume with a positive value or shorten it with a negative value.<br>
+               <b>Material:</b> Specify the material from which the drawer parts to be produced yourself are to be made.<br>
+               <b>Limit Space Height:</b> Check the box if you want to set the volume for the drawer interiors in height to a fixed value.<br>
+               <b>Space Height:</b> Specify how high the volume for the drawer interiors should be.<br>
+               <b>Accessories:</b> SmartWOP shows you which fitting you have selected.<br>
+               This information is taken into account in the list of materials and is included in the output.<br>
+               <b>Additional Info:</b> Specify additional information that you want to add to the fitting on the material list.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object29">
+         <div class="content-header">
+            <h2>Insert Leg Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EnterLeg.png">
+         </div>
+         <div class="content-text">
+            <p>
+               To insert a leg fitting into your construction, you need a horizontal plate on which you can mount the leg fitting.<br>
+               Select the desired adjustable leg fitting and drag it into your construction.<br>
+               In the template window you have the possibility to make adjustments to the fitting.
+            </p>
+         </div>
+         <div class="content-list">
+            <p>   
+               <b>Supplier:</b> Specify the supplier of the fitting.<br>
+               Select an already created supplier via the dropdown selection.<br>
+               Delete the supplier entered in the line from your list by clicking on the X symbol in the line.<br>
+               <b>Article:</b> Specify the article number of the fitting.<br>
+               <b>Count:</b> Specify the number of legs required.<br>
+               <b>Rows:</b> Select from the drop-down menu on the right whether the leveling feet are required Front, Rear or Front and Rear.<br>
+               <b>Offsets:</b> Specify the distances of the legs from the outer edge of the base plate, in each case for left, right, front and back.<br>
+               <b>Row Distance:</b> Specify the distances between the legs.<br>
+               On the right of the line, by clicking on the icon, you have the possibility to specify whether the distances of the legs should be given in mm or in division.<br>
+               <b>Rotation Angle:</b> In the dropdown menu you have the possibility to adjust the rotation angle of each leg.<br>
+               <b>Height:</b> The height of the foot fitting is already assigned to the fittings and is only displayed in the template.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object30">
+         <div class="content-header">
+            <h2>Insert Angle bracket</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EnterAngleBracket.png">
+         </div>
+         <div class="content-text">
+            <p>
+               To insert an angle fitting into your construction, you need an item to which you can attach the angle fitting.<br>
+               Select the desired angle fitting and drag it into your construction.<br>
+               In the template window you have the possibility to make adjustments to the fitting.
+            </p>
+         </div>
+         <div class="content-list">
+            <p>   
+               <b>Supplier:</b> Specify the supplier of the fitting.<br>
+               Select an already created supplier via the dropdown selection.<br>
+               Delete the supplier entered in the line from your list by clicking on the X symbol in the line.<br>
+               <b>Article:</b> Specify the article number of the fitting.<br>
+               <b>Count:</b> Specify the number of angle fittings required.<br>
+               <b>Step (max.):</b> Specify a dimension at which distances the angle fittings should be at maximum.<br>
+               You have the possibility to specify either the number of angle brackets or a maximum step at which the angle brackets should be spaced.<br>
+               <b>Top Distance:</b> Enter the distance of the upper angle bracket from the outer edge of the item to the angle fitting.<br>
+               <b>Bottom Distance:</b> Enter the distance of the lower angle bracket from the outer edge of the item to the angle fitting.<br>
+               On the right side of the line you have the possibility to lock the distances of your angle fitting by clicking on the lock symbol, in order to always set the distances of the angle fitting to a fixed value of top/bottom, even when saving the construction as a component.<br>
+               <b>Positions:</b> Specify the positions of the respective angle brackets.<br>
+               <b>Distance to Edge:</b> Specify the distance of the fitting from the edge of the item.<br>
+               Consider the distance to the edge of the workpiece when mounting an angle fitting e.g. on a back panel that is grooved in other workpieces.<br>
+               <b>Edge:</b> In the drop-down menu you have the option to select the reference edge for the angle fitting.<br>
+               Keep in mind that depending on the reference edge, the distances may not be correct and the angle fitting may therefore be outside the volume.<br>
+               The Selected reference edge determines in which direction the angle fitting runs and specifies the calculation points for the fitting.<br>
+               <b>Top Side/Bottom Side:</b> Check the box if you want to change the processing side of the fitting.<br>
+               <b>Switch Arms:</b>Set the check mark if you want to exchange the angle arms.<br>
+               <b>Mirror:</b> Check the box if you want to mirror the fitting on the opposite side.<br>
+               <b>Additional Info:</b> Specify additional information that you want to add to the fitting on the material list.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object31">
+         <div class="content-header">
+            <h2>Insert Rail</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EnterRail.png">
+         </div>
+         <div class="content-text">
+            <p>
+               To insert a rail fitting into your construction, you need a workpiece on which you can mount the fitting.<br>
+               Select the desired rail fitting and drag it into your construction.<br>
+               In the template window you have the possibility to make adjustments to the fitting.
+            </p>
+         </div>
+         <div class="content-list">
+            <p>   
+               <b>Supplier:</b> Specify the supplier of the fitting.<br>
+               Select an already created supplier via the dropdown selection.<br>
+               Delete the supplier entered in the line from your list by clicking on the X symbol in the line.<br>
+               <b>Article:</b> Specify the article number of the fitting.<br>
+               <b>X Position:</b> Specify the position of the rail on the X axis.<br>
+               To change the axis for determining the position, click on the Right arrow in the line.<br>
+               <b>Y Position:</b> Specify the position of the rail on the Y axis.<br>
+               To change the axis for determining the position, click on the Right arrow in the line.<br>
+               <b>Angle:</b> Specify the angle at which the rail should be rotated.<br>
+               <b>Extension left:</b> Specify how far the rail should be extended, over the volume, on the left side.<br>
+               If you have added a pocket for e.g. a recessed grip to the rail when creating it, it will be added automatically when extending it.<br>
+               <b>Extension right:</b> Specify how far the rail should be extended, over the volume, on the right side.<br>
+               If you have added a pocket for e.g. a recessed grip to the rail when creating it, it will be added automatically when extending it.<br>
+               <b>Additional Info:</b> Specify additional information that you want to add to the fitting on the material list.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object32">
+         <div class="content-header">
+            <h2>Insert Lock Systems</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EnterLockSystem.png">
+         </div>
+         <div class="content-text">
+            <p>
+               To add a lock system to your construction, you need a door on which you can mount the fitting.<br>
+               The locking system is available for both the right and left hinge side.<br>
+               Select the lock system fitting and drag it into your construction.<br>
+               In the template window you have the possibility to make adjustments to the fitting.
+            </p>
+         </div>
+         <div class="content-list">
+            <p>   
+               <b>Supplier:</b> Specify the supplier of the fitting.<br>
+               Select an already created supplier via the dropdown selection.<br>
+               Delete the supplier entered in the line from your list by clicking on the X symbol in the line.<br>
+               <b>Article:</b> Specify the article number of the fitting.<br>
+               <b>Horizontal Distance:</b> Specify the horizontal distance of the lock system.<br>
+               The distance of the locking system is taken from the center of the lock pot hole.<br>
+               <b>Vertical Distance:</b> Specify the vertical distance of the lock system.<br>
+               The distance of the locking system is taken from the center of the lock pot hole.<br>
+               <b>Vertical Align:</b> Use the drop-down selection to choose the alignment of the vertical spacing.<br>
+               <b>Absolute Position:</b> SmartWOP shows you on which position the lock system is from the volume bottom edge.<br>
+               The position is indicated from the center of the lock hole.<br>
+               <b>Minimal Distance for Bar Guide:</b> Enter a minimum distance at which the bar guide should be located.<br>
+               The distances of the bar guide are calculated automatically.<br>
+               <b>Vertical Pocket:</b> In the drop-down menu you have the option to make adjustments for the lock passage.<br>
+               <b>Radius Gap:</b> Specify whether and how much the radius to be machined for the lock opening should become larger.<br>
+               <b>Tool Number:</b> Specify the tool number for machining.<br>
+               Select the required tool via the drop-down selection, on the left in the line.<br>
+               <b>Tool Feedrate:</b> Output the feed rate for machining.<br>
+               <b>Fitting:</b>In the drop-down menu, SmartWOP shows you which parts are required for the retracted lock system.<br>
+               <b>Additional Info:</b> Specify additional information that you want to add to the fitting on the material list.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object33">
+         <div class="content-header">
+            <h2>Insert Sliding Door Fitting</h2>
+            <img id="myImg" src="images\Beschlaege_EN\EnterSlidingDoor.png">
+         </div>
+         <div class="content-text">
+            <p>
+               To add a sliding door system to your construction, you need a sliding door, which you can put the fitting on.<br>
+               Select the sliding door fitting and drag it into your construction.<br>
+               In the template window you have the possibility to make adjustments to the fitting.
+            </p>
+         </div>
+         <div class="content-list">
+            <p>   
+               <b>Supplier:</b> Specify the supplier of the fitting.<br>
+               Select an already created supplier via the dropdown selection.<br>
+               Delete the supplier entered in the line from your list by clicking on the X symbol in the line.<br>
+               <b>Article:</b> Specify the article number of the fitting.<br>
+               <b>Offset:</b> Specify the distance from the center of the sliding door carriage machining to the sliding door outer edge.<br>
+               The distance of the sliding door carriage machining is taken from the center of the cup hole.<br>
+               <b>Fitting:</b> In the drop-down menu SmartWOP shows you which parts are needed for the retracted sliding door system.<br>
+               <b>Additional Info:</b> Specify additional information that you want to add to the fitting on the material list.
+            </p>
+         </div>
+         <div class="content" id="object34">
+            <div class="content-header">
+               <h2>Enter Flap system</h2>
+               <img id="myImg" src="images\Beschlaege_EN\EnterFlap.png">
+            </div>
+            <div class="content-text">
+               <p>
+                  To add a flap fitting to your construction, you need a door that you can fit the fitting to.<br>
+                  Select the flap fitting and drag it into your construction.<br>
+                  In the template window, you have the option of making adjustments to the fitting.
+               </p>
+            </div>
+            <div class="content-list">
+               <p>   
+                  <b>Configuration UI:</b> In the drop-down menu of the configuration UI, you have the option of adjusting the overlay situation.<br>
+                  Use the drop-down selection to choose the information of the overlay situation. <br>
+                  The information set in the UI configuration is used and displayed directly when the fitting is used.<br>
+                  The respective article numbers of the fitting and the accessory separators are adapted according to the fitting situation.<br>
+                  <b>Application UI:</b> The drop-down menu shows you which flap fitting is used.<br>
+                  <b>Accessories:</b> In the drop-down menu SmartWOP shows you which parts are needed for the used flap fitting.<br>
+                  <b>Additional Info:</b> Specify additional information that you want to automatically assign to the fitting.
+               </p>
+            </div>
+      </div>
+   </div>
+</body>

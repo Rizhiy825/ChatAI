@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Manu1</title>
+    <link rel="stylesheet" href="../style.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="cache-control" content="no-cache" />
+    <script src="../scripts.js"></script>
+</head>
+
+
+<body>
+    <div id="content1">
+        <h1>Packet Export</h1>
+        <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content" id="img01">
+            <div id="caption"></div>
+        </div>
+        <div class="content" id="object1">
+            <h2>Preface</h2>
+            <p>
+                SmartWOP is giving you the possibility to export NC-programs to several machines simultaneously.<br>
+                This is giving you the possibility to work on one project on several machines simultaneously.
+            </p>
+        </div>
+        <div class="content" id="object2">
+            <h2>Structure</h2>
+            <p>
+                In order to perform an issue-free packet export, the following settings must be made in the options. <br>
+                First of all you will have to create Machine Set-up Configurations and set the directories for the WOP-programs to individual paths.<br>
+                As soon you created the Machine Set Set-up Configurations for all of your machines, you will have to select the machines you want to use for the packet export.<br>
+                Now you can construct in SmartWOP as usual and export the NC-programs, materialists and drawings via packet export.
+            </p>
+        </div>
+        <div class="content" id="object3">
+            <div class="content-header">
+                <h2>Machine Set-Up Configuration</h2>
+                <img id="myImg" src="images\Paketexport_EN\MachineSetup.png">
+            </div>
+            <div class="content-header">
+                <img id="myImg" src="images\Paketexport_EN\Setupcustomize.png">
+            </div>
+            <div class="content-text3">
+                <p>
+                    You will have to create for every machine you want to use a Set-up Configuration.<br>
+                    For creating a Machine Set-up Configuration, open the window for the Set-up customization in File-Options-General.<br>
+                    In this window you will have to create machine profiles for each machine you want to use.<br>
+                    In this window you also rename the machine profiles.<br>
+                    If all machines got its own profile, close the Set-up customization Select each profile individually in the drop-down-menu and tick the box for packet export next to it and complete the Integration for each machine.<br>
+                    When the Integration of the WOP-environment and tool data bases of all machines is done, finish the Machine Set-up Configuration by completing the settings in the Options for Workshop, Export, Tools and if needed in the Other settings.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object4">
+            <div class="content-header"> 
+                <h2>Directories</h2>  
+                <img id="myImg" src="images\Paketexport_EN\Directories.png">
+            </div>
+            <div class="content-text">
+                <p>
+                    As last step you will have to select the path for the export of the Export WOP for each machine in File-Options-Directories individually.<br>
+                    The path for the Export WOP must be different for each machine, otherwise the NC programs cannot be exported.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object5">
+            <div class="content-header">
+                <h2>Packet to Machine</h2>
+                <img id="myImg" src="images\PackettoMachine.png">
+            </div>
+            <div class="content-text">
+                <p>
+                    If the project is completed you will have to export via File-Export-Machine-Packet to Machine.<br>
+                    The NC-programs will be saved in the path which you entered in the Directories.<br>
+                    In the drop-down-menu of Packet to Machine, can be selected if you also want to export the materialist and the drawings for the project.<br>
+                    The materialist and the drawings will be exported once.<br>
+                    The materialist includes all list for the different machines automatically.<br>
+                    If you export with the packet export a window will appear, in which you will have to choose the path for saving the materialist and the drawings.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object6">
+            <div class="content-header">
+                <h2>Edit Packettemplate</h2>
+                <img id="myImg" src="images\Packet Template.png">
+            </div>
+            <div class="content-text">
+                <p>
+                    You can customize the materialist individually for your own use. To do so edit the PacketTemplate in C:\ProgramData\SmartWOP\MaterialList.
+                </p>
+            </div>
+        </div>
+    </div>
+</body>

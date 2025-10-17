@@ -1,1 +1,0 @@
-Select an item and activate Edit Bottom to insert machining on the bottom side via WoodWOP. The side to be machined is marked with a yellow arrow

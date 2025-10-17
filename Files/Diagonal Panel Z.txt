@@ -1,1 +1,0 @@
-Drag the diagonal panel Z into the base and position it using arrows or by entering dimensions. In the settings window you will find more settings to optimise your panel, such as name, absolute left and right positions, angle (‑89° to 89°), thickness, orientation, skewed edges and pick point

@@ -1,0 +1,3 @@
+When you switch to room mode, the room start bar button appears in the top selection bar.
+Select the button to select several or all room elements at the same time.
+Only room elements that are completely in the frame are selected.

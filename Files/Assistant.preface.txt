@@ -1,0 +1,1 @@
+SmartWOP offers the possibility to teach the assistant to save templates for designing different construction methods and to use them automatically when designing.

@@ -1,0 +1,1 @@
+Activate the button to display the construction in polygon mode.

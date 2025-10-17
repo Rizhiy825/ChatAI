@@ -1,0 +1,4 @@
+In the bottom right-hand corner of the screen, you have the option of switching to your SmartWOP gallery.
+In the gallery, you can enter the folder paths of the components, projects or Wop programmes and call up or drag in the saved content directly in SmartWOP.
+Constructions that are used directly from the gallery can be called up by double-clicking or dragged and dropped into the scene.
+Constructions in your gallery can be moved within the gallery using drag and drop.

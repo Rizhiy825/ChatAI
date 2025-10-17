@@ -1,0 +1,1 @@
+Activate the button to display the basic layer as a grid.

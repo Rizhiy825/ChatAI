@@ -1,0 +1,37 @@
+Icon:
+Click on the dots in the line to open the selection menu.
+Select an icon for the fitting from your images saved on the computer.
+Supplier:
+Specify the supplier of the fitting.
+Select an already created supplier via the dropdown selection.
+Delete the supplier entered in the line from your list by clicking on the X symbol in the line.
+Article:
+Enter the item number of the hinge.
+Mounting plate Article:
+Enter the article number of the mounting plate.
+Import Hinge:
+You have the possibility to import already defined hinges as .VRML file.
+Import Mounting plate:
+You have the possibility to import already defined mounting plates as .VRML file.
+The .VRML files specify the already given opening angle of the tape, so you can better plan with the hinges.
+Fittings imported as .VRML file, already contain the drilling pattern of the fitting.
+Transform:
+Open the drop-down menu to position the .VRML imported fittings.
+Standard:
+Open the drop-down menu to move the imported fitting in X/Y/Z axis.
+Rotation:
+Open the drop-down menu to rotate the imported fitting in X/Y/Z axis.
+Count:
+SmartWOP shows you how many bands are used when creating the fitting.
+Cup Distance:
+SmartWOP shows you how the pot hole distance is set.
+Additional Info:
+Specify additional information that you want to automatically assign to the fitting.
+
+Switch to machining mode while creating the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your self-defined fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.
+
+Switch to machining mode while creating the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your self-defined fitting by clicking on the orange arrow in the drop-down menu of the fitting selection bar.

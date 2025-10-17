@@ -1,0 +1,4 @@
+In order to perform an issue-free packet export, the following settings must be made in the options.
+First of all you will have to create Machine Set-up Configurations and set the directories for the WOP-programs to individual paths.
+As soon you created the Machine Set Set-up Configurations for all of your machines, you will have to select the machines you want to use for the packet export.
+Now you can construct in SmartWOP as usual and export the NC-programs, materialists and drawings via packet export.

@@ -1,0 +1,34 @@
+As long as single-sided machining is not activated, you can only mount the Rastex/Cabineo if you have a vertical panel and a horizontal panel that abut against each other.
+Pull the Rastex/Cabineo onto the joint edge that is to receive the Rastex/Cabineo.
+In the template window you will find further settings to optimise your machining.
+
+Count:
+Enter the desired number of Rastex/Cabineo.
+Step Max.:
+Specify the maximum step between the Rastex/Cabineo.
+You have the option of either specifying the number of Rastex/Cabineo or specifying a maximum step at which the Rastex/Cabineo should be spaced.
+To do this, click on the symbol on the far right of the line.
+Distances:
+Specify the distance of the first and/or last Rastex/Cabineo in mm.
+Click on the symbol on the right-hand side of the line to set the distances between the Rastex/Cabineo, either to a fixed value in mm or divided into the spaces.
+Housing Hole:
+You can specify the desired values for machining the housing in the drop-down menu.
+Second Housing Hole:
+Set the hook to add a second hole for the Rastex/Cabineo housing machining.
+In the drop-down menu, you can adjust the machining of the second drill hole to the desired values.
+Third Housing Hole:
+Set the hook to add a third hole for the Rastex/Cabineo housing machining.
+In the drop-down menu, you can adjust the machining of the third drill hole to the desired values.
+Pocket for Cover Caps:
+Use the hook to add a pocket milling to the housing for the cover cap.
+In the drop-down menu, you can adjust the machining of the pocket to the desired values.
+Housing Side:
+Tick the box to change the housing opening side.
+Bolt:
+You can specify the desired values for the bolt machining in the drop-down menu.
+Connection Area:
+SmartWOP shows you the connection area of the currently selected connection.
+Fitting:
+Select a prefabricated fitting (Rastex/Cabineo) for the connectors to add them to the material list.
+The machining of the connectors is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.
+If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.

@@ -1,0 +1,2 @@
+Select a base from items in lower right corner.
+Pull the base with pressed left mouse button in the construction level.

@@ -1,0 +1,2 @@
+Folders can be pinned in the gallery to gain quick access to the components you have created yourself and to use them in your constructions via drag and drop.
+You can create folders with additional subfolders for different types of SmartWOP components.

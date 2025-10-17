@@ -1,0 +1,1 @@
+Click the button to select all unselected items and deselect the selected ones.

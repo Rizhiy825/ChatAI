@@ -1,0 +1,2 @@
+In order to use a assistant, you must first create a basic construction from which you take into account the name, the joint processing, the edge assignment and the settings of the export tuning of the components to be used in the assistant.
+Once you have created a basic design, you can teach the assistant. As long as an assistant is activated, the preset points will be applied in your design.

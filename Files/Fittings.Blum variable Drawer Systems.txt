@@ -1,0 +1,29 @@
+In order to insert a drawer fitting into your construction, you need a drawer front on which you can mount the drawer system.
+Blum's summarized drawer fittings lists offer you flexible and quick selection options to adapt the drawer system to your construction.
+The icons show you for which versions the individual databases can be used..
+The different applications are divided into frame height and for inner and regular drawers.
+When using the variable Blum drawer fittings, the longest possible rail length, depending on the cabinet depth, is taken into account and automatically adjusted when pulling in the fittings..
+
+Bottom Indent:
+Specify the bottom distance of the drawer fitting to the volume.
+Configuration UI:
+In the UI configurator, you have the option of specifying an individual name for the fitting in the CSV material list.
+Call the name Template Editor via the pencil icon on the right side of the bar.
+Select the information stored in the template editor with a double left mouse click to add the selected information to the fitting in the CSV material list.
+Configuration:
+In the drop-down menu, you have the option to specify settings for the hardware and directly insert the carcass rail set, frame set, back panel holder set and the front fasteners to fit..
+The drawer systems configurator is always active and does not have to be selected beforehand via a filter.
+If the configuration is set in such a way that there is no possible combination for rail system, frame set, back panel holder set or the front fixings, the part of the drawer system is not output when the fitting is pulled in.
+The missing accessory part is then no longer displayed in the template window.
+The fitting information entered in the configurator is processed directly by SmartWOP and the matching rail set, frame set, rear panel holder set and front fasteners are selected directly under the "Accessories" field and used directly when the fitting is inserted..
+The fitting parts, are directly output with article number in the material list.
+Accessories:
+In the drop-down menu you have the option to select rail set, frame set and the front fixings of the fitting.
+Cabinet profile set:
+Select the rail set via the drop-down selection on the right side of the line.
+Back fix set:
+Select the back fix set via the drop-down selection on the right side of the line.
+Front fixing bracket:
+Select the front fixing bracket set via the drop-down selection on the right side of the line.
+Panel Generation:
+Specify the material from which the drawer parts(bottom/back) to be produced yourself are to be made.

@@ -1,0 +1,2 @@
++
+Press the Alt and C keys to duplicate the selected volume.

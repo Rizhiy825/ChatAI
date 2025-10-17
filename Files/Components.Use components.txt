@@ -1,0 +1,4 @@
+A SmartWOP component can be inserted variably into a volume.
+To do this, drag a basic volume onto the base area and customize its width, height and depth.
+Then drag in the desired component via the Gallery category.
+The component automatically adapts to the base body on all sides with all its contents.

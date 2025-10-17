@@ -1,0 +1,2 @@
++
+Press the Alt key and the left mouse button to deselect individual items.

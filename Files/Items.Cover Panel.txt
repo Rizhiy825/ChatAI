@@ -1,0 +1,14 @@
+You can only place the cover panel outside the base.
+Drag the cover panel on the base.
+In the settings window you will find more settings to optimize your panel.
+
+Name
+Enter a name for your Panel.
+Thickness
+Enter the thickness of the panel.
+Panel Position
+Open the dropdown menu to enter the desired space individually for every shelves to the lower base volume.
+Exterior/Interior
+Tip the box to change on which side the cover panel is supposed to be.
+Pick Point
+If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.

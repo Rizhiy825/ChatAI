@@ -1,1 +1,0 @@
-Drag the horizontal traverse into the base. Position it by arrows or by entering dimensions. In the settings window you will find more settings to optimise your panel, such as name, absolute position, width, thickness, execution type (between two panels, only front panel or only back panel), front and back setbacks, and options for skewed edges and pick point

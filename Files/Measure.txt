@@ -1,1 +1,0 @@
-Use the Measure tool to measure distances between points. Activate the button, select a starting point and drag a dimension line to the desired point. If points are on different axes, SmartWOP also displays X/Y/Z values. Measurement displays are temporary and disappear when a new point is selected

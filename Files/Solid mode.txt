@@ -1,1 +1,0 @@
-Select Solid mode to switch from transparency to solid material display. The submenu allows you to toggle contour lines in material mode. Click again to return to transparency mode

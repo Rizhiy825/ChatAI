@@ -1,0 +1,7 @@
+Activate the button to add a comment to specific items or volumes.
+Click on an item to add an individual comment.
+To identify which item you have selected, the comment is given as the item name.
+Enter the desired comment in the input window.
+You have the option of moving the comment display by selecting a comment and dragging it to the desired position while holding down the mouse button.
+Comments are permanent and can only be deleted using the delete function (Del).
+In the View-task, you have the option to show or hide comments.

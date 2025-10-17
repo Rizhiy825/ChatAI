@@ -1,0 +1,3 @@
+Before you can insert Items you will need to have a base.
+Insert items in your base by drag and drop.
+Remember that you work from the outside to the inside in SmartWOP.

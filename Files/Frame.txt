@@ -1,1 +1,0 @@
-The Frame tool lets you draw a selection rectangle to select several items at once. Only items entirely within the frame are selected

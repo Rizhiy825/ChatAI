@@ -1,0 +1,15 @@
+To add a flap fitting to your construction, you need a door that you can fit the fitting to.
+Select the flap fitting and drag it into your construction.
+In the template window, you have the option of making adjustments to the fitting.
+
+Configuration UI:
+In the drop-down menu of the configuration UI, you have the option of adjusting the overlay situation.
+Use the drop-down selection to choose the information of the overlay situation.
+The information set in the UI configuration is used and displayed directly when the fitting is used.
+The respective article numbers of the fitting and the accessory separators are adapted according to the fitting situation.
+Application UI:
+The drop-down menu shows you which flap fitting is used.
+Accessories:
+In the drop-down menu SmartWOP shows you which parts are needed for the used flap fitting.
+Additional Info:
+Specify additional information that you want to automatically assign to the fitting.

@@ -1,0 +1,6 @@
+You will have to create for every machine you want to use a Set-up Configuration.
+For creating a Machine Set-up Configuration, open the window for the Set-up customization in File-Options-General.
+In this window you will have to create machine profiles for each machine you want to use.
+In this window you also rename the machine profiles.
+If all machines got its own profile, close the Set-up customization Select each profile individually in the drop-down-menu and tick the box for packet export next to it and complete the Integration for each machine.
+When the Integration of the WOP-environment and tool data bases of all machines is done, finish the Machine Set-up Configuration by completing the settings in the Options for Workshop, Export, Tools and if needed in the Other settings.

@@ -1,0 +1,23 @@
+You can only place the filler/infill outside the base.
+Drag the filler/infill on the base.
+In the settings window you will find more settings to optimize your panel.
+
+>
+Name
+: Enter a name for your Panel.
+Thickness
+Enter the thickness of the panel.
+Width
+Enter the Width of the panel.
+Position
+Enter a Setback for the Panel.
+Distance to Panel
+Enter a space between panel and corpus.
+Panel Dimensions
+Open the dropdown menu to cut or extend the panel.
+Mounting Panel
+Tick the box when you want to have a mounting panel. Open the dropdown menu to change Dimensions of your mounting panel.
+Exterior/Interior
+Tip the box to change on which side the cover panel is supposed to be.
+Pick Point
+If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.

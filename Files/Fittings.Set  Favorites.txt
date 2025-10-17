@@ -1,0 +1,6 @@
+You have the possibility to mark selected fittings as favorites so that you can quickly find them in your fittings.
+To do this, select the fitting you want to set as a favorite and click on the small blue bordered star in the icon of the fitting.
+To remove a fitting as a favorite, click the favorite star again.
+SmartWOP will ask you if the fitting should be removed from the favorites list.
+Activate the orange favorites star under the hardware selection bar to display only your favorites in the hardware list.
+Fittings that have already been combined in a variable database, such as the Blum variable pot hinges, cannot be marked as a favorite.

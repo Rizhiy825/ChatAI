@@ -1,1 +1,0 @@
-Drag screws onto the joint edge between panels. Specify the number or maximum spacing, distances, centre alignment or dimension to screw centre, reference edge, and customise screw machining. Select a fitting profile (Screw) to add to the material list

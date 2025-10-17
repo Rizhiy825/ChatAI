@@ -1,0 +1,3 @@
+Click the button to call up the tool profiles that are read into SmartWOP.
+In the drop-down menu, select the tool you want to display in the profile.
+You can create or modify tools in the tool profile window.

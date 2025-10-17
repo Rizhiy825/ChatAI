@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Menu1</title>
+    <link rel="stylesheet" href="../style.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="cache-control" content="no-cache" />
+    <script src="../scripts.js"></script>
+</head>
+
+<body>
+    <div>
+        <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content" id="img01">
+            <div id="caption"></div>
+        </div>
+        <h1>Materials</h1>
+        <div class="content" id="object1">
+            <div class="content-header">
+                <h2>Create new folder</h2>
+                <img id="myImg" src="images\Materialien\Materialeinfuegen.jpg">
+            </div>
+            <div class="content-text">
+                Click the button to create a new folder and name it.<br>
+                You have the option of creating a folder in an already existing folder by
+                opening a folder before clicking the button.<br>
+                <br>
+            </div>
+        </div>
+    </div>
+    <div class="content" id="object2">
+        <div class="content-header">
+            <h2>Create materials from texture folder</h2>
+            <img id="myImg" src="images\Materialien\Materialeinfuegen.jpg">
+        </div>
+        <div class="content-text">
+            Create a new subfolder for your materials using the Create new folder button.<br>
+            Select Automatically create materials from texture folder.<br>
+            <img id="ImgText" src="images\MaterialienanAnlegen_EN\Create_fromfolder.jpg"><br>
+            In the menu that opens, you have the option of selecting the panel thicknesses and edge thicknesses that you use edge thicknesses in the menu.<br>
+            Click on Add new panel material and open the tab of the newly created panel material by clicking on the arrow on the left.<br>
+            <img id="ImgText" src="images\MaterialienanAnlegen_EN\Open_panelsetting.jpg"><br>
+            Specify a raw material (chipboard).<br>
+            Specify a panel thickness, starting with the thinnest panel.<br>
+            Open the Shift submenu and enter your supplier there.<br>
+            <img id="ImgText" src="images\MaterialienanAnlegen_EN\Supplier.jpg"><br>
+            (either select an already existing supplier via the pull-down menu or simply enter the new name in the line).<br>
+            Repeat the steps for all panel thicknesses you have in your daily use.<br>
+            Next, add the common edges in SmartWOP by clicking Add new edge material.<br>
+            Enter a name for the edge (ex. ABS_1x23)<br>
+            In the Article No. field, enter the name or (article) number to be printed in your material list or also on your label.<br>
+            Specify a supplier if you wish.<br>
+            Enter an edge thickness (ex. 1mm).<br>
+            Select the edge width as ordered from the supplier (ex. 23mm).<br>
+            Select the minimum panel thickness to be covered with this edge (e.g. 8mm).<br>
+            Select the maximum panel thickness to be covered with this edge (e.g. 21mm).<br>
+            <img id="ImgText" src="images\MaterialienanAnlegen_EN\Edges.png"><br>
+            Repeat the steps for each edge thickness and width used in your company.<br>
+            <img id="ImgText" src="images\MaterialienanAnlegen_EN\Repeat.png"><br>
+            Then select Generate panel names in the top menu to have SmartWOP create your panel names with décor name and thickness (ex. Corn Yellow_U156_8).<br>
+            <img id="ImgText" src="images\MaterialienanAnlegen_EN\GenerateNames.jpg"><br>
+            If you do not want to have any décor information in your panel name, but only the panel thickness, please enter the panel thickness in the line of the respective panel material instead of the name.<br>
+            Select the file path to the image files downloaded and unpacked by your producer by clicking on the Path to folder with image files button.<br>
+            Make sure that the grain runs in the X direction (red arrow) and change the angle of the textures to 90° if necessary.<br>
+            <img id="ImgText" src="images\MaterialienanAnlegen_EN\Graindirection.png"><br>
+            When importing decors with a grain progression, make sure that the Rotate grain allowed item is unchecked.<br>
+            <img id="ImgText" src="images\MaterialienanAnlegen_EN\Grain_degree.png"><br>
+            Start the import by pressing the OK button, SmartWOP will now create the materials you have imported for your specified plates and edge thicknesses.<br>
+            If you continue to create materials using the same procedure, the panel and edge thicknesses are adopted again.<br>
+        </div>
+    </div>
+
+    </div>
+    <div class="content" id="object3">
+        <div class="content-header">
+            <h2>Creating room materials</h2>
+            <img id="myImg" src="images\MaterialienanAnlegen_EN\New_Material.jpg">
+        </div>
+        <div class="content-text">
+            Create a new folder for your room design materials by clicking the Create new folder button in the menu.<br>
+            Name your folder (e.g. Room design) and confirm with OK.<br>
+            Create a new material by clicking on the NEW button in the menu.<br>
+            In the newly opened window you can now edit your material.<br>
+            Name your material (e.g. wall plaster).<br>
+            In the Type column you can define the type of your material.<br>
+            In the columns Surface Texture / Section Texture , select the respective texture from your folder in which you have saved your textures (e.g. ...\Materials\Textures).<br>
+            In the Angle column you can rotate your surface texture / Section texture if necessary or under the Mirror columns you can also mirror your textures by X or Y.<br>
+            For wall, floor/ceiling coverings as well as for other plain-colored materials, you can set the hook at Turn grain allowed.<br>
+            Only in the case of wood decors or decors with one direction, this hook must not be set so that the specified dimensions match the décor direction.<br>
+            Under Display Settings you can set various parameters for the surface of your material.<br>
+            Reflection level: Percentage<br>Reflection level: Percentage<br>Glossiness: Percentage
+        </div>
+    </div>
+    <div class="content" id="object4">
+        <div class="content-header">
+            <h2>Create new Custom Material</h2>
+            <img id="myImg" src="images\MaterialienanAnlegen_EN\New_Material.jpg">
+        </div>
+        <div class="content-text">
+            If necessary, create a new folder for your own materials by clicking the Create New Folder button in the menu.<br>
+            Name your folder (e.g. Own materials) and confirm with OK.<br>
+            Create a new material by clicking on the NEW button in the menu.<br>
+            In the newly opened window you can now edit your material.<br>
+            Name your material (e.g. oak veneer).<br>
+            In the Type column, select whether it is coated board, raw material, metal, plastic or glass.<br>
+            In the columns Surface Texture / Texture Cutting Edge, select the respective texture from your folder where you have saved your textures (e.g. ...\Materials\Textures).<br>
+            In the columns Angle you can rotate your surface texture / texture cutting edges if necessary or under the columns Mirror you can also mirror your textures by X or Y.<br>
+            For wall, floor/ceiling coverings as well as for other plain-colored materials, you can set the hook at Turn grain allowed.<br>
+            Only in the case of wood decors or decors with one direction, this hook must not be set so that the specified dimensions match the décor direction.<br>
+        </div>
+    </div>
+    <div class="content" id="object5">
+        <div class="content-header">
+            <h2>Duplicate Material</h2>
+            <img id="myImg" src="images\MaterialienanAnlegen_EN\Material_setting.png">
+        </div>
+        <div class="content-text">
+            You can duplicate individual materials via the button.<br>
+            Duplicate a material to make adjustments within that material without changing the original material.<br>
+            When you duplicate a material, the duplicate editing window opens automatically.
+        </div>
+    </div>
+    <div class="content" id="object6">
+        <div class="content-header">
+            <h2>Edit Material</h2>
+            <img id="myImg" src="images\MaterialienanAnlegen_EN\Material_setting.png">
+        </div>
+        <div class="content-text">
+            You can edit individual materials via the Edit button.<br>
+            Select the material to be edited by left-clicking on the material and activate the edit button.<br>
+            In the material editing window you have the possibility to modify your material.<br>
+            <br>
+            <div class="content-list">
+                <b>Name</b>: Enter the desired name of the material.<br>
+                <b>Type</b>: Specify the type of material.<br>
+                Note that for the type of wood-based materials, it is important to pay attention to whether the material is a multi-layer material(Coated material) or a single-layer material(Raw material).<br>
+                <b>Surface Texture</b>: Use the 3 dots on the right side of the line to select the main texture you want to assign to the material.<br>
+                <b>Angle</b>: Use the drop-down menu to set the angle of the grain so that the grain runs with the red arrow in the material preview.<br>
+                <b>Mirror</b>: Mirror the grain of the texture of your material in X or Y by selecting the mirroring in the drop-down menu.<br>
+                <b>Section Texture</b>: Use the 3 dots on the right of the line to select the texture of the reverse side that you want to assign to the material.<br>
+                <b>Angle</b>: Use the drop-down menu to set the angle of the grain so that the grain runs with the red arrow in the material preview.<br>
+                <b>Mirror</b>: Mirror the grain of the texture of your material in X or Y by selecting the mirroring in the drop-down menu.<br>
+                <b>Rotation allowed</b>: Place a tick if the material does not have a specific grain pattern.<br>
+                <b>Display Settings</b>: In the drop-down menu of the Settings display, you have the option to set the
+                <b>Reflection Level</b> the <b>Specular Level</b> and the <b>Glossiness </b> of the material<br>
+                <b>Add new Panel</b>: Click the button to add a new panel material.<br>
+                <b>Add new Edge</b>: Click the button to add a new edge material.<br>
+            </div>
+        </div>
+    </div>
+    <div class="content" id="object7">
+        <div class="content-header">
+            <h2>Material Picker</h2>
+            <img id="myImg" src="images\MaterialienanAnlegen_EN\Picker.jpg">
+        </div>
+        <div class="content-text">
+            Click the button to activate the Material Picker.<br>
+            With the Material Picker you can quickly find already applied materials in your created material folders.<br>
+            When the material picker is selected and you have the mouse cursor in the scene, it is displayed as an eyedropper.<br>
+            Click with the pipette on a component to which you have already assigned a material in your design.<br>
+            In your materials, you will now immediately get to the material that has been assigned to this component.<br>
+            To deactivate the Material Picker again, click the button again.
+        </div>
+    </div>
+    <div class="content" id="object8">
+        <div class="content-header">
+            <h2>Delete material</h2>
+            <img id="myImg" src="images\MaterialienanAnlegen_EN\Delete.jpg">
+        </div>
+        <div class="content-text">
+            Delete the already existing materials in SmartWOP.<br>
+            To do this, select all the materials in the SmartWOP subfolder (click on the first material, hold down the Shift key and click on the last material in the subfolder) and click on the Delete button.<br>
+            Then delete the folder using the button as well.<br>
+            You can only delete empty folders.
+        </div>
+    </div>
+    </div>
+</body>

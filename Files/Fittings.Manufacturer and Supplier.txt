@@ -1,0 +1,4 @@
+You have the option of specifying the manufacturer and supplier of the fitting.
+To find fittings for which you have specified manufacturers and suppliers more quickly in the fittings database, you can select the manufacturers and suppliers to the left of the fittings to display only these in the list.
+The selected manufacturers and suppliers are displayed with a blue background.
+To select or deselect individual manufacturers or suppliers, left-click on the manufacturer or supplier.

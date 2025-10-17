@@ -1,0 +1,2 @@
+In the base setting window of "Corner Slanted Base" you have several settings like Back Width/Left Width/Front Depth and Right Depth to enter.
+The angle for the opening of the Corner Slanted Base will be calculated and added by SmartWOP automatically.

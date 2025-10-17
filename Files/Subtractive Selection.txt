@@ -1,1 +1,0 @@
-Activate Subtractive Selection to deselect items or volumes. You can also hold the Alt key while clicking to deselect

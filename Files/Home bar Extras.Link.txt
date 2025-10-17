@@ -1,0 +1,3 @@
+Select the workpieces you want to link and press the button.
+You can only link workpieces if they are in the same volume.
+Drawer fronts cannot be linked.

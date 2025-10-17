@@ -1,0 +1,2 @@
+Select the button to switch to edit mode.
+Machine operations can be added to items in the machining mode.

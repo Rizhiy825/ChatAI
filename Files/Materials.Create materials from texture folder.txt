@@ -1,0 +1,25 @@
+Create a new subfolder for your materials using the Create new folder button.
+Select Automatically create materials from texture folder.
+In the menu that opens, you have the option of selecting the panel thicknesses and edge thicknesses that you use edge thicknesses in the menu.
+Click on Add new panel material and open the tab of the newly created panel material by clicking on the arrow on the left.
+Specify a raw material (chipboard).
+Specify a panel thickness, starting with the thinnest panel.
+Open the Shift submenu and enter your supplier there.
+(either select an already existing supplier via the pull-down menu or simply enter the new name in the line).
+Repeat the steps for all panel thicknesses you have in your daily use.
+Next, add the common edges in SmartWOP by clicking Add new edge material.
+Enter a name for the edge (ex. ABS_1x23)
+In the Article No. field, enter the name or (article) number to be printed in your material list or also on your label.
+Specify a supplier if you wish.
+Enter an edge thickness (ex. 1mm).
+Select the edge width as ordered from the supplier (ex. 23mm).
+Select the minimum panel thickness to be covered with this edge (e.g. 8mm).
+Select the maximum panel thickness to be covered with this edge (e.g. 21mm).
+Repeat the steps for each edge thickness and width used in your company.
+Then select Generate panel names in the top menu to have SmartWOP create your panel names with décor name and thickness (ex. Corn Yellow_U156_8).
+If you do not want to have any décor information in your panel name, but only the panel thickness, please enter the panel thickness in the line of the respective panel material instead of the name.
+Select the file path to the image files downloaded and unpacked by your producer by clicking on the Path to folder with image files button.
+Make sure that the grain runs in the X direction (red arrow) and change the angle of the textures to 90° if necessary.
+When importing decors with a grain progression, make sure that the Rotate grain allowed item is unchecked.
+Start the import by pressing the OK button, SmartWOP will now create the materials you have imported for your specified plates and edge thicknesses.
+If you continue to create materials using the same procedure, the panel and edge thicknesses are adopted again.

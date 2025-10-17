@@ -1,0 +1,8 @@
+You have the possibility to define rail profiles yourself and then import them.
+To define a profile yourself, you must first create a .txt e.g. via Microsoft's editor.
+Once the file is created, you must define the contour of the profile using X and Y in the 2-dimentional.
+You always determine the contour line via the contour points (X= and Y=).
+The contour must first be given a starting point e.g.(X=0 Y=0).
+The contour line is always drawn directly from contour point to contour point.
+The entire contour must be self-contained again at the end.
+The length of the rail is not included in the file, because it is automatically related to the total volume.

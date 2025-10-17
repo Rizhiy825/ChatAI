@@ -1,0 +1,10 @@
+Sie haben die Möglichkeit in einer Komponente die Bauteilpositionen zu sperren.
+Das sperren der Position verschiedener Bauteile ermöglicht, dass die gesperrten Bauteile, beim verwenden der Kompoente, den gleich Abstand beibehalten, slebst wenn der Volumenkörper sich vergrößert oder verkleinert.
+Wird die Komponente anschließend in ein Volumen eingezogen wird das gesperrte Maß bei der Positionierung berücksichtigt.
+Alle Bauteile so wie auch Bearbeitungen sind frei anwählbar.
+Die Absolute Position bezieht sich auf das Außenmaß der Konstruktion.
+Das bedeutet das die Materialstärken der Bauteile mit berücksichtigt werden müssen.
+Über die Pfeilrichtung der absoluten Position wird die Bezugskante bestimmt.
+Mit schließen des Schlosssymbols wird der eingegebene Wert in der Komponente gesperrt.
+Wird die Komponente in ein neues Volumen eingezogen, passt sich diese allseitig an.
+Nur die mit dem Schlosssymbol gesperrten Bauteilen, behalten immer die vorgegebenen Positionen.

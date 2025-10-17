@@ -1,0 +1,4 @@
+If you selected one or several base volumes as in step "Select bases" you are able to activate the volumes, by clicking the Button "Activate volume".
+SmartWOP allows you to edit only the green marked bases.
+You can also select a panel and click the button "Activate volume" in this case, you activate the base in which the panel is assigned to.
+This is very helpful if you are working with many separators

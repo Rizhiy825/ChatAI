@@ -1,0 +1,4 @@
+Select the Allow Overlapping button in the start bar.
+Now drag the volume as described in step ,Move bases,to the desired position by using the arrows.
+The allow overlapping button turns blue as long you are in the allow overlapping modus.
+After switching off allow overlapping it is no longer possible to move bases into each other.

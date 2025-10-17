@@ -1,0 +1,5 @@
+To insert fittings, you need item to which you can assign the fittings.
+You can drag and drop fittings onto the items.
+
+To insert fittings, you need item to which you can assign the fittings.
+You can drag and drop fittings onto the items.

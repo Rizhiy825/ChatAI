@@ -1,0 +1,1 @@
+Activate the button to display distances. If the button is not activated, no dimension lines are displayed.

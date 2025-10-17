@@ -1,1 +1,0 @@
-Drag a hole series onto an item’s surface to create rows of holes. Specify number or maximum spacing of hole series, rear setback, distance between series, front setback, bore parameters (diameter, tool number, depth, step), distances from top and bottom, row alignment and processing side

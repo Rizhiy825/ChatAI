@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Menu1</title>
+    <link rel="stylesheet" href="../style.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="cache-control" content="no-cache" />
+    <script src="../scripts.js"></script>
+</head>
+
+<body>
+    <div>
+    <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content" id="img01">
+            <div id="caption"></div>
+    </div>
+        <h1>Assign materials</h1>
+        <div class="content" id="object1">
+            <div class="content-header">
+                <h2>Materials selection window</h2>
+                <img id="myImg" src="images\Materialzuweisen_EN\Selection.png">
+            </div>
+            <div class="content-text">
+                As soon as you switch to material mode during a construction, the selection window opens.<br>
+                You can use the selection window to decide whether surfaces are to be provided with a new material and which edging is to be applied to the item.<br>
+                Select one or more items in your design to expand the selection window.<br>
+                <b>Items:</b> Tick the box to make all items used in the design, except for drawer insides and components, selectable for the material selection.<br>
+                <b>Components:</b> Tick the box to make the components used in the design selectable for the material selection.<br>
+                <b>Drawer Insides:</b> Tick the box to make the internal parts of the drawers used in the design selectable for the material selection. 
+            </div>
+        </div> 
+            <div class="content" id="object2">
+                <div class="content-header">
+                <h2>Material template</h2>
+                <img id="myImg" src="images\Materialzuweisen_EN\Materialtemplate.png">
+            </div>
+            <div class="content-text">
+                You can use the material template to select different panel materials and edge materials and add them to your items.<br>
+                <b>Name:</b> SmartWOP shows you the material name of the selected material.<br>
+                <b>Panels:</b> Select the materialpanel you want to add to your selected items.<br>
+                <b>Grain Rotation Angle:</b> Enter the grain angle to rotate the grain on the selected items.<br>
+                <b>Edges:</b> Select the edge material that you want to add to your selected items.<br>
+                <b>Edges banding:</b> Select how the edges are to be arranged for the selected items.<br>
+                By default, the front edge goes through and the rear edge jumps in between the side edgings.
+            </div>
+        </div>
+            <div class="content" id="object3">
+                <div class="content-header">
+                    <h2>Edge assignment via selection window</h2>
+                    <img id="myImg" src="images\Materialzuweisen_EN\Materialedge.png">
+                </div>
+                <div class="content-text">
+                    If you have selected one or more items in material mode and the selection window has expanded, you can select the edging.<br>
+                    Select the material you want to add to your selected items from the material database.<br>
+                    Use the selection window to choose which edges are to be known for the selected items.<br>
+                    <b>Items:</b>By clicking on the box next to the position, you can select the edging for the right, left, front, back, top, bottom or other edge.<br>
+                    <b>Arrangement:</b>In the column below the arrangement, the order in which edges are to be approached is displayed.<br>
+                    The sequence of the edge arrangement is determined by which edges are set to be continuous or recessed via the material window.<br>
+                    <b>Materials:</b> Use the material template to select the desired edge material to be added for the selected items and edges.<br>
+                    Confirm the assignment of the edging using the orange tick in the material.
+                </div>
+            </div>
+            <div class="content" id="object3">
+                    <div class="content-header">
+                    <h2>Material assignment via selection window</h2>
+                    <img id="myImg" src="images\Materialzuweisen_EN\Materialsurface.png">
+                </div>
+                <div class="content-text">
+                    If you have selected one or more items in material mode, you have the option of applying a new material to the surfaces of the selected items.<br>
+                    Select the material you want to add to your selected items from the material database.<br>
+                    Select the surfaces via the selection window to change the material.<br>
+                    <b>Panels</b> Select the materialpanel you want to add to your selected items.<br>
+                    If the item with a certain thickness is used in the construction, a panel material with a different thickness is not automatically added.<br>
+                    Confirm the assignment of the material using the orange tick in the material.
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

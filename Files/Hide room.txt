@@ -1,1 +1,0 @@
-Activate Hide room to hide the entire room, which can be helpful when constructing furniture. Click again to show the room

@@ -1,0 +1,1 @@
+Press the button to see the selected workpiece from the 135° angle. If no workpiece is selected, the entire volume is placed in the scene at the 135° angle.

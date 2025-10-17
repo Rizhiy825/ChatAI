@@ -1,1 +1,0 @@
-To insert a fitting, select the workpiece you want to equip and drag a fitting from the database onto it. Fittings can only be assigned to items

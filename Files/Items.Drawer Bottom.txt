@@ -1,0 +1,32 @@
+Drag the drawer bottom in the base.
+You can drag the drawer bottom by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Name
+: Enter a name for your Panel.
+Distance
+: Enter the space of the drawer bottom to the outer bottom baseline.
+Thickness
+Enter the thickness of the panel.
+Overlap
+You can enter an overlap for all panel sides by opening the dropdown menu.
+You can extend the panel over the base volume.
+Keep in mind that you can not add any panels outside the base volume even if other panels are extended over the base volume.
+Carcass Rebate Extension
+you can open the dropdown menu to optimize your Carcass Rebate Extension.
+Air Gap Width
+Enter an air gap for the width between drawer bottom and groove/fold which will be subtracted on all sides.
+Air Gap Depth
+Enter an air gap for the depth between drawer bottom and groove/fold which will be subtracted on all sides.
+Front Left
+Enter how much the groove/fold is supposed to be extended on the front left.
+Front right
+Enter how much the groove/fold is supposed to be extended on the front right.
+Back Left
+Enter how much the groove/fold is supposed to be extended on the back left.
+Back Right
+Enter how much the groove/fold is supposed to be extended on the back right.
+Skewed Edges
+If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.

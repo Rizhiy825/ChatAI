@@ -1,0 +1,2 @@
+Activate the magnet to allow the automatically generated magnet points when moving.
+Enter in the field below the magnet from which area the workpiece is to be added to a magnet location.

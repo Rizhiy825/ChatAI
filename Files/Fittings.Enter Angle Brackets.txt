@@ -1,0 +1,37 @@
+To insert an angle fitting into your construction, you need an item on which you can mount the angle fitting.
+Select the desired angle fitting and drag it into your construction.
+In the template window, you have the option of making adjustments to the fitting.
+
+Supplier:
+Indicate the supplier of the fitting.
+Select an already created supplier via the drop-down selection.
+Click on the X symbol in the line to delete the supplier entered in the line from your list.
+Article:
+Enter the article number of the fitting.
+Count:
+Specify the number of angle fittings required.
+Step (max.):
+Specify a measurement at which distances the angle fittings should be at maximum.
+You have the option of either specifying the number of angles or setting a maximum step at which the angle brackets should be spaced.
+Top Distance:
+Enter the distance of the upper angle bracket from the outer edge of the item to the angle fitting.
+Bottom Distance:
+Enter the distance of the lower angle bracket from the outer edge of the item to the angle fitting.
+On the right of the line you have the option of locking the distances of your angle fitting by clicking on the lock symbol, in order to always set the distances of the angle fitting to a fixed value from top/bottom, even when saving the construction as a component.
+Positions:
+Indicate the positions of the respective angles brackets.
+Distance to Edge:
+Specify the distance of the fitting to the edge of the item.
+Consider the distance to the edge of the item when fitting an angle bracket fitting, e.g. on a back panel that is grooved in other items.
+Edge:
+In the drop-down menu you have the option of selecting the reference edge for the angle bracket fitting.
+Keep in mind that depending on the reference edge, the distances may not be correct and the angle bracket fitting may therefore be outside the volume.
+The selected reference edge determines the direction of the angle bracket fitting and specifies the calculation points for the fitting.
+Top Side / Bottom Side:
+Check the box if you want to change the processing side of the fitting.
+Swap Arms:
+Set the hook if you want to swap the angle arms.
+Add Mirrored:
+Check the box if you want to mirror the fitting on the opposite side.
+Additional Info:
+Specify additional information that you want to automatically assign to the fitting.

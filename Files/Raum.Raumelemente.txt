@@ -1,0 +1,2 @@
+SmartWOP offers you room elements with which you can visualise the room as the situation dictates.
+In the template windows of the individual room elements, you have the option of adapting them.

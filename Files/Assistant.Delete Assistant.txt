@@ -1,0 +1,2 @@
+Select the assistant that you want to delete.
+The selected assistant will be highlighted in gray. Click the icon to delete the selected assistant.

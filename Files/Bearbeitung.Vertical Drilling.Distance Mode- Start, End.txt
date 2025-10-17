@@ -1,0 +1,57 @@
+Vertical drilling can be used for individual holes or for complete drilling patterns.
+Drag the vertical hole onto the item that is to receive the machining.
+Vertical drilling can only be used on item surfaces.
+In the template window you will find further settings to optimise your machining.
+
+Distance Mode: Start, End
+Count:
+Specify the required amount of free vertical drilling.
+Start X:
+Specify the starting point of the drilling pattern on the X-axis.
+Start Y:
+Specify the starting point of the boresight on the Y-axis.
+Ende X:
+Specify the end point of the drilling pattern on the X-axis.
+Ende Y:
+Specify the end point of the drilling pattern on the Y-axis.
+You have the option of changing the axis for determining the start and end points using the arrows on the right-hand side of the lines.
+The axis is displayed for orientation in the scene.
+
+Distance Mode: Start, Angle
+Count:
+Specify the required amount of free vertical drilling.
+Distances:
+Specify the distance between the holes.
+Start X:
+Enter the starting point of the drilling pattern on the X-axis.
+Start Y:
+Specify the starting point of the boresight on the Y-axis.
+Angle:
+Specify the angle at which the holes should be located.
+You can specify the angles from 0-360° or 0-90°/-0-90° depending on the orientation of the axis.
+You have the option of changing the axis for determining the starting point using the arrows on the right-hand side of the lines.
+The axis is displayed for orientation in the scene.
+
+Distance Mode: Middle, Angle
+Count:
+Specify the required amount of free vertical drilling.
+Distances:
+Specify the distance between the holes.
+Middle X:
+Enter the center point of the drilling pattern on the X-axis.
+Middle Y:
+Specify the center point of the drilling pattern on the Y-axis.
+Angle:
+Specify the angle at which the holes should be located.
+You can specify the angles from 0-360° or 0-90°/-0-90° depending on the orientation of the axis.
+You have the option of changing the axis for determining the centre point using the arrows on the right-hand side of the lines.
+The axis is displayed for orientation in the scene.
+Diameter:
+Specify the diameter of the holes in the hole pattern.
+Tool Number:
+Enter the tool for the holes in the drilling pattern.
+You have the option of changing the diameter of the holes for the tool by clicking on the symbol on the right-hand side of the line.
+Depth:
+Enter the depth of the holes in the drilling pattern.
+Top Side/ bottom Side:
+Tick the box if you want to change the processing side of the component.

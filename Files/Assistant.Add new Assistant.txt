@@ -1,0 +1,3 @@
+Select the assistant in the lower right menu selection to open the assistant menu.
+Click the icon to add a new assistant.
+Give the assistant the desired name.

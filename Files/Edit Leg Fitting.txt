@@ -1,1 +1,0 @@
-When editing a leg fitting you can change supplier and article number, icon, import a leg via VRML file, adjust positioning and rotation, specify length, width, cylindrical or rectangular shape, minimum and maximum height and additional information. Switch to edit mode to adjust machining and confirm via the orange arrow

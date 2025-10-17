@@ -1,0 +1,22 @@
+Drag the horizontal traverse in the base.
+You can drag the traverse by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Name
+: Enter a name for your traverse.
+Absolute Position
+: Determine the space of your panel to the base outline. The arrow in the right side of the row allows you to switch between top or bottom base outside line.
+Width
+: Enter the width of the traverse.
+Thickness
+: Enter the thickness of the traverse.
+Type
+: Choose what execution you want for your traverse, select between two panels, only front panel or only back panel.
+Front Setback
+: Enter a setback for the frontal traverse.
+Back setback
+: Enter a setback for the rear traverse.
+Skewed Edges
+: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.

@@ -1,0 +1,4 @@
+You can duplicate bases together with their added items.
+Select an item that lies in the volume to be duplicated or select the entire volume to be duplicated.
+Click on the Duplicate button.
+It is not possible to duplicate individual items.

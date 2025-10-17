@@ -1,0 +1,5 @@
+In planning mode, the items are renumbered throughout.
+Care should be taken not to export the items until the construction is complete.
+The numbering of all items may change if you add or change items after export.
+SmartWOP will ask if you want to go into workshop mode when you export all items to the machine.
+Projects that you save in office mode are also opened in office mode.

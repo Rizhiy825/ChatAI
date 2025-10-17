@@ -1,0 +1,7 @@
+Switch to machining mode while machining the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your machining using the orange arrow in the drop-down menu of the fitting selection bar.
+
+Switch to machining mode while machining the fitting to add or remove machining to the fitting.
+When you have added the appropriate drilling pattern to the fitting, switch back to the fitting mode.
+Confirm your machining using the orange arrow in the drop-down menu of the fitting selection bar.

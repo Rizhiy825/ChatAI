@@ -1,0 +1,6 @@
+Click the button to activate the Material Picker.
+With the Material Picker you can quickly find already applied materials in your created material folders.
+When the material picker is selected and you have the mouse cursor in the scene, it is displayed as an eyedropper.
+Click with the pipette on a component to which you have already assigned a material in your design.
+In your materials, you will now immediately get to the material that has been assigned to this component.
+To deactivate the Material Picker again, click the button again.

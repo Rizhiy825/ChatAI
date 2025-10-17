@@ -1,0 +1,36 @@
+To add a pot hinge to your construction, you need a door that you can put the pot hinge on.
+Select the desired pot hinge and drag it into your design.
+In the template window you have the possibility to make adjustments to the fitting.
+
+supplier:
+Specify the supplier of the fitting.
+Select an already created supplier via the dropdown selection.
+Delete the supplier entered in the line from your list by clicking on the X symbol in the line.
+Article:
+Specify the article number of the fitting.
+Mounting plate:
+Use the drop-down selection on the right of the line to select the mounting plate.
+Activate the filter function to automatically select the mounting plate based on the set adjustments.
+Deactivate the filter function to specify the selection of the mounting plate yourself.
+Count:
+Specify the number of pot hinges.
+Step (max.):
+Specify a dimension at which distances the hinges should be located at maximum.
+You have the option of either specifying the number of pot hinges or specifying a maximum step at which the pot hinges should be spaced.
+To do this, click on the icon on the far right in the line.
+Top Distance:
+Specify the desired distance of the upper pot hinge.
+Bottom Distance:
+Specify the desired distance of the lower pot hinge.
+Positions:
+In the drop-down menu you have the possibility to determine the positions of the individual pot hinges.
+Cup Distance:
+Specify the desired pot hole spacing for the fitting.
+Alignment:
+Select on which side the pot hinge is to be attached.
+Bind outer to Shelf Bores:
+Tick the box to orient the upper and lower pot hinge, for mounting plate machining, directly to the system hole line.
+The outer pot hinges are set on the next possible system hole line machining, the positions are assigned to the fitting..
+Bind inner to Shelf Bores:
+Set the hook to orient the middle pot hinges, for the mounting plate machining, directly to the system hole line..
+The middle pot hinges are set on the next possible system hole line machining, the positions are assigned to the fitting..

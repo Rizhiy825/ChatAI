@@ -1,0 +1,7 @@
+If the created project is saved via "File" or the save as option is used, the design is saved as a project.
+In that case, the construction is not variably supported.
+SmartWOP projects are labelled with the file extension .swp. sw stands for SmartWOP and p stands for project.
+There are two options available in SmartWOP for saving a design as a variable component.
+You have the option of saving the component via "File" - "Component" - "Save as" or via "Extras" - "Component" - "Save as".
+The path for the storage location can be set in the SmartWOP options under "Directories".
+If a valid storage path is stored under Component, this is taken into account accordingly.

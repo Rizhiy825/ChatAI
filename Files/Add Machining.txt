@@ -1,1 +1,0 @@
-To add machinings, select an item and drag a machining operation onto it or onto a connection area. You can add machining to individual or all connection areas

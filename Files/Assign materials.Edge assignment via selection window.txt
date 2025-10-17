@@ -1,0 +1,11 @@
+If you have selected one or more items in material mode and the selection window has expanded, you can select the edging.
+Select the material you want to add to your selected items from the material database.
+Use the selection window to choose which edges are to be known for the selected items.
+Items:
+By clicking on the box next to the position, you can select the edging for the right, left, front, back, top, bottom or other edge.
+Arrangement:
+In the column below the arrangement, the order in which edges are to be approached is displayed.
+The sequence of the edge arrangement is determined by which edges are set to be continuous or recessed via the material window.
+Materials:
+Use the material template to select the desired edge material to be added for the selected items and edges.
+Confirm the assignment of the edging using the orange tick in the material.

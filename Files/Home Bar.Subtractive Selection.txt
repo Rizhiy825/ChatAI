@@ -1,0 +1,2 @@
+Activate the button to deselect items or volumes.
+You have the option of applying the same function by Alt left-clicking.

@@ -1,0 +1,1 @@
+You can customize the materialist individually for your own use. To do so edit the PacketTemplate in C:\ProgramData\SmartWOP\MaterialList.

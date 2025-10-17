@@ -1,0 +1,5 @@
+If an update is available to you, the Info button is marked with a yellow star.
+The version available to you for an update is displayed under your serial number.
+The Update button is greyed out if you are on the latest version.
+The Update button becomes selectable when you can load an update.
+Click on the button to load the update.

@@ -1,0 +1,23 @@
+To insert a leg fitting into your construction, you need a horizontal plate on which you can mount the leg fitting.
+Select the desired adjustable leg fitting and drag it into your construction.
+In the template window you have the possibility to make adjustments to the fitting.
+
+Supplier:
+Specify the supplier of the fitting.
+Select an already created supplier via the dropdown selection.
+Delete the supplier entered in the line from your list by clicking on the X symbol in the line.
+Article:
+Specify the article number of the fitting.
+Count:
+Specify the number of legs required.
+Rows:
+Select from the drop-down menu on the right whether the leveling feet are required Front, Rear or Front and Rear.
+Offsets:
+Specify the distances of the legs from the outer edge of the base plate, in each case for left, right, front and back.
+Row Distance:
+Specify the distances between the legs.
+On the right of the line, by clicking on the icon, you have the possibility to specify whether the distances of the legs should be given in mm or in division.
+Rotation Angle:
+In the dropdown menu you have the possibility to adjust the rotation angle of each leg.
+Height:
+The height of the foot fitting is already assigned to the fittings and is only displayed in the template.

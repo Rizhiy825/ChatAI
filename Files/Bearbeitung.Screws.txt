@@ -1,0 +1,25 @@
+As long as one-sided machining is not activated, you can only place the screws if you have a vertical panel and a horizontal panel that abut against each other.
+Pull the Screws onto the joint edge that is to receive the machining.
+In the template window you will find further settings to optimise your machining.
+
+Count:
+Enter the desired number of the Screws.
+Step Max.:
+Specify the maximum step between the Screws.
+You have the option of either specifying the number of Screws or specifying a maximum step at which the Screws should be spaced.
+To do this, click on the symbol on the far right of the line.
+Distances:
+Specify the distance of the first and/or Screws in mm.
+Click on the symbol on the right-hand side of the line to set the distances between the Screw, either to a fixed value in mm or divided into the spaces.
+Align Center:
+Set the hook if the Screw is to be machined in the center of the edge.
+If you remove the tick, you have the option of specifying the dimension to the Screw center point under the selection box.
+Change the reference edge for calculating the dimension by clicking on the arrow on the right-hand side of the line.
+Screw:
+In the drop-down menu, you have the option of customising the Screw processing as required.
+Connection Area:
+SmartWOP shows you the connection area of the currently selected connection.
+Fitting:
+Select a prefabricated fitting (Screw) for the connectors to add them to the material list.
+The machining of the connectors is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.
+If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.

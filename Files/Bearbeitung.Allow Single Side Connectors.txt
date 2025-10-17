@@ -1,0 +1,3 @@
+To add single-sided machining, you must activate the button for the allowance of single side connectors.
+Single-sided machining allows you to add any machining to your items freely via drag and drop.
+If machining is added on one side, care must be taken to ensure that not only the items to which the machining has been added on one side are machined, but also those that come into contact with the machining.

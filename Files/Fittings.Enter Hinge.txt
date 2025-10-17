@@ -1,0 +1,38 @@
+To insert a hinge into your construction, you need a door that you can pull the hinge onto.
+Select the desired hinge and drag it into your construction.
+In the template window, you have the option of making adjustments to the fitting.
+
+Supplier:
+Indicate the supplier of the fitting.
+Select an already created supplier via the drop-down selection.
+Click on the X symbol in the line to delete the supplier entered in the line from your list.
+Article:
+Enter the article number of the fitting.
+Mounting Plate:
+Select the mounting plate via the drop-down selection on the right of the line.
+Activate the filter function to automatically select the mounting plate based on the set adjustments.
+Deactivate the filter function to determine the selection of the mounting plate itself.
+Count:
+Specify the count of the hinges.
+Step (max.):
+Enter a measurement of the maximum distance in between the hinges.
+You have the option of either setting the count of your hinges or setting a maximum step in which the hinges should be placed.
+To do this, click on the symbol on the far right of the line.
+Top Distance:
+Specify the desired distance of the upper hinge.
+Bottom Distance:
+Specify the desired distance of the lower hinge.
+Positions:
+In the drop-down menu you have the option of determining the positions of the individual hinges.
+Cup Distance:
+Specify the desired cup hole spacing for the fitting.
+Align:
+Select on which side the hinge is to be attached.
+Bind outer to Shelf Bores:
+Set the hook to orientate the upper and lower hinge, for mounting plate machining, directly to the system holes.
+The outer hinges are set on the next possible system holes machining of the positions entered in the fitting template.
+Bind inner to Shelf Bores:
+Set the hook to orientate the inner hinges, for mounting plate machining, directly to the system holes.
+The inner hinges are set on the next possible system holes machining of the positions entered in the fitting template.
+Additional Info:
+Specify additional information that you want to automatically assign to the fitting.

@@ -1,0 +1,5 @@
+If you want to work in a specific volume, you can use this button to restrict the editing to the activated volume.
+Use the 'Volume' button to select the volume to be edit and activate it with the button.
+The activated volume is now displayed with a green outline.
+SmartWOP does not allow any operations outside the activated volume.
+To release the editing for other volumes, click the button again.

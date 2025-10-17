@@ -1,0 +1,19 @@
+In the base setting window of "Roof Window" you have several settings to enter.
+Window Width
+: Enter the width of the window.
+Window Height
+: Enter the height of the window.
+Window Depth
+: Enter the depth of the window.
+Total depth
+: Enter the total installation depth.
+Thickness
+: Enter the Thickness of the material.
+Roof Angle
+: Enter the angle of the roof.
+Angle Left
+: Enter the angle of the left panel.
+Angle Right
+: Enter the angle of the right panel.
+Setup Frame
+Enter the desired frame dimensions (depth/width) for the window and wall connection.

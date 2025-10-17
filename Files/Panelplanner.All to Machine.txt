@@ -1,0 +1,2 @@
+Click the button to export all visible workpieces to the machine as a nesting program.
+The function to export all items in the panel planner is only available if nesting is active.

@@ -1,0 +1,38 @@
+To add a locking system to your construction, you need a door that you can pull the fitting onto.
+The locking system is available for both the right and the right stop side.
+Select the locking system fitting and drag it into your construction.
+In the template window, you have the option of making adjustments to the fitting.
+
+Supplier:
+Indicate the supplier of the fitting.
+Select an already created supplier via the drop-down selection.
+Click on the X symbol in the line to delete the supplier entered in the line from your list.
+Article:
+Enter the item number of the fitting.
+Horizontal Distance:
+Specify the horizontal distance of the locking system.
+The distance of the locking system is taken from the center of the lock hole.
+Vertical Distance:
+Specify the vertical distance of the locking system.
+The distance of the locking system is taken from the center of the lock hole.
+Vertical Align:
+Use the drop-down selection to choose the orientation of the vertical spacing.
+Absolute Position:
+SmartWOP shows you on which position the locking system is from the volume bottom edge.
+The position is indicated from the center of the lock hole.
+Minimal Distance for Bar Guide:
+Enter a minimum distance at which the rod guide should lie.
+The bar guide distances are calculated automatically.
+Vertical Pocket:
+In the drop-down menu you have the option to make adjustments for the lock opening.
+Radius Gap:
+Specify whether and how much the radius to be machined for the lock opening should become larger.
+Tool Number:
+Specify the tool number for machining.
+Select the required tool from the drop-down menu on the left side of the line.
+Feed rate:
+Output the feed rate for machining.
+Accessories:
+In the drop-down menu SmartWOP shows you which accessories are required for the used locking system.
+Additional Info:
+Specify additional information that you want to automatically assign to the fitting.

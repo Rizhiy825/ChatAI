@@ -1,0 +1,21 @@
+When you open the drop-down menu of the assistant, you will have the possibility to view the information savedd in the assistant.
+Application Scope:
+In the menu item of the application scope, you can see what information is applied when using the assistant
+If there is a 1 behind the description, this application is active in the assistant, if there is a 0 in the line, it is disabled.
+The line where the assistant is listed also shows which application area is active.
+M indicates machining, N indicates naming, E indicates edge assignment, and X indicates export tuning settings.
+If the marked letters are outlined in orange, they are active, if they are outlined in black, they are deactivated.
+Clicking on the respective letter activates or deactivates the application in the assistant.
+Machining:
+In the menu item of machining, you can see which machining joints have been added.
+The connection joints are listed in each case with the position and type of positioning of the individual items.
+When further opening the drop-down arrows, you have the possibility to see under which joint dimensions the assistants have been trained and which joint machining is added.
+Panel Names:
+In the menu item of the panel names, the used elements are displayed with their respective position.
+The panel names are displayed in the same line for the listed elements.
+Edges:
+In the menu item of the edges all possible itmes of the construction are listed.
+When you open the drop-down arrows further, SmartWOP shows you which edge thickness is stored for which item in the assistant.
+Export Tuning:
+In the Export Tuning menu item, the components used in the assistant are listed with their position.
+If you open the drop-down arrows of the individual components, you have the possibility to view which settings of the export tuning are stored in the assistant.

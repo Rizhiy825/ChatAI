@@ -1,0 +1,5 @@
+If you activate the button Allow Overlapping, you have the possibility to drag bases into each other.
+Select the volume to be moved and move the volume to the desired position using the arrow.
+This function can be useful if you have several volumes in your scene that you want to move.
+By clicking the button again, overlaps are deactivated again.
+Volumes that still overlap can be pushed apart again without activating the button.

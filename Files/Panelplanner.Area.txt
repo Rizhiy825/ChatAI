@@ -1,0 +1,2 @@
+Select the button to activate the automatic catching of workpieces.
+Specify the area from which the workpieces are to be catched.

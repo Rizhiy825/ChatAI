@@ -1,0 +1,1 @@
+Activate the button if you want to rotate the scene with the left mouse button pressed and move the scene with the right mouse button pressed.

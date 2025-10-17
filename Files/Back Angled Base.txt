@@ -1,1 +1,0 @@
-In the base settings window of a back‑angled base you can enter values for front height, back height, top depth, bottom depth, angle and safety clearance. Dimensions that are not entered will be calculated and added by SmartWOP automatically. The angle corresponds to the angle in the horizontal (0°–90°), and the safety clearance defines the space between the base and the cabinet

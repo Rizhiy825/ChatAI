@@ -1,0 +1,8 @@
+When you switch to room mode, the room start bar button appears in the top selection bar.
+Linking is used to create a horizontal room edge.
+Select a horizontal room edge in your construction.
+The selected room edge is marked red.
+Click on the button to divide the room edge.
+When splitting the room side, a new room corner is automatically created.
+Select another horizontal room edge and divide it as well.
+Now select the two divided room corners via the multiple selection and link them.

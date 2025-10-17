@@ -1,0 +1,6 @@
+In the drop-down menu of the top fitting selection bar, you can duplicate fittings and customize them as desired.
+Open the drop-down menu by clicking on the arrow of the upper fitting selection bar.
+Select the fitting you want to duplicate and click the second button of the drop-down menu.
+Duplicating a fitting opens the edit mode.
+Adjust the fitting and save the changes of the duplicate by confirming the changes via the orange arrow of the drop-down menu.
+Duplicate fittings can help you quickly customize a fitting without the need to create a new fitting.

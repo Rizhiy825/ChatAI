@@ -1,4 +1,0 @@
-Activate the button to open the Export Tuning.
-In the Export Tuning submenu we have the option of displaying or hiding a virtual machine table.
-Select an item that you want to machine using Export Tuning or export to the WOP environment.
-In the template window you will find further options for optimizing your workpiece.

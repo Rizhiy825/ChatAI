@@ -1,0 +1,9 @@
+Left click the base you want to rotate.
+Select the rotation button on the menu bar.
+The rotate button turns blue as long you are in the rotation modus.
+In the submenu of the Rotation button, select a desired number of degrees which determines 
+                        how far the volume should be rotated per mouse stroke.
+The arrows of the axis now turn into circles.
+Hold down the left mouse button on the circle
+                        you want to rotate the base and move the mouse into this direction.
+Leave the rotation mode by left clicking the rotation button again.

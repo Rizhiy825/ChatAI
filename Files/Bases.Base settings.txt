@@ -1,0 +1,36 @@
+If you select a base the settings window opens.
+In this window you have some setting you can change.
+Name:   change the name of the base
+Type
+Select a Type for your base.
+Construction kit
+: Select the construction kit for the volume to output the items within the volume to the superordinate volume when saving the volume as a component.
+Cabinet:
+Select the cabinet for the base to output the items within the base to this base when saving the volume as a component.
+Article:
+Select the article for the base in order to output the items within the base as purchased parts with an article number when saving the volume as a component.
+If the volume is specified as an article, the components of the volume are not output as parts to be produced.
+Width/Height/Depth
+change the dimensions of your base.
+You can also use calculation formula.
+Description
+You can enter a description to your selected base.
+Keep in mind, that you can only read this description in this window
+                        it will not be printed on any exported list.
+Count
+Add a number how often you want to produce this base.
+Depending on how many you add the bases will appear in the material-list.
+Export
+Reference Point:       Choose between front and back.
+It will place the Panel in the working progress with the front or backside to the machine stop.
+Accessories
+Double left click on "Accessories" to open the submenu.
+Single left click "Add new Accessory" to add several accessories.
+Double left click "Accessory" to enter Name, supplier, article,count and description.
+Accessories will appear in the Purchase List.
+Transformation
+Double left click "Transformation" to open the submenu
+Offset
+: You can enter the position in dimension X/Y/Z to relocate your base in the construction level.
+Rotation
+You can enter the angle in dimension X/Y/Z to rotate your base in the construction level.

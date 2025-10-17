@@ -1,0 +1,27 @@
+You need a room on which you can raise room elements.
+Drag the Door to one side of the room to add it to the room.
+You have the option of dragging the Door to the desired position on the room wall using the coordinate system.
+The template window of the room elements does not open until it has been drawn onto the room.
+In the template window you have the possibility to adjust the Door.
+
+Width:
+Specify the width of the door.
+Height:
+Specify the height of the door.
+Position X:
+Specify the position of the door, in X-axis of the room side.
+The coordinate system in the construction shows you from which direction the position X is taken.
+You also have the option of entering the position X directly in the dimension line in the drawing.
+Position Z:
+Specify the position of the door, in Z-axis of the room side.
+The coordinate system in the construction shows you from which direction the position Z is taken.
+You also have the option of entering the position Z directly in the dimension line in the drawing.
+Frame:
+In the drop-down menu you have the option of adding a frame to the door and adjusting it.
+HInges Side:
+Select the desired door hinge side via the drop-down selection.
+Opens Outside:
+Check the box if the door is to be opened to the outside.
+Remove the hook to open the door inwards.
+Opens Angle:
+Specify the opening angle of the door.

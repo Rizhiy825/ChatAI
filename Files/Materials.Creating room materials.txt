@@ -1,0 +1,14 @@
+Create a new folder for your room design materials by clicking the Create new folder button in the menu.
+Name your folder (e.g. Room design) and confirm with OK.
+Create a new material by clicking on the NEW button in the menu.
+In the newly opened window you can now edit your material.
+Name your material (e.g. wall plaster).
+In the Type column you can define the type of your material.
+In the columns Surface Texture / Section Texture , select the respective texture from your folder in which you have saved your textures (e.g. ...\Materials\Textures).
+In the Angle column you can rotate your surface texture / Section texture if necessary or under the Mirror columns you can also mirror your textures by X or Y.
+For wall, floor/ceiling coverings as well as for other plain-colored materials, you can set the hook at Turn grain allowed.
+Only in the case of wood decors or decors with one direction, this hook must not be set so that the specified dimensions match the décor direction.
+Under Display Settings you can set various parameters for the surface of your material.
+Reflection level: Percentage
+Reflection level: Percentage
+Glossiness: Percentage

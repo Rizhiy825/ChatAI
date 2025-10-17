@@ -1,0 +1,9 @@
+When you switch to room mode, the room start bar button appears in the top selection bar.
+Select a room side in your construction.
+The selected room side is marked blue.
+Click on the button to split the room side.
+When dividing the room side, a new room edge is automatically created.
+The page is automatically split in the middle.
+Select the newly created room edge and position it using the coordinate system or the input fields.
+The ceiling and floor cannot be split.
+You can split a side as many times as you like.

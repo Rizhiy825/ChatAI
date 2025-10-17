@@ -1,1 +1,0 @@
-Use Rotation to rotate volumes together with their items. Click the arrow under the button to choose the rotation angle, activate the button, select the volume and drag the circular arrows to rotate around the desired axis. Click the button again to exit rotation mode

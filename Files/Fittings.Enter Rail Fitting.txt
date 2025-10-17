@@ -1,0 +1,27 @@
+To insert a rail/tube fitting into your construction, you need an item on which you can mount the fitting.
+Select the desired rail fitting and drag it into your construction.
+In the template window, you have the option of making adjustments to the fitting.
+
+Supplier:
+Indicate the supplier of the fitting.
+Select an already created supplier via the drop-down selection.
+Click on the X symbol in the line to delete the supplier entered in the line from your list.
+Article:
+Enter the article number of the fitting.
+X Position:
+Specify the position of the rail on the X-axis.
+To change the axis for determining the position, click on the right arrow in the line.
+Y Position:
+Specify the position of the rail on the Y-axis.
+To change the axis for determining the position, click on the right arrow in the line.
+>
+Angle:
+Specify the angle at which the rail should be rotated.
+Extension Left:
+Specify how far the rail is to be extended, over the volume, on the left side.
+If you have added a pocket for e.g. a rail handle to the rail fitting when creating it, this will be added automatically when extending it.
+Extension Right:
+Specify how far the rail is to be extended, over the volume, on the right side.
+If you have added a pocket for e.g. a rail handle to the rail fitting when creating it, this will be added automatically when extending it.
+Additional Info:
+Specify additional information that you want to automatically assign to the fitting.

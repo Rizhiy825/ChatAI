@@ -1,0 +1,4 @@
+Select the base button in the start bar.
+Choose the desired base with a simple left mouse click.
+If you want to select several bases at the same time, hold down the control key (CTRL) on your 
+                        keyboard and select all the desired bases with a single left mouse click.

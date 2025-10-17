@@ -1,0 +1,3 @@
+If you have selected a folder path and displayed it in your gallery, you can pin this folder path to the gallery and access the content quickly.
+The pinned folders are displayed on the left-hand side of the gallery.
+To access the contents, click on the name of the pinned folder.

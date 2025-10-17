@@ -1,0 +1,1 @@
+Activate the button if you want to zoom in or out of the scene while holding down the left mouse button.

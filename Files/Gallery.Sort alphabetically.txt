@@ -1,0 +1,4 @@
+Click on the icon to sort your elements in the gallery alphabetically.
+In sorting, the folders are sorted first and then the individual elements are sorted alphabetically.
+Sorting is active when the icon is highlighted in blue.
+If sorting is deactivated, the folders and elements are sorted alphabetically, but folders and elements are not separated during sorting.

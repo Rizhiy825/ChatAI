@@ -1,0 +1,2 @@
+SmartWOP is giving you the possibility to export NC-programs to several machines simultaneously.
+This is giving you the possibility to work on one project on several machines simultaneously.

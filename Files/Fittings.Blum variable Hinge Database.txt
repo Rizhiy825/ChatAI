@@ -1,0 +1,45 @@
+To insert a hinge into your construction, you need a door that you can pull the hinge onto.
+Blum's summarized hinge fitting lists offers you flexible and quick choices to match the hinges to your construction.
+The icons show you for which opening situation the individual data banks can be used.
+The different applications are divided into standard application, wide-angle hinges and profile door application, each for inside and outside hinges.
+When using the variable Blum hinges, the pot hole spacing is taken into account and automatically adjusted when pulling in the fittings, depending on the gap dimensions.
+
+Count:
+Specify the count of your hinges.
+Step (max.):
+Enter a measurement of the maximum distance in between the hinges.
+You have the option of either setting the count of the hinges or setting a maximum step at which the hinges should be spaced.
+To do this, click on the symbol on the far right of the line.
+Top Distance:
+Specify the desired distance of the upper hinge.
+Bottom Distance:
+Specify the desired distance of the lower hinge.
+Positions:
+In the drop-down menu you have the option of determining the positions of the individual hinges.
+Configuration UI:
+In the UI Configurator, you have the option of specifying an individual name for the fitting in the CSV material list.
+Call up the name Template Editor via the pencil symbol on the right in the bar.
+Select the information stored in the template editor with a double left mouse click to add the selected information to the fitting in the CSV material list.
+Configuration
+In the drop-down menu, you have the option of specifying settings for the fitting and inserting the hinge and the mounting plate directly via the filter function.
+To activate the configurator, click on the filter symbol in the "Hinge" line.
+If the configuration has been set in such a way that there is no possible combination for the cup hinge or mounting plate, the hinges and mounting plates are not shown when the fitting is added to your construction.
+The hardware information entered in the configurator is processed directly by SmartWOP and the matching hinge and mounting plate are selected directly under the "Accessories" field and used directly when adding the hinge to your construction.
+Accessories:
+In the drop-down menu you have the option of selecting the hinge and mounting plate of the fitting.
+Hinge:
+Select the hinge via the drop-down selection on the right of the line.
+Activate the filter function to take into account the information set in the configurator for the selection of the hinge and mounting plate.
+Deactivate the filter function to determine the selection of the hinge and mounting plate itself.
+Mounting Plate:
+Select the mounting plate via the drop-down selection on the right of the line.
+Align:
+Select on which side the hinge is to be attached.
+Bind outer to Shelf Bores:
+Set the hook to orientate the upper and lower hinge, for mounting plate machining, directly to the system holes.
+The outer hinges are set on the next possible system holes machining of the positions entered in the fitting template.
+Bind inner to Shelf Bores:
+Set the hook to orientate the inner hinges, for mounting plate machining, directly to the system holes.
+The inner hinges are set on the next possible system holes machining of the positions entered in the fitting template.
+Additional Info:
+Specify additional information that you want to automatically assign to the fitting.

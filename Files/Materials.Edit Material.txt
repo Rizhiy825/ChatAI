@@ -1,0 +1,66 @@
+You can edit individual materials via the Edit button.
+Select the material to be edited by left-clicking on the material and activate the edit button.
+In the material editing window you have the possibility to modify your material.
+Name
+: Enter the desired name of the material.
+Type
+: Specify the type of material.
+Note that for the type of wood-based materials, it is important to pay attention to whether the material is a multi-layer material(Coated material) or a single-layer material(Raw material).
+Surface Texture
+: Use the 3 dots on the right side of the line to select the main texture you want to assign to the material.
+Angle
+: Use the drop-down menu to set the angle of the grain so that the grain runs with the red arrow in the material preview.
+Mirror
+: Mirror the grain of the texture of your material in X or Y by selecting the mirroring in the drop-down menu.
+Section Texture
+: Use the 3 dots on the right of the line to select the texture of the reverse side that you want to assign to the material.
+Angle
+: Use the drop-down menu to set the angle of the grain so that the grain runs with the red arrow in the material preview.
+Mirror
+: Mirror the grain of the texture of your material in X or Y by selecting the mirroring in the drop-down menu.
+Rotation allowed
+: Place a tick if the material does not have a specific grain pattern.
+Display Settings
+: In the drop-down menu of the Settings display, you have the option to set the
+Reflection Level
+the
+Specular Level
+and the
+Glossiness
+of the material
+Add new Panel
+: Click the button to add a new panel material.
+Add new Edge
+: Click the button to add a new edge material.
+
+Name
+: Enter the desired name of the material.
+Type
+: Specify the type of material.
+Note that for the type of wood-based materials, it is important to pay attention to whether the material is a multi-layer material(Coated material) or a single-layer material(Raw material).
+Surface Texture
+: Use the 3 dots on the right side of the line to select the main texture you want to assign to the material.
+Angle
+: Use the drop-down menu to set the angle of the grain so that the grain runs with the red arrow in the material preview.
+Mirror
+: Mirror the grain of the texture of your material in X or Y by selecting the mirroring in the drop-down menu.
+Section Texture
+: Use the 3 dots on the right of the line to select the texture of the reverse side that you want to assign to the material.
+Angle
+: Use the drop-down menu to set the angle of the grain so that the grain runs with the red arrow in the material preview.
+Mirror
+: Mirror the grain of the texture of your material in X or Y by selecting the mirroring in the drop-down menu.
+Rotation allowed
+: Place a tick if the material does not have a specific grain pattern.
+Display Settings
+: In the drop-down menu of the Settings display, you have the option to set the
+Reflection Level
+the
+Specular Level
+and the
+Glossiness
+of the material
+Add new Panel
+: Click the button to add a new panel material.
+Add new Edge
+: Click the button to add a new edge material.

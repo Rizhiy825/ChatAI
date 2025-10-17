@@ -1,0 +1,7 @@
+Machining profiles can save you a lot of time, as you can save recurring machining tasks in a profile and quickly call them up again.
+In order to machine existing profiles that have a lock, you must switch to administrator mode.
+You can activate administrator mode under File-Options-General directly under the drop-down menu of the machine selection.
+If you have not activated administrator mode, a new profile is created as soon as the machining parameters will be changed.
+SmartWOP will inform you that a new profile is being created.
+To delete profiles, you must delete them individually from the profile list.
+Profiles with a lock can only be deleted if you are in administrator mode.

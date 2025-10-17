@@ -1,1 +1,0 @@
-Activate Allow Overlapping to temporarily permit volumes to overlap. With this button on, you can move volumes into one another using the arrow handles. Click the button again to deactivate overlaps; overlapping volumes can still be pushed apart without reactivating the button

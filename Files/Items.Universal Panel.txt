@@ -1,0 +1,18 @@
+Drag the Universal Panel in the base.
+You can drag the universal panel by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Name
+: Enter a name for your Panel.
+Position
+: Enter the center position of the universal panel in X/Y/Z.
+Rotation
+: Enter the rotation of the universal panel in X/Y/Z.
+Thickness
+: Enter the thickness of the panel.
+Orientation
+: Determine the orientation of the diagonal panel z. This can be helpful to bring the panel in the desired position.
+Skewed Edges
+: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.

@@ -1,0 +1,9 @@
+Wird ein Grundvolumen mit Teilern unterteilt können anschließend SmartWOP Komponenten in die einzelnen Volumen eingezogen werden.
+Zum Beispiel der Aufbau einer Konstruktion mit zwei Unterschränken (Basis und Basis2) zusammen in einem Grundvolumen.
+In der Stückliste werden nun alle Volumeninhalte einzeln berücksichtig.
+Jede Komponente wird einzeln aufgeführt.
+Über den Basis Namen werden die einzelnen Komponenten gekennzeichnet und die, in den Komponenten enthaltenen Bauteile, in der Materialliste untergeordnet.
+Eingesetzte Komponenten, als Volumen, fungieren als eigenständige Konstruktionen.
+Das bedeutet, dass die Inhalte der Komponenten separate Berücksichtigung finden.
+Eingesetzte Komponenten, als Baugruppe hingegen, werden als ein Teil von Volumen bzw. Konstruktion gesehen.
+Der Inhalt der Komponenten wird als eine Einheit berücksichtigt.

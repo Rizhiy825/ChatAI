@@ -1,0 +1,4 @@
+In the drop-down menu of the upper fitting selection bar, you can delete fittings.
+Select a self-defined or duplicated fitting and delete it from your fitting database.
+Click on the bin button of the drop-down menu to delete the selected fitting..
+You can only delete fittings if you have created or duplicated them yourself..

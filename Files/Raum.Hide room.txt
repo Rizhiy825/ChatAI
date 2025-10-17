@@ -1,0 +1,4 @@
+When you switch to room mode, the room start bar button appears in the top selection bar.
+Activate the button to hide the room.
+Hiding the space can be helpful for the construction of your piece of furniture.
+The room is only hidden and can be shown again at any time by clicking the button again.

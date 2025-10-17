@@ -1,1 +1,0 @@
-Use Collision to check your project for collisions between machining elements. Colliding points are highlighted in red

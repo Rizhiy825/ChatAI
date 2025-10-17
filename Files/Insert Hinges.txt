@@ -1,1 +1,0 @@
-To add a hinge, select a door and drag the desired hinge into the design. In the template window you can specify supplier, article number, mounting plate and filter settings, number or maximum spacing of hinges, top and bottom distances, positions, cup distances, alignment and binding to shelf bores

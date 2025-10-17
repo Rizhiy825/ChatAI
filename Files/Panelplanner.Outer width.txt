@@ -1,0 +1,1 @@
+Specify how much the panel should be trimmed from the outer edge of the panel to the workpiece.

@@ -1,0 +1,8 @@
+To teach an assistant, you need a design in which you apply the names, machining, edge assignments and export tuning settings of the parts to be used in the assistant.
+You have the option of either creating a design just for the assistant or using an existing design for teaching the assistant.
+Consider any type of construction you want to teach the assistant.
+The assistant detects, for example, whether a top panel is placed in between two sides or passing through.
+The assistant saves a setting for each component and each joint, but the decisive factor is how the components are positioned in relation to each other and which joints have been used.
+Basically, the assistant can always be taught further, so that you can add new connection points to the assistant.
+If names, machining, edge assignment and settings are already stored for parts or joints in Export Tuning, these will be overwritten when the assistant is taught if other information is available in the new volume to be taught.
+Fittings and free machining are not saved in the assistant.

@@ -1,0 +1,2 @@
++
+Press the Ctrl and N keys to open a new file.

@@ -1,0 +1,2 @@
+Select the button to select several or all items at the same time.
+Only items that are completely within the frame are selected.

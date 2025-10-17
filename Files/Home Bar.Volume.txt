@@ -1,0 +1,2 @@
+The button is used to select individual volumes.
+Press the button again to be able to select individual items.

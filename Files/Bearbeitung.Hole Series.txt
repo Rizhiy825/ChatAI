@@ -1,0 +1,35 @@
+The hole series of free machining can be applied to the surface of any item.
+The hole series only ever applied to one item and does not take into account any opposing items.
+Drag the hole series onto a panel.
+In the template window you will find further settings to optimise your machining.
+
+Count:
+Enter the desired amount of the hole series.
+Step (max.):
+Specify the maximum distance between the hole series.
+You have the option of either specifying the number of hole series or specifying a maximum step at which the hole series should be spaced.
+To do this, click on the symbol on the far right of the line.
+Y2 Setback:
+Specify the rear setback of the hole series.
+Distance:
+Specify the distance between the hole series.
+By clicking on the symbol on the right-hand side of the line, you have the option of specifying the distance in millimetres or dividing the hole series into the space between them.
+Y1 Setback:
+Specify the front setback of the hole series.
+Bore:
+In the hole drop-down menu, you have the option of customising the bores for the hole series.
+Diameter:
+Specify the diameter of the bores in the hole series.
+Tool Number:
+Enter the tool for the holes in the row of holes.
+You have the option of changing the diameter of the holes for the tool number by clicking on the symbol on the right-hand side of the line.
+Depth:
+Specify the depth of the bores in the hole series.
+Step:
+Specify the step between the bores in the hole series.
+Distances (X1/X2)
+Specify the distances from the top and bottom.
+Row Alignment:
+In the drop-down menu, you have the option of selecting the alignment of the hole series.
+Top Side/ bottom Side:
+Tick the box if you want to change the processing side of the machining.

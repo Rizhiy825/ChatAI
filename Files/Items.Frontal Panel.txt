@@ -1,0 +1,370 @@
+Drag the frontal panel in the base.
+You can drag the panel by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+Name
+: Enter a name for your panel.
+Absolute Position
+: Determine the space of your panel to the base outline. The arrow in the right side of the row allows you to switch between right or left base outside line.
+Thickness
+: Enter the thickness of the panel
+In the dropdown menu of Panel Dimensions you can change the dimensions of the panels in all directions.
+You can extend the panel over the base volume.
+Keep in mind that you can not add any panels outside the base volume even if other panels are extended over the base volume.
+Skewed Edges: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.
+
+Drag the back panel in the base.
+You can enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+Name
+: Enter a name for your panel.
+Setback
+: Enter a setback, which will be subtracted from the outer base backline.
+Thickness
+: Enter the thickness of the panel
+Overlap
+: Enter for every side how much the back panel is supposed to overlap in the corpus panels.
+You can extend the panel over the base volume.
+Keep in mind that you can not add any panels outside the base volume even if other panels are extended over the base volume.
+Back panel rebating: Enter if the back panel is supposed to get a rabbet. This may be important if you want to use a 19 mm back panel and don´t want mill the whole material depth in the corpus panels.
+Front
+: Enter the depth if the milling is supposed on the frontside of the back panel.
+Back
+: Enter the depth if the milling is supposed on the backside of the back panel.
+Machine on CNC
+: Tick the box if you want to machine the back panel on CNC.
+Tool Number
+: Select the tool number which you want to use for the machining.
+Custom Feedrate
+: Tick the box when you want to define the feed rate by your own.
+Feedrate
+: Enter the feed rate you want to use.
+Carcass Rebate Extension: You can define a desired airgap between back panel and corpus panels when you open the dropdown menu.
+Air Gap Width
+: Enter the desired air gap in the width between back panel and corpus panels. The gap will be considered for all sides.
+Air Gap Depth
+: Enter the desired air gap in the depth between back panel and corpus panels. The gap will be considered for all sides.
+Top Left
+: Enter how much the groove is supposed to be extended on the top in the left corpus panel.
+Top Right
+: Enter how much the groove is supposed to be extended on the top in the right corpus panel.
+Bottom Left
+: Enter how much the groove is supposed to be extended on the bottom in the left corpus panel.
+Bottom Right
+: Enter how much the groove is supposed to be extended on the bottom of the right corpus panel.
+Skewed Edges
+: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.
+Export
+: Select a machining for inserting the back panel to the corpus panels by opening the drop down menu.
+Machining Type
+: Select a machining for inserting the back panel to the corpus panels.
+Tool Number
+: Select the tool you want to use.
+Mill Diameter
+: Enter the diameter of the tool.
+Mill Feedrate
+: Enter the desired feed rate of the tool.
+Machine Corners
+: Tick the box if you want clean the corners with a mill.
+
+Drag the horizontal traverse in the base.
+You can drag the traverse by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Drag the frontal traverse in the base.
+You can drag the traverse by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Drag the adjustable shelves in the base.
+You can drag the adjustable shelves by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Drag the diagonal panel Y in the base.
+You can drag the Diagonal Panel X by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Drag the diagonal panel Y in the base.
+You can drag the Diagonal Panel Y by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Drag the diagonal panel Z in the base.
+You can drag the Diagonal Panel Z by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Drag the Universal Panel in the base.
+You can drag the universal panel by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+Drag the drawer bottom in the base.
+You can drag the drawer bottom by arrows in the right place or enter the desired dimensions for the panel.
+In the settings window you will find more settings to optimize your panel.
+
+You can only place the cover panel outside the base.
+Drag the cover panel on the base.
+In the settings window you will find more settings to optimize your panel.
+
+You can only place the filler/infill outside the base.
+Drag the filler/infill on the base.
+In the settings window you will find more settings to optimize your panel.
+
+Name
+: Enter a name for your panel.
+Absolute Position
+: Determine the space of your panel to the base outline. The arrow in the right side of the row allows you to switch between right or left base outside line.
+Thickness
+: Enter the thickness of the panel
+In the dropdown menu of Panel Dimensions you can change the dimensions of the panels in all directions.
+You can extend the panel over the base volume.
+Keep in mind that you can not add any panels outside the base volume even if other panels are extended over the base volume.
+Skewed Edges: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.
+
+Name
+: Enter a name for your panel.
+Setback
+: Enter a setback, which will be subtracted from the outer base backline.
+Thickness
+: Enter the thickness of the panel
+Overlap
+: Enter for every side how much the back panel is supposed to overlap in the corpus panels.
+You can extend the panel over the base volume.
+Keep in mind that you can not add any panels outside the base volume even if other panels are extended over the base volume.
+Back panel rebating: Enter if the back panel is supposed to get a rabbet. This may be important if you want to use a 19 mm back panel and don´t want mill the whole material depth in the corpus panels.
+Front
+: Enter the depth if the milling is supposed on the frontside of the back panel.
+Back
+: Enter the depth if the milling is supposed on the backside of the back panel.
+Machine on CNC
+: Tick the box if you want to machine the back panel on CNC.
+Tool Number
+: Select the tool number which you want to use for the machining.
+Custom Feedrate
+: Tick the box when you want to define the feed rate by your own.
+Feedrate
+: Enter the feed rate you want to use.
+Carcass Rebate Extension: You can define a desired airgap between back panel and corpus panels when you open the dropdown menu.
+Air Gap Width
+: Enter the desired air gap in the width between back panel and corpus panels. The gap will be considered for all sides.
+Air Gap Depth
+: Enter the desired air gap in the depth between back panel and corpus panels. The gap will be considered for all sides.
+Top Left
+: Enter how much the groove is supposed to be extended on the top in the left corpus panel.
+Top Right
+: Enter how much the groove is supposed to be extended on the top in the right corpus panel.
+Bottom Left
+: Enter how much the groove is supposed to be extended on the bottom in the left corpus panel.
+Bottom Right
+: Enter how much the groove is supposed to be extended on the bottom of the right corpus panel.
+Skewed Edges
+: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.
+Export
+: Select a machining for inserting the back panel to the corpus panels by opening the drop down menu.
+Machining Type
+: Select a machining for inserting the back panel to the corpus panels.
+Tool Number
+: Select the tool you want to use.
+Mill Diameter
+: Enter the diameter of the tool.
+Mill Feedrate
+: Enter the desired feed rate of the tool.
+Machine Corners
+: Tick the box if you want clean the corners with a mill.
+
+Name
+: Enter a name for your traverse.
+Absolute Position
+: Determine the space of your panel to the base outline. The arrow in the right side of the row allows you to switch between top or bottom base outside line.
+Width
+: Enter the width of the traverse.
+Thickness
+: Enter the thickness of the traverse.
+Type
+: Choose what execution you want for your traverse, select between two panels, only front panel or only back panel.
+Front Setback
+: Enter a setback for the frontal traverse.
+Back setback
+: Enter a setback for the rear traverse.
+Skewed Edges
+: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.
+
+Name
+: Enter a name for your traverse.
+Absolute Position
+: Determine the space of your panel to the base outline. The arrow in the right side of the row allows you to switch between front or back base outside line.
+Width
+: Enter the width of the traverse.
+Thickness
+: Enter the thickness of the traverse.
+Type
+: Choose what execution you want for your traverse, select between two panels, only front panel or only back panel.
+Top Distance
+: Enter a distance for the upper traverse.
+Bottom Distance
+: Enter a Distance for the lower traverse.
+Skewed Edges
+: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.
+
+Name
+: Enter a name for your Panel.
+Skewed Edges
+: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Count
+: Enter how much panels you need. SmartWOP will split the space between the panels automatically identical in the base volume.
+Top Distance
+: Enter the desired space of the outer upper baseline to the upper adjustable shelves.
+Bottom Distance
+: Enter the desired space of the outer lower baseline to the lower adjustable shelves.
+Panel Position
+: Open the dropdown menu to enter the desired space individually for every shelves to the lower base volume.
+Distance
+: The distance between the adjustable shelves will be shown in this input box.
+Thickness
+: Enter the thickness of the shelves.
+Setback
+: Enter how far the shelves should receive a setback from each open side that is not restricted by an item or separator.
+The retraction is applied to each edge of the shelves that are not limited by an item or separator.
+Air Gap
+: Enter the desired space of the adjustable shelves to the left and right corpus panels.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.
+
+Name
+: Enter a name for your Panel.
+Absolute Left Position
+: Determine the space of the left side of your panel to the base outline. The arrow in the right side of the row allows you to switch between top or bottom base outside line.
+Absolute Right Position
+: Determine the space of the Right side of your panel to the base outline. The arrow in the right side of the row allows you to switch between top or bottom base outside line.
+Angle
+: Enter the desired angle for your panel. You can enter an angle of-89° to 89°.
+Setback
+: Give the item a setback that reduces the volume for all subsequent items that are dragged in.
+The setback entered is subtracted from the front edge of the item and limits the volume in order to assign a general setback to the subsequent items.
+Items that are drawn in after an item with a setback, are automatically calculated by the volume with the reduced setback and therefore have the value 0 for the setback.
+Safety clearance: Enter a safety clearance to determine how much space you want to have between other diagonal panels.
+Thickness
+: Enter the thickness of the panel.
+In the dropdown menu of Panel Dimensions you can change the dimensions of the panels in all directions.
+You can extend the panel over the base volume.
+Keep in mind that you can not add any panels outside the base volume even if other panels are extended over the base volume.
+Skewed Edges: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.
+
+Name
+: Enter a name for your Panel.
+Absolute Front Position
+: Determine the space of the front side of your panel to the base lower outline.
+Absolute Back Position
+: Determine the space of the back side of your panel to the base lower outline.
+Angle
+: Enter the desired angle for your panel. You can enter an angle of-89° to 89°.
+Safety clearance
+: Enter a safety clearance to determine how much space you want to have between other diagonal panels.
+Thickness
+: Enter the thickness of the panel.
+Skewed Edges
+: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.
+
+Name
+: Enter a name for your Panel.
+Absolute Left Position
+: Determine the space of the left side of your panel to the base outline. The arrow in the right side of the row allows you to switch between front or back base outside line.
+Absolute Right Position
+: Determine the space of the right side of your panel to the base outline. The arrow in the right side of the row allows you to switch between front or back base outside line.
+Angle
+: Enter the desired angle for your panel. You can enter an angle of-89° to 89°.
+Thickness
+: Enter the thickness of the panel.
+Orientation
+: Determine the orientation of the diagonal panel Z. This can be helpful to bring the panel in the desired position.
+Skewed Edges
+: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.
+
+Name
+: Enter a name for your Panel.
+Position
+: Enter the center position of the universal panel in X/Y/Z.
+Rotation
+: Enter the rotation of the universal panel in X/Y/Z.
+Thickness
+: Enter the thickness of the panel.
+Orientation
+: Determine the orientation of the diagonal panel z. This can be helpful to bring the panel in the desired position.
+Skewed Edges
+: If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+: If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.
+
+Name
+: Enter a name for your Panel.
+Distance
+: Enter the space of the drawer bottom to the outer bottom baseline.
+Thickness
+Enter the thickness of the panel.
+Overlap
+You can enter an overlap for all panel sides by opening the dropdown menu.
+You can extend the panel over the base volume.
+Keep in mind that you can not add any panels outside the base volume even if other panels are extended over the base volume.
+Carcass Rebate Extension
+you can open the dropdown menu to optimize your Carcass Rebate Extension.
+Air Gap Width
+Enter an air gap for the width between drawer bottom and groove/fold which will be subtracted on all sides.
+Air Gap Depth
+Enter an air gap for the depth between drawer bottom and groove/fold which will be subtracted on all sides.
+Front Left
+Enter how much the groove/fold is supposed to be extended on the front left.
+Front right
+Enter how much the groove/fold is supposed to be extended on the front right.
+Back Left
+Enter how much the groove/fold is supposed to be extended on the back left.
+Back Right
+Enter how much the groove/fold is supposed to be extended on the back right.
+Skewed Edges
+If you have angled panels which fit to other panels you can trim or extend the panel if needed.
+Pick Point
+If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.
+
+Name
+Enter a name for your Panel.
+Thickness
+Enter the thickness of the panel.
+Panel Position
+Open the dropdown menu to enter the desired space individually for every shelves to the lower base volume.
+Exterior/Interior
+Tip the box to change on which side the cover panel is supposed to be.
+Pick Point
+If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.
+
+>
+Name
+: Enter a name for your Panel.
+Thickness
+Enter the thickness of the panel.
+Width
+Enter the Width of the panel.
+Position
+Enter a Setback for the Panel.
+Distance to Panel
+Enter a space between panel and corpus.
+Panel Dimensions
+Open the dropdown menu to cut or extend the panel.
+Mounting Panel
+Tick the box when you want to have a mounting panel. Open the dropdown menu to change Dimensions of your mounting panel.
+Exterior/Interior
+Tip the box to change on which side the cover panel is supposed to be.
+Pick Point
+If you add a component or split a panel by WoodWOP you can choose which part of your panel will be needed.

@@ -1,0 +1,32 @@
+The groove can be applied to the surface of any item.
+The groove is only ever applied to one item.
+Pull the groove onto an item.
+In the template window you will find further settings to optimise your machining.
+
+Start X:
+Specify the starting point for saw processing on the X-axis.
+Start Y:
+Specify the starting point for saw processing on the Y-axis.
+End X:
+Specify the end point of the sawing operation on the X-axis.
+End Y:
+Specify the end point of the sawing operation on the Y-axis.
+You have the option of changing the axis for determining the start and end points using the arrows on the right-hand side of the lines.
+The axis is displayed for orientation in the scene.
+Depth:
+Specify the depth of the groove.
+Prescoring Depth:
+If required, enter a prescoring depth for the groove machining.
+If the groove is not to be prescored, set the value to zero.
+Groove Width:
+Specify the width of the groove.
+Insert Mode:
+In the drop-down menu, select how the saw blade is to be inserted for the groove machining.
+Saw Mode:
+In the drop-down menu, select whether the saw blade should saw in parallel feed or in counter direction.
+Machining Side:
+In the drop-down menu, select which side of the contour the saw blade should run.
+Top Side/ bottom Side:
+Setzen Sie den Haken, wenn Sie die Bearbeitungsseite des Bautteils ändern möchten.
+Export:
+In the drop-down menu, you have the option of specifying the tool that is to be used for the machining.

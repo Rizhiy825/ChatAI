@@ -1,1 +1,0 @@
-Drag a horizontal drilling onto an item’s edge. Specify number or maximum spacing of drillings, distances (including last and first distance), distance between drillings, starting Z position, reference edge, option to swap first and last distances, diameter, tool number and depth

@@ -1,0 +1,5 @@
+When you switch to room mode, the room start bar button appears in the top selection bar.
+Select one or more room walls.
+Activate the button to hide the selected room walls.
+Hiding walls can be helpful for the construction of your piece of furniture.
+The walls are only faded out and can be faded in again at any time.

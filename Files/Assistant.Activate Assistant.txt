@@ -1,0 +1,5 @@
+To activate the assistant during design and apply the information activated in the assistant directly when designing your piece of furniture, activate one of the two buttons.
+As long as the assistant is activated, the buttons are highlighted in blue.
+The selected assistant is applied until the assistant is deactivated again via the button.
+If, while using the assistant, you notice that parts are not taken into account by the assistant, add the desired name, machining, edge assignment and export tuning setting to these parts and relearn the assistant.
+This way you can teach the assistant more and more and perfect it for your desired use.

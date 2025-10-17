@@ -1,1 +1,0 @@
-Select and Move is the default control mode that allows you to select and move items. It remains active until you activate another tool such as Rotation

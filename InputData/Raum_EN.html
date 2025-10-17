@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Menu1</title>
+    <link rel="stylesheet" href="../style.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="cache-control" content="no-cache" />
+    <script src="../scripts.js"></script>
+</head>
+
+<body>
+    <div>
+        <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content" id="img01">
+            <div id="caption"></div>
+        </div>
+        <h1>Raum</h1>
+        <div class="content" id="object1">
+            <div class="content-header">
+                <h2>Room Types</h2>
+                <img id="myImg" src="images\Raum\Types.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    SmartWOP offers you various room types as a preliminary design to plan a room as quickly and easily as possible.<br>
+                    The individual room types serve as a template that can be adapted individually.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object2">
+            <div class="content-header">
+                <h2>Insert Room</h2>
+                <img id="myImg" src="images\Raum\Insert_Room.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    Drag one of the room types into the scene.<br>
+                    In the template window, you have the option of customising your room.
+                </p>
+            </div>
+            <div class="content-list">
+                <p>
+                    <b>Name:</b> Give the room a name.<br>
+                    <b>Height:</b> Specify the height of the room.<br>
+                    <b>Width:</b> Specify the width of the room.<br>
+                    <b>Depth:</b> Specify the depth of the room.<br>
+                    <b>Transformation:</b> Specify the position of the room in the scene.<br>
+                    The position in X/Y/Z are measured from the centre of the room.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object3">
+            <div class="content-header">
+                <h2>Raumelemente</h2>
+                <img id="myImg" src="images\Raum\Elements.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    SmartWOP offers you room elements with which you can visualise the room as the situation dictates.<br>
+                    In the template windows of the individual room elements, you have the option of adapting them.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object4">
+            <div class="content-header">
+                <h2>Roomelement Opening</h2>
+                <img id="myImg" src="images\Raum\Opening.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    You need a room on which you can raise room elements.<br>
+                    Drag the opening to one side of the room to add it to the room.<br>
+                    You have the option of dragging the opening to the desired position on the room wall using the coordinate system.<br>
+                    The template window of the room elements does not open until it has been drawn onto the room..<br>
+                    In the template window you have the possibility to adjust the opening.
+                </p>
+            </div>
+            <div class="content-list">
+                <p>
+                    <b>Width:</b> Specify the width of the opening.<br>
+                    <b>Height:</b> Specify the height of the opening.<br>
+                    <b>Position X:</b> Specify the position of the opening, in X-axis of the room side.<br>
+                    The coordinate system in the construction shows you from which direction the position X is taken.<br>
+                    You also have the option of entering the position X directly in the dimension line in the drawing.<br>
+                    <b>Position Z:</b> Specify the position of the opening, in Z-axis of the room side.<br>
+                    The coordinate system in the construction shows you from which direction the position Z is taken.<br>
+                    You also have the option of entering the position Z directly in the dimension line in the drawing.<br>
+                    <b>Frame:</b> In the drop-down menu you have the option of adding a frame to the opening and adjusting it.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object5">
+            <div class="content-header">
+                <h2>Roomelement Door</h2>
+                <img id="myImg" src="images\Raum\Door.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    You need a room on which you can raise room elements.<br>
+                    Drag the Door to one side of the room to add it to the room.<br>
+                    You have the option of dragging the Door to the desired position on the room wall using the coordinate system.<br>
+                    The template window of the room elements does not open until it has been drawn onto the room.<br>
+                    In the template window you have the possibility to adjust the Door.
+                </p>
+            </div>
+            <div class="content-list">
+                <p>
+                    <b>Width:</b> Specify the width of the door.<br>
+                    <b>Height:</b> Specify the height of the door.<br>
+                    <b>Position X:</b> Specify the position of the door, in X-axis of the room side.<br>
+                    The coordinate system in the construction shows you from which direction the position X is taken.<br>
+                    You also have the option of entering the position X directly in the dimension line in the drawing.<br>
+                    <b>Position Z:</b> Specify the position of the door, in Z-axis of the room side.<br>
+                    The coordinate system in the construction shows you from which direction the position Z is taken.<br>
+                    You also have the option of entering the position Z directly in the dimension line in the drawing.<br>
+                    <b>Frame:</b> In the drop-down menu you have the option of adding a frame to the door and adjusting it.<br>
+                    <b>HInges Side:</b> Select the desired door hinge side via the drop-down selection.<br>
+                    <b>Opens Outside:</b> Check the box if the door is to be opened to the outside.<br>
+                    Remove the hook to open the door inwards.<br>
+                    <b>Opens Angle:</b> Specify the opening angle of the door.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object6">
+            <div class="content-header">
+                <h2>Roomelement Window</h2>
+                <img id="myImg" src="images\Raum\Window.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    You need a room on which you can raise room elements.<br>
+                    Drag the window to one side of the room to add it to the room.<br>
+                    After opening the window, you can drag it to the desired position on the room wall using the coordinate system.<br>
+                    The template window of the room elements does not open until it has been drawn onto the room.<br>
+                    In the template window you have the option of customising the window.
+                </p>
+            </div>
+            <div class="content-list">
+                <p>
+                    <b>Width:</b> Specify the width of the window.<br>
+                    <b>Height:</b> Specify the height of the window.<br>
+                    <b>Position X:</b> Specify the position of the window, in X-axis of the room side.<br>
+                    The coordinate system in the construction shows you from which direction the position X is taken.<br>
+                    You also have the option of entering the position X directly in the dimension line in the drawing.<br>
+                    <b>Position Z:</b> Specify the position of the window, in Z-axis of the room side.<br>
+                    The coordinate system in the construction shows you from which direction the position Z is taken.<br>
+                    You also have the option of entering the position Z directly in the dimension line in the drawing.<br>
+                    <b>Frame:</b> In the drop-down menu you have the option of adding a frame to the window and adjusting it.<br>
+                    <b>Mounting Width:</b> Geben Sie die Breite der Fenstersprossen an.<br>
+                    <b>Mountig Thickness:</b> Geben Sie die dicke der Fenstersprossen an.<br>
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object7">
+            <div class="content-header">
+                <h2>Room-Homebar</h2>
+                <img id="myImg" src="images\Raum\Room-Homebar.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    When you switch to room mode, the room homebar button appears in the top selection bar.<br>
+                    By clicking on the room homebar, you can access the other functions for editing your room.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object8">
+            <div class="content-header">
+                <h2>Edit Room</h2>
+                <img id="myImg" src="images\Raum\Edit_Room.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Activate the edit mode of the room to customise the room.<br>
+                    Select a room edge, room corner or room side in your design.<br>
+                    The selected room edge or corner is marked red and the room side is marked blue.<br>
+                    You can adjust the edge, corner or side using the X/Y/Z coordinate system displayed on the selected element.<br>
+                    Individual edges and corners are extended or shortened when the dimensions are changed.<br>
+                    Room sides are only moved when the dimensions are changed.<br>
+                    As long as you are in room edit mode, room elements can no longer be selected.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object9">
+            <div class="content-header">
+                <h2>Split Roomedge</h2>
+                <img id="myImg" src="images\Raum\Split_Edge.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Select a room edge in your construction.<br>
+                    The selected edge is marked red.<br>
+                    Click on the button to divide a room edge.<br>
+                    When dividing the edge, a new room corner is automatically created.<br>
+                    The edge is automatically split in the middle and the corner can be moved using the input fields on the edge.<br>
+                    Upright room edges cannot be split.<br>
+                    You can divide an edge as much as you like.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object10">
+            <div class="content-header">
+                <h2>Split Roomside</h2>
+                <img id="myImg" src="images\Raum\Split_Side.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Select a room side in your construction.<br>
+                    The selected room side is marked blue.<br>
+                    Click on the button to split the room side.<br>
+                    When dividing the room side, a new room edge is automatically created.<br>
+                    The page is automatically split in the middle.<br>
+                    Select the newly created room edge and position it using the coordinate system or the input fields.<br>
+                    The ceiling and floor cannot be split.<br>
+                    You can split a side as many times as you like.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object11">
+            <div class="content-header">
+                <h2>Define corner shaft</h2>
+                <img id="myImg" src="images\Raum\Corner_Shaft.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Select a room side in your construction.<br>
+                    The selected room side is marked blue.<br>
+                    Click on the button to split the room side.<br>
+                    When dividing the room side, a new room edge is automatically created.<br>
+                    Choose another side of the room and share it as well.<br>
+                    Define the outer dimensions of the shaft using the distances between the divided room edges.<br>
+                    Now select the corner edge and drag it into the room.<br>
+                    To align the shaft perfectly, you have the option of entering the dimensions in the input fields provided.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object12">
+            <div class="content-header">
+                <h2>Define surface shaft</h2>
+                <img id="myImg" src="images\Raum\Surface_Shaft.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Select a room side in your construction.<br>
+                    The selected room side is marked blue.<br>
+                    Click on the button to split the room side.<br>
+                    When dividing the room side, a new room edge is automatically created.<br>
+                    Select the same room side again and divide it for each room edge to be determined.<br>
+                    Define the outer dimensions of the shaft using the distances of the outer partitioned room edges.<br>
+                    Now select the corner edges and bring them into the desired position.<br>
+                    You have the option of moving the newly separated room sides in the desired direction by selecting them or defining them using the input fields attached to the coordinate cross.<br>
+                    You also have the option of splitting the wall that is to receive the shaft twice and selecting the newly separated side of the room that is now in the middle, entering the setback of the shaft in the coordinate cross, holding down the CTRL key on the keyboard and confirming your measurement with Enter.<br>
+                    Two new room edges are automatically created and the shaft jumps in the direction by the dimension you have entered in the coordinate cross.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object13">
+            <div class="content-header">
+                <h2>Link</h2>
+                <img id="myImg" src="images\Raum\Link.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Linking is used to create a horizontal room edge.<br>
+                    Select a horizontal room edge in your construction.<br>
+                    The selected room edge is marked red.<br>
+                    Click on the button to divide the room edge.<br>
+                    When splitting the room side, a new room corner is automatically created.<br>
+                    Select another horizontal room edge and divide it as well.<br>
+                    Now select the two divided room corners via the multiple selection and link them.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object14">
+            <div class="content-header">
+                <h2>Define roof slope</h2>
+                <img id="myImg" src="images\Raum\Roof_slope.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Select two opposite horizontal space edges and divide them.<br>
+                    Link the two newly created room corners and use them to create a new Horiontal room edge.<br>
+                    Select the room edge to be moved and bring it into position using the coordinate cross or enter the dimensions using the input fields.<br>
+                    You have the option of dividing and linking the roof slopes as the situation requires.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object15">
+            <div class="content-header">
+                <h2>Delete</h2>
+            </div>
+            <div class="content-text1">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Select a room page to delete the room from your construction.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object16">
+            <div class="content-header">
+                <h2>Additive selection method</h2>
+            </div>
+            <div class="content-text1">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Activate the button to select several room elements at the same time.<br>
+                    You have the option of using the same function by left-clicking with the Ctrl key.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object17">
+            <div class="content-header">
+                <h2>Subtractive selection method</h2>
+            </div>
+            <div class="content-text1">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Activate the button to deselect room elements.<br>
+                    You have the option of applying the same function by Alt left-clicking.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object18">
+            <div class="content-header">
+                <h2>Frame</h2>
+            </div>
+            <div class="content-text1">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Select the button to select several or all room elements at the same time.<br>
+                    Only room elements that are completely in the frame are selected.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object19">
+            <div class="content-header">
+                <h2>Hide room</h2>
+            </div>
+            <div class="content-text1">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Activate the button to hide the room.<br>
+                    Hiding the space can be helpful for the construction of your piece of furniture.<br>
+                    The room is only hidden and can be shown again at any time by clicking the button again.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object20">
+            <div class="content-header">
+                <h2>Hide wall</h2>
+            </div>
+            <div class="content-text1">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Select one or more room walls.<br>
+                    Activate the button to hide the selected room walls.<br>
+                    Hiding walls can be helpful for the construction of your piece of furniture.<br>
+                    The walls are only faded out and can be faded in again at any time.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object21">
+            <div class="content-header">
+                <h2>Show walls</h2>
+            </div>
+            <div class="content-text1">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Click the button to show the hidden walls again.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object22">
+            <div class="content-header">
+                <h2>Hide ceiling</h2>
+            </div>
+            <div class="content-text1">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Activate the button to hide the ceiling surfaces.<br>
+                    Sloping roofs are considered ceiling areas and are also hidden when hiding ceilings.<br> 
+                    Hiding ceilings can be helpful for the construction of your piece of furniture.<br>
+                    The ceiling surfaces are only hidden and can be shown again at any time by clicking the button again.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object23">
+            <div class="content-header">
+                <h2>Solid Mode</h2>
+            </div>
+            <div class="content-text1">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Select the button to move from the transparency mode to the material mode.<br>
+                    In the submenu of the button, we have the option of switching contour trains on and off in material mode.<br>
+                    To return to transparency mode, click the button again.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object24">
+            <div class="content-header">
+                <h2>Assign material to room elements</h2>
+                <img id="myImg" src="images\Raum\Wall_Material.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    When you switch to room mode, the room start bar button appears in the top selection bar.<br>
+                    Switch to material mode to assign material to the floor, ceilings and walls.<br>
+                    Only materials that have been created for floors/ceilings or walls can be assigned to the room elements.<br>
+                    This means that materials designed for floors/ceilings cannot be used for walls.<br>
+                    You do not need to be in edit mode to assign materials to the room.
+                </p>
+            </div>
+        </div>
+        <div class="content" id="object25">
+            <div class="content-header">
+                <h2>Insert free objects</h2>
+                <img id="myImg" src="images\Raum\Free_Objects.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    SmartWOP offers you the possibility to draw free 3-D objects into your design and visualise them in your project.<br>
+                    Use the button at the bottom right of the screen to switch to the free objects.<br>
+                    Select the desired 3-D object and drag it into the scene.<br>
+                    Drag the free 3-D object to the desired location using the coordinate cross or move the element to the desired location by entering the distance dimensions in the input fields.<br>
+                    As long as the overlapping of elements is not allowed in the start command bar, 3-D objects on components or spatial components will be trapped when dragged across the coordinate cross.<br>
+                    If you move free objects to the desired position via dimension lines, they can be intersected via room walls/ceilings and building components.<br>
+                    Free objects are only used for visualisation and have no effect on the output CNC-programs and material lists.<br>
+                    3-D elements cannot be adjusted in dimensions. 
+                </p>
+            </div>
+        </div>     
+        <div class="content" id="object26">
+            <div class="content-header">
+                <h2>Add Free Ojects</h2>
+                <img id="myImg" src="images\Raum\New_Object.jpg">
+            </div>
+            <div class="content-text">
+                <p>
+                    Use the button at the bottom right of the screen to switch to the free objects.<br>
+                    Create a new folder or open the folder where you want to add your newly added free object.<br>
+                    Click the button to add a free object.<br>
+                    Sketchup 3D elements can be added and are freely available for download from the Sketchup website (3D Warehouse).<br>
+                    Select the Sketchup file from your folders and import it into the previously selected folder of free elements. 
+                </p>
+            </div>
+        </div>
+    </div>
+</body>

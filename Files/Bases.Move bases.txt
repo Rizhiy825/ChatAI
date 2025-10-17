@@ -1,0 +1,3 @@
+Left click the base u want to move.
+Hold the left mouse button pressed on the arrow in which position you want to move the base.
+Release the left mouse button when you have reached the right position.

@@ -1,1 +1,0 @@
-Drag a room type into the scene to insert a room. In the template window you can customise the room by giving it a name and specifying height, width, depth and transformation (position in X, Y, Z relative to the room centre)

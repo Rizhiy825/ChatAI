@@ -1,0 +1,10 @@
+Constructions that are required again and again can be created and archived in SmartWOP as variable construction components.
+This makes it possible to use prefabricated systems variably in the construction of structures.
+For example, you can use do-it-yourself drawer boxes.
+To do this, your drawer variant is created once in SmartWOP and saved and stored as a variable component.
+This component can now be arranged variably in volumes of any size.
+The drawer construction automatically adapts to the assigned volume on all sides when it is pulled in.
+The drawer does not have to be rebuilt again and again in every new construction.
+SmartWOP components support machining (system holes), fittings such as hinges or drawer systems and materials.
+This means that complete cabinet constructions can be created as components.
+Many practical applications such as kitchen base units, wall units, tall units and wardrobe variants can be easily customised and used in a variety of ways.

@@ -1,0 +1,12 @@
+You can use the material template to select different panel materials and edge materials and add them to your items.
+Name:
+SmartWOP shows you the material name of the selected material.
+Panels:
+Select the materialpanel you want to add to your selected items.
+Grain Rotation Angle:
+Enter the grain angle to rotate the grain on the selected items.
+Edges:
+Select the edge material that you want to add to your selected items.
+Edges banding:
+Select how the edges are to be arranged for the selected items.
+By default, the front edge goes through and the rear edge jumps in between the side edgings.

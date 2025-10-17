@@ -1,0 +1,17 @@
+Select a panel in the panel planner to call up the template window.
+Name:
+SmartWOP shows you the name of the material used.
+Type:
+SmartWOP shows you the type of material used.
+Panel Name:
+SmartWOP shows you the name of the used board.
+Length:
+SmartWop offers you the option of modifying the panel dimensions of the panel to be used in order to utilise leftover panels and plan the cutting in these.
+Change the length of the board.
+When the panel dimensions are changed, a new panel is automatically created with the entered (changed) panel dimensions.
+Width:
+SmartWop offers you the option of modifying the panel dimensions of the panel to be used in order to utilise leftover panels and plan the cutting in these.
+Change the width of the panel.
+When the panel dimensions are changed, a new panel is automatically created with the entered (changed) panel dimensions.
+Thickness:
+SmartWOP shows you the thickness of the panel used.

@@ -1,0 +1,4 @@
+Delete the already existing materials in SmartWOP.
+To do this, select all the materials in the SmartWOP subfolder (click on the first material, hold down the Shift key and click on the last material in the subfolder) and click on the Delete button.
+Then delete the folder using the button as well.
+You can only delete empty folders.

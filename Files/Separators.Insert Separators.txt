@@ -1,0 +1,7 @@
+Before you can insert Items you will need to have a base.
+Insert separators in your base by drag and drop.
+Remember that you work from the outside to the inside in SmartWOP.
+Separators that you enter to your construction will split the base without adding panels.
+You will need separators to plan more complex constructions.
+If you construct panels which will be calculated on separators you can not delete the separator without deleting the panel.
+If you separate panels with a separator you can link them together by selecting the panels and right clicking to choose link in the dropdownmenu.

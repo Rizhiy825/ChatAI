@@ -1,1 +1,0 @@
-Drag the universal separator into the base. You can drag the separator by arrows into position or enter the desired dimensions. In the settings window you will find more options to optimise your separator. You can specify the centre position and rotation of the separator in X/Y/Z

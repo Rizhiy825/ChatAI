@@ -1,0 +1,33 @@
+The horizontal drilling can be mounted on the edge of any item.
+Horizontal drilling is only ever applied to one item.
+Drag the horizonal drilling onto the desired edge.
+In the template window you will find further settings to optimise your machining.
+
+Count:
+Enter the desired amount of drillings.
+Step (max.):
+Specify the maximum distance between the drillings.
+You have the option of either specifying the number of holes or specifying a maximum step at which the holes should be spaced.
+To do this, click on the symbol on the far right of the line.
+Distances:
+In the drop-down menu, you have the option of specifying the distances of the horizontal drillings.
+Last Distance:
+Specify the last distance of the horizontal drilling.
+Distance:
+Specify the distance between the drillings.
+By clicking on the symbol on the right-hand side of the line, you have the option of specifying the distance in millimetres or dividing the holes into the space between them.
+First Distance:
+Specify the first distance between the drillings.
+Start Z:
+Specify the center point of the drilling in Z.
+Edge:
+Select the side to be machined by selecting the reference edge in the drop-down menu.
+First Distance Side:
+Set the hook to swap the distance between the first and last drilling.
+Diameter:
+Specify the diameter of the holes in the horizontal drilling.
+Tool Number:
+Enter the tool of the holes.
+You have the option of changing the diameter of the drilling to the tool by clicking on the symbol on the right-hand side of the line.
+Depth:
+Specify the depth of the drilling.

@@ -1,0 +1,2 @@
+Click the button to centre the view on the cutting plan.
+Select a workpiece and click the button to centre the view on the selected workpiece.

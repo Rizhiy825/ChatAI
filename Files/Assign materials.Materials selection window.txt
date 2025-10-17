@@ -1,0 +1,9 @@
+As soon as you switch to material mode during a construction, the selection window opens.
+You can use the selection window to decide whether surfaces are to be provided with a new material and which edging is to be applied to the item.
+Select one or more items in your design to expand the selection window.
+Items:
+Tick the box to make all items used in the design, except for drawer insides and components, selectable for the material selection.
+Components:
+Tick the box to make the components used in the design selectable for the material selection.
+Drawer Insides:
+Tick the box to make the internal parts of the drawers used in the design selectable for the material selection.

@@ -1,0 +1,2 @@
+When you switch to room mode, the room homebar button appears in the top selection bar.
+By clicking on the room homebar, you can access the other functions for editing your room.

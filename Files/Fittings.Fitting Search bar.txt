@@ -1,0 +1,3 @@
+In the fittings search bar, you can filter out and display individual fittings from your entire fittings database using the name of a fitting or the item number of a fitting.
+
+In the fittings search bar, you can filter out and display individual fittings from your entire fittings database using the name of a fitting or the item number of a fitting.

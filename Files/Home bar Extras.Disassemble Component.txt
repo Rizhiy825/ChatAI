@@ -1,0 +1,3 @@
+When you drag a component into your design, you can explode the component to add or change machining.
+Select the component to be disassembled and click the button.
+The component is exploded and the items can be selected individually.

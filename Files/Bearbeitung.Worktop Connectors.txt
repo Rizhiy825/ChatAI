@@ -1,0 +1,30 @@
+As long as single-sided machining is not activated, you can only pull on the worktop connectors when two worktops butt up against each other at the edges.
+Pull the worktop connectors onto the joint that is to receive the connection.
+In the template window you will find further settings to optimise your machining.
+
+Count:
+Enter the required amount of connectors.
+Step Max.:
+Specify the maximum distance between the connectors.
+You have the option of either specifying the number of connectors or specifying a maximum step at which the connectors should be spaced.
+To do this, click on the symbol on the far right of the line.
+Distances:
+Specify the distances of the first and/or last connector in mm.
+Click on the symbol on the right-hand side of the line to set the distances between the connectors, either to a fixed value in mm or divided into the gaps.
+Housing Hole:
+You can specify the desired values for machining the housing in the drop-down menu.
+You have the option of adjusting the distance between the two sides as required.
+Housing Side:
+Tick the box to change the housing opening side.
+Slot Depth:
+Specify the desired slot depth for machining the worktop connectors.
+Butt Joint:
+Tick the box if you want a butt joint to be machined on the panels to be joined.
+In the drop-down menu, you have the option of customising the butt joint as required.
+You also have the option of assigning a specific tool directly to butt joint processing.
+Connection Area:
+SmartWOP shows you the connection area of the currently selected connection.
+Fitting:
+Select a prefabricated fitting (Worktop Connector) for the connectors to add them to the material list.
+The machining of the Worktop Connector is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.
+If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.

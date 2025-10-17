@@ -1,0 +1,8 @@
+You have the option of defining handle profiles yourself and then importing them.
+To define a profile yourself, you must first create a .txt file, e.g. using Microsoft's editor.
+When the file is created, you must define the contour of the profile using X and Y in the 2-dimentional.
+You always determine the contour line via the contour points (X= and Y=).
+The contour must first be given a starting point, e.g.(X=0 Y=0).
+The contour line is always drawn directly from contour point to contour point.
+The entire contour must be self-contained again at the end.
+The length of the handle is not specified in the file, as it automatically refers to the entire length of the item.

@@ -1,0 +1,36 @@
+As long as single-sided machining is not activated, you can only mount the Lamello/Clamex when two panels are directly next to each other.
+Lamello/Clamex machining can be used in all connection options.
+The angle at which the items are positioned in relation to each other is irrelevant for inserting the Lamello/Clamex.
+Drag the Lamello/Clamex onto the area that is to receive the connection.
+In the template window you will find further settings to optimise your machining.
+
+Count:
+Enter the desired number of Lamello/Clamex.
+Step Max.:
+Specify the maximum distance between the Lamello/Clamex.
+You have the option of either specifying the number of Lamello/Clamex or specifying a maximum step at which the Lamello/Clamex should be spaced.
+To do this, click on the symbol on the far right of the line.
+Distances:
+Enter the distances of the first and/or Lamello/Clamex in mm.
+Click on the symbol on the right-hand side of the line to set the distances between the Lamello/Clamex, either to a fixed value in mm or divided into the spaces.
+Lamello/Clamex
+In the drop-down menu, you have the option of customising the machining of the Lamello/Clamex.
+Align Center:
+Set the hook to align the lamello/clamex to the center.
+If you remove the tick, you have the option of specifying the dimension of the Lamello/Clamex center point under the selection box.
+Change the reference edge for calculating the dimension by clicking on the arrow on the right-hand side of the line.
+Machining Main:
+In the drop-down menu, you have the option of specifying how the machining of the Lamello/Clamex is to be carried out in the workpiece surface.
+If you have a specific tool on the machine for Lamello/Clamex machining, you can store it in the options.
+Machining Edge:
+In the drop-down menu, you have the option of specifying how the machining of the Lamello/Clamex is to be carried out in the workpiece edge.
+If you have a specific tool on the machine for Lamello/Clamex machining, you can store it in the options.
+Tool Opening:
+Tick the box if you want the Lamello/Clamex/Divario machining to have a tool opening.
+In the drop-down menu, you have the option of customising the machining of the tool opening and selecting the opening side.
+Connection Area:
+SmartWOP shows you the connection area of the currently selected connection.
+Fitting:
+Select a prefabricated fitting (Lamello/Clamex) for the connectors to add them to the material list.
+The machining of the Lamello/Clamex is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.
+If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.

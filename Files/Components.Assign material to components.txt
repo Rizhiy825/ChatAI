@@ -1,0 +1,9 @@
+If a component is called up by double-clicking, the material can also be changed individually.
+Simply select items of the component and assign material.
+Use the Frame function to select the entire construction and assign material.
+Then save (overwrite) the component or save it with a new name as a new component.
+Components that have already been assigned to a construction are not taken into account when changing the material of an entire project.
+A component is to be seen as a closed system.
+As long as a component is not disassembled, the material cannot be changed directly.
+To change the material of an undissembled component in a project, the Add component option must be ticked in the selection window in material mode.
+Only then can the material be assigned to a component or changed.

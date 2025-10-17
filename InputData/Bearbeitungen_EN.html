@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+   <title>Menu1</title>
+   <link rel="stylesheet" href="../style.css">
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta http-equiv="cache-control" content="no-cache" />
+   <script src="../scripts.js"></script>
+</head>
+
+<body>
+   <div>
+      <div id="myModal" class="modal">
+         <span class="close">&times;</span>
+         <img class="modal-content" id="img01">
+         <div id="caption"></div>
+      </div>
+
+      <h1>Bearbeitung</h1>
+      <div class="content" id="object1">
+         <div class="content-header">
+            <h2>Add Machining</h2>
+            <img id="myImg" src="images\Bearbeitungen_EN\Addmachining.jpg">
+         </div>
+         <div class="content-text">
+            <p>
+               To insert machinings, you need items to which you can assign machinings.<br>
+               You can drag and drop machinings onto the item or onto the connection area.<br>
+               Machining can also be added directly for individual or all connection areas.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object2">
+         <div class="content-header">
+            <h2>Allow Single Side Connectors</h2>
+            <img id="myImg" src="images\Bearbeitungen_EN\SingleSide.png">
+         </div>
+         <div class="content-text">
+            <p>
+               To add single-sided machining, you must activate the button for the allowance of single side connectors.<br>
+               Single-sided machining allows you to add any machining to your items freely via drag and drop.<br>
+               If machining is added on one side, care must be taken to ensure that not only the items to which the machining has been added on one side are machined, but also those that come into contact with the machining.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object3">
+         <div class="content-header">
+            <h2>Select connection area</h2>
+            <img id="myImg" src="images\Bearbeitungen_EN\ConnectionArea.png">
+         </div>
+         <div class="content-text">
+            <p>
+               In the drop-down menu above the machining, you can directly select the connection areas to which you want to add machining.<br>
+               Connection areas that are selected via the drop-down menu are highlighted in red in the scene.<br>
+            </p>
+         </div>
+         <div class="content-list">
+            <b>No connection area:</b>Select no connection area to drag and drop your connection machining onto your items manually.<br>
+            <b>All connection areas:</b> Select all connection areas to add the same machining to all joints.<br>
+            <b>All Surfaces:</b> Select all surfaces to add the same machining to all surface connections.<br>
+            <b>Individual connection areas:</b> Each connection area is listed in the drop-down menu. Select the connection area to be machined.<br>
+         </div>
+         <div class="content-text2">
+            <p>
+               Connection areas to which machining has already been added, but where there are other connection areas with the same dimensions in your design, are highlighted in red in the drop-down menu.<br>
+               Connection areas to which machining has already been added and there are no other connection areas with the same dimensions in your design are marked grey in the drop-down menu.<br>
+               Once you have selected the connection area, you can add or delete machining using the two drilling machines to the right of the drop-down menu.
+            </p>
+         </div>
+      </div>
+      <div class="content" id="object4">
+            <h2>Edit machining profile</h2>
+            <p>
+               Machining profiles can save you a lot of time, as you can save recurring machining tasks in a profile and quickly call them up again.<br>
+               In order to machine existing profiles that have a lock, you must switch to administrator mode.<br>
+               You can activate administrator mode under File-Options-General directly under the drop-down menu of the machine selection.<br>
+               If you have not activated administrator mode, a new profile is created as soon as the machining parameters will be changed.<br>
+               SmartWOP will inform you that a new profile is being created.<br>
+               To delete profiles, you must delete them individually from the profile list.<br>
+               Profiles with a lock can only be deleted if you are in administrator mode.
+            </p>
+      </div>
+      <div class="content" id="object5">
+         <div class="content-header">
+            <h2>Add System holes</h2>
+            <img id="myImg" src="images\Bearbeitungen_EN\SystemHoles.png">
+         </div>
+         <div class="content-text">
+            <p>
+               As long as single-sided machining is not activated, you can only bring the system holes into your construction if you have two opposite sides.<br>
+               Pull the system holes between two vertical panels.<br>
+               In the template window you will find further settings to optimise your machining.<br>
+            </p>
+         </div>
+         <div class="content-list">
+            <b>Count:</b> Enter the desired count of the system holes.<br>
+            <b>Max Length:</b> Specify the maximum distance between the system holes.<br>
+            You have the option of either specifying the cout of the system holes or specifying a maximum step at which the system holes should be spaced.<br>
+            To do this, click on the symbol on the far right of the line.<br>
+            <b>Front/Back Distances:</b> Specify the distances of the system holes.<br>
+            <b>Bore:</b> In the bore drop-down menu, you have the option of customising the machining for the system holes.<br>
+            If you make changes to the hole without being in administrator mode, a new profile is created for the system hole machining.<br>
+            <b>Machining Side:</b> In the drop-down menu, you have the option of moving the machining to the desired side.<br>
+            <b>Bottom/Top Distance:</b> Specify the distances between the system holes from the top and bottom.<br>
+            <b>Row Alignment:</b> In the drop-down menu, you have the option of adjusting the alignment of the system holes.<br>
+            <b>Groups:</b> In the drop-down menu, you have the option of activating group drillings for the system holes.<br>
+            Specify the number of drillings, the number of groups and the distances between the groups from the top and bottom.<br>
+            <b>Link to adjustable shelves:</b> Select Link to adjustable shelves in the drop-down menu for the groups to determine the distances between the groups based on the adjustable shelves.<br>
+            <b>Support extension:</b> Select fitting bores or a WoodWOP component under machining type to add a drilling for the underside of the adjustable shelf, corresponding to the system holes.<br>
+            Define the machining for the pin of the shelf.<br>
+            Deactivate the machining type if no drillings are to be added to the underside of the adjustable shelf.<br>
+            <b>Fitting:</b> Select a prefabricated fitting (shelf support) for the row of holes to add it to the material list.<br>
+            The machining of the underside of the bottom is related to the accessory profiles, so that the holes in the underside of the bottom are automatically added when the accessory is selected.<br>
+            If you have not yet created any fitting profiles, enter the supplier and the article number of the shelf support so that these can be included in the material list.<br>
+            <b>Profile:</b> Profiles can only be customised if you are in administrator mode.<br>
+            If you are not in administrator mode, a new profile is always created when changes are made for the machining.<br>
+            As soon as a new profile is to be created automatically, SmartWOP will ask you whether you would like to create a new profile.<br>
+            Profiles must be deleted individually from the profile list if they are no longer required.<br>
+            The drilling patterns are saved within the profiles so that you do not have to adapt the drill holes for every situation, but simply select them via the profile.
+         </div>
+      </div>
+      <div class="content" id="object6">
+         <div class="content-header">
+            <h2>Connectors</h2>
+            <img id="myImg" src="images\Bearbeitungen_EN\Connectors.png">
+         </div>
+         <div class="content-text">
+            <p>
+               As long as single-sided machining is not activated, you can only mount the connectors if you have a vertical panel and a horizontal panel that abut against each other.<br>
+               Pull the connector onto the joint edge that is to receive the connector.<br>
+               In the template window you will find further settings to optimise your machining.<br>
+            </p>
+         </div>
+         <div class="content-list">
+            <b>Count:</b> Enter the desired amount of connectors.<br>
+            <b>Step Max.:</b> Specify the maximum distance between the connectors.<br>
+            You have the option of either specifying the number of connectors or specifying a maximum step at which the connectors should be spaced.<br>
+            To do this, click on the symbol on the far right of the line.<br>
+            <b>Distances:</b> Specify the distances of the first and/or last connector in mm.<br>
+            Click on the symbol on the right-hand side of the line to set the distances between the connectors, either to a fixed value in mm or divided into the gaps.<br>
+            <b>Housing Hole:</b> You can specify the desired values for machining the housing in the drop-down menu.<br>
+            <b>Housing Side:</b> Tick the box to change the housing opening side.<br>
+            <b>Bolt:</b> You can specify the desired values for machining the bolts in the drop-down menu.<br>
+            <b>Connection area:</b> SmartWOP shows you the connection area of the currently selected connection area.<br>
+            <b>Fitting:</b> Select a prefabricated accessory (Minifix) for the connectors to add them to the material list.<br>
+            The machining of the connectors is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.<br>
+            If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.
+         </div>
+      </div>
+      <div class="content" id="object7">
+         <div class="content-header">
+            <h2>Rastex/Cabineo</h2>
+            <img id="myImg" src="images\Bearbeitungen_EN\Rastex.png">
+         </div>
+         <div class="content-text">
+            <p>
+               As long as single-sided machining is not activated, you can only mount the Rastex/Cabineo if you have a vertical panel and a horizontal panel that abut against each other.<br>
+               Pull the Rastex/Cabineo onto the joint edge that is to receive the Rastex/Cabineo.<br>
+               In the template window you will find further settings to optimise your machining.<br>
+            </p>
+         </div>
+         <div class="content-list">
+            <b>Count:</b> Enter the desired number of Rastex/Cabineo.<br>
+            <b>Step Max.:</b> Specify the maximum step between the Rastex/Cabineo.<br>
+            You have the option of either specifying the number of Rastex/Cabineo or specifying a maximum step at which the Rastex/Cabineo should be spaced.<br>
+            To do this, click on the symbol on the far right of the line.<br>
+            <b>Distances:</b> Specify the distance of the first and/or last Rastex/Cabineo in mm.<br>
+            Click on the symbol on the right-hand side of the line to set the distances between the Rastex/Cabineo, either to a fixed value in mm or divided into the spaces.<br>
+            <b>Housing Hole:</b> You can specify the desired values for machining the housing in the drop-down menu.<br>
+            <b>Second Housing Hole:</b> Set the hook to add a second hole for the Rastex/Cabineo housing machining.<br>
+            In the drop-down menu, you can adjust the machining of the second drill hole to the desired values.<br>
+            <b>Third Housing Hole:</b> Set the hook to add a third hole for the Rastex/Cabineo housing machining.<br>
+            In the drop-down menu, you can adjust the machining of the third drill hole to the desired values.<br>
+            <b>Pocket for Cover Caps:</b> Use the hook to add a pocket milling to the housing for the cover cap.<br>
+            In the drop-down menu, you can adjust the machining of the pocket to the desired values.<br>
+            <b>Housing Side:</b> Tick the box to change the housing opening side.<br>
+            <b>Bolt:</b>You can specify the desired values for the bolt machining in the drop-down menu.<br>
+            <b>Connection Area:</b> SmartWOP shows you the connection area of the currently selected connection.<br>
+            <b>Fitting:</b> Select a prefabricated fitting (Rastex/Cabineo) for the connectors to add them to the material list.<br>
+            The machining of the connectors is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.<br>
+            If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.
+         </div>
+      </div>
+      <div class="content" id="object8">
+         <div class="content-header">
+            <h2>Dowel</h2>
+            <img id="myImg" src="images\Bearbeitungen_EN\Dowels.png">
+         </div>
+         <div class="content-text">
+            <p>
+               As long as single-sided machining is not activated, you can only mount the Dowel if you have a vertical panel and a horizontal panel that abut against each other.<br>
+               Pull the Dowel onto the joint edge that is to receive the Dowel.<br>
+               In the template window you will find further settings to optimise your machining.<br>
+            </p>
+         </div>
+         <div class="content-list">
+            <b>Count:</b> Enter the desired number of the Dowels.<br>
+            <b>Step Max.:</b> Specify the maximum step between the Dowels.<br>
+            You have the option of either specifying the number of Dowels or specifying a maximum step at which the Dowels should be spaced.<br>
+            To do this, click on the symbol on the far right of the line.<br>
+            <b>Distances:</b> Specify the distance of the first and/or Dowels in mm.<br>
+            Click on the symbol on the right-hand side of the line to set the distances between the Screw, either to a fixed value in mm or divided into the spaces.<br>
+            <b>Align Center:</b> Set the hook if the dowel is to be machined in the center of the edge.<br>
+            If you remove the tick, you have the option of specifying the dimension to the dowel center point under the selection box.<br>
+            Change the reference edge for calculating the dimension by clicking on the arrow on the right-hand side of the line.<br>
+            <b>Face Bore Depth:</b> Specify the depth for machining the dowel into the surface of the panel.<br>
+            Bear in mind that the dowel cannot be inserted if the depth of the facebore is deeper than the thickness of the workpiece.<br>
+            <b>Dowel:</b> In the drop-down menu, you have the option of customising the dowel processing as required.<br>
+            <b>Call Dowel Component:</b> Tick the box if you want to carry out your dowel processing with a WoodWOP component.<br>
+            In the drop-down menu of the dowel component, you must enter the path of the component if you are working with a dowel component.<br>
+            You can select the component using the three dots on the right-hand side of the line.<br>
+            Tick the box to embed the component if this component is not stored on your machine.<br>
+            <b>Connection Area:</b> SmartWOP shows you the connection area of the currently selected connection.<br>
+            <b>Fitting:</b> Select a prefabricated fitting (Dowel) for the connectors to add them to the material list.<br>
+            The machining of the connectors is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.<br>
+            If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.
+         </div>
+      </div>
+      <div class="content" id="object9">
+         <div class="content-header">
+               <h2>Screws</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\Screws.png">
+         </div>
+         <div class="content-text">
+            <p>
+               As long as one-sided machining is not activated, you can only place the screws if you have a vertical panel and a horizontal panel that abut against each other.<br>
+               Pull the Screws onto the joint edge that is to receive the machining.<br>
+               In the template window you will find further settings to optimise your machining.<br>
+            </p>
+         </div>
+         <div class="content-list">
+            <b>Count:</b> Enter the desired number of the Screws.<br>
+            <b>Step Max.:</b> Specify the maximum step between the Screws.<br>
+            You have the option of either specifying the number of Screws or specifying a maximum step at which the Screws should be spaced.<br>
+            To do this, click on the symbol on the far right of the line.<br>
+            <b>Distances:</b> Specify the distance of the first and/or Screws in mm.<br>
+            Click on the symbol on the right-hand side of the line to set the distances between the Screw, either to a fixed value in mm or divided into the spaces.<br>
+            <b>Align Center:</b> Set the hook if the Screw is to be machined in the center of the edge.<br>
+            If you remove the tick, you have the option of specifying the dimension to the Screw center point under the selection box.<br>
+            Change the reference edge for calculating the dimension by clicking on the arrow on the right-hand side of the line.<br>
+            <b>Screw:</b> In the drop-down menu, you have the option of customising the Screw processing as required.<br>
+            <b>Connection Area:</b> SmartWOP shows you the connection area of the currently selected connection.<br>
+            <b>Fitting:</b> Select a prefabricated fitting (Screw) for the connectors to add them to the material list.<br>
+            The machining of the connectors is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.<br>
+            If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.
+         </div>
+      </div>
+      <div class="content" id="object10">
+            <div class="content-header">
+               <h2>Connectors/Dowels</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\ConnectorDowel.png">
+            </div>
+            <div class="content-text">
+               <p>
+                  As long as one-sided machining is not activated, you can only place the Connectors/Screws if you have a vertical panel and a horizontal panel that abut against each other.<br>
+                  Pull the Screws onto the joint edge that is to receive the machining.<br>
+                  In the template window you will find further settings to optimise your machining.<br>
+               </p>
+            </div>
+            <h3>Connectors</h3>
+            <div class="content-list">
+               <b>Count:</b> Enter the desired amount of connectors.<br>
+               <b>Step Max.:</b> Specify the maximum distance between the connectors.<br>
+               You have the option of either specifying the number of connectors or specifying a maximum step at which the connectors should be spaced.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Distances:</b> Specify the distances of the first and/or last connector in mm.<br>
+               Click on the symbol on the right-hand side of the line to set the distances between the connectors, either to a fixed value in mm or divided into the gaps.<br>
+               <b>Housing Hole:</b> You can specify the desired values for machining the housing in the drop-down menu.<br>
+               <b>Housing Side:</b> Tick the box to change the housing opening side.<br>
+               <b>Bolt:</b> You can specify the desired values for machining the bolts in the drop-down menu.<br>
+            </div>
+            <h3>Dowels</h3>
+            <div class="content-list">
+               <b>Count:</b> Enter the desired number of the Dowels.<br>
+               <b>Step Max.:</b> Specify the maximum step between the Dowels.<br>
+               You have the option of either specifying the number of Dowels or specifying a maximum step at which the Dowels should be spaced.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Distances:</b> Specify the distance of the first and/or Dowels in mm.<br>
+               Click on the symbol on the right-hand side of the line to set the distances between the Screw, either to a fixed value in mm or divided into the spaces.<br>
+               <b>Align Center:</b> Set the hook if the dowel is to be machined in the center of the edge.<br>
+               If you remove the tick, you have the option of specifying the dimension to the dowel center point under the selection box.<br>
+               Change the reference edge for calculating the dimension by clicking on the arrow on the right-hand side of the line.<br>
+               <b>Face Bore Depth:</b> Specify the depth for machining the dowel into the surface of the panel.<br>
+               Bear in mind that the dowel cannot be inserted if the depth of the facebore is deeper than the thickness of the workpiece.<br>
+               <b>Dowel:</b> In the drop-down menu, you have the option of customising the dowel processing as required.<br>
+               <b>Call Dowel Component:</b> Tick the box if you want to carry out your dowel processing with a WoodWOP component.<br>
+               In the drop-down menu of the dowel component, you must enter the path of the component if you are working with a dowel component.<br>
+               You can select the component using the three dots on the right-hand side of the line.<br>
+               Tick the box to embed the component if this component is not stored on your machine.<br>
+               <b>Connection Area:</b> SmartWOP shows you the connection area of the currently selected connection.<br>
+               <b>Fitting:</b> Select a prefabricated fitting (Connectors/Dowels) for the connectors to add them to the material list.<br>
+               The machining of the connectors is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.<br>
+               If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.
+            </div>
+         </div>
+         <div class="content" id="object11">
+            <div class="content-header">
+               <h2>Screws/Dowels</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\ScrewDowel.png">
+            </div>
+            <div class="content-text">
+               <p>
+                  As long as one-sided machining is not activated, you can only place the Screws/Dowels if you have a vertical panel and a horizontal panel that abut against each other.<br>
+                  Pull the Screws onto the joint edge that is to receive the machining.<br>
+                  In the template window you will find further settings to optimise your machining.<br>
+               </p>
+            </div>
+               <h3>Screws</h3>
+            <div class="content-list">
+               <b>Count:</b> Enter the desired number of the Screws.<br>
+               <b>Step Max.:</b> Specify the maximum step between the Screws.<br>
+               You have the option of either specifying the number of Screws or specifying a maximum step at which the Screws should be spaced.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Distances:</b> Specify the distance of the first and/or Screws in mm.<br>
+               Click on the symbol on the right-hand side of the line to set the distances between the Screw, either to a fixed value in mm or divided into the spaces.<br>
+               <b>Align Center:</b> Set the hook if the Screw is to be machined in the center of the edge.<br>
+               If you remove the tick, you have the option of specifying the dimension to the Screw center point under the selection box.<br>
+               Change the reference edge for calculating the dimension by clicking on the arrow on the right-hand side of the line.<br>
+               <b>Screw:</b> In the drop-down menu, you have the option of customising the Screw processing as required.<br>
+            </div>
+            <h3>Dowels</h3>
+            <div class="content-list">
+               <b>Count:</b> Enter the desired number of the Dowels.<br>
+               <b>Step Max.:</b> Specify the maximum step between the Dowels.<br>
+               You have the option of either specifying the number of Dowels or specifying a maximum step at which the Dowels should be spaced.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Distances:</b> Specify the distance of the first and/or Dowels in mm.<br>
+               Click on the symbol on the right-hand side of the line to set the distances between the Screw, either to a fixed value in mm or divided into the spaces.<br>
+               <b>Align Center:</b> Set the hook if the dowel is to be machined in the center of the edge.<br>
+               If you remove the tick, you have the option of specifying the dimension to the dowel center point under the selection box.<br>
+               Change the reference edge for calculating the dimension by clicking on the arrow on the right-hand side of the line.<br>
+               <b>Face Bore Depth:</b> Specify the depth for machining the dowel into the surface of the panel.<br>
+               Bear in mind that the dowel cannot be inserted if the depth of the facebore is deeper than the thickness of the workpiece.<br>
+               <b>Dowel:</b> In the drop-down menu, you have the option of customising the dowel processing as required.<br>
+               <b>Call Dowel Component:</b> Tick the box if you want to carry out your dowel processing with a WoodWOP component.<br>
+               In the drop-down menu of the dowel component, you must enter the path of the component if you are working with a dowel component.<br>
+               You can select the component using the three dots on the right-hand side of the line.<br>
+               Tick the box to embed the component if this component is not stored on your machine.<br>
+               <b>Connection Area:</b> SmartWOP shows you the connection area of the currently selected connection.<br>
+               <b>Fitting:</b> Select a prefabricated fitting (Screws/Dowels) for the connectors to add them to the material list.<br>
+               The machining of the connectors is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.<br>
+               If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.
+            </div>
+         </div>
+         <div class="content" id="object12">
+            <div class="content-header">
+               <h2>Double Connectors</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\DoubleConnectors.png">
+            </div>
+            <div class="content-text">
+            <p>
+               As long as single-sided machining is not activated, you can only pull on the double connectors when two panels butt against each other with the edges.<br>
+               It is taken into account that if there is another panel between the joint edges, the machining of the double connector is machined into the panel that separates the two joint edges.<br>
+               Pull the double connectors onto the joint edge that is to receive the connection.<br>
+               In the template window you will find further settings to optimise your machining.<br>
+            </p>
+            </div>
+            <div class="content-list">
+               <b>Count:</b> Enter the desired amount of double connectors.<br>
+               <b>Step Max.:</b> Specify the maximum spacing between the double connectors.<br>
+               You have the option of either specifying the number of double connectors or specifying a maximum step at which the double connectors should be placed.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Distances:</b> Specify the distances of the first and/or last double connector in mm.<br>
+               Click on the symbol on the right-hand side of the line to set the distances between the double connectors, either to a fixed value in mm or divided into the spaces.<br>
+               <b>Housing Hole:</b> In the drop-down menu, you have the option of customising the machining for the housing.<br>
+               <b>Housing Side:</b> Tick the box to change the housing opening side.<br>
+               <b>Bolt:</b> You can specify the desired values for machining the bolts in the drop-down menu.<br>
+               <b>Connection Area:</b> SmartWOP shows you the connection area of the currently selected connection.<br>
+               <b>Fitting:</b> Select a prefabricated accessory (double connector) for the connection to add it to the material list.<br>
+               The machining of the double connectors is related to the accessory profiles, so that the machining is automatically added when the accessory is selected.<br>
+               If you have not yet created any accessory profiles, enter the suppliers and article numbers so that these can be included in the material list.
+            </div>
+         </div>
+         <div class="content" id="object13">
+            <div class="content-header">
+               <h2>Double Eccentrics/Dowel</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\DoubleEccentricsDowel.png">
+            </div>
+            <div class="content-text">
+            <p>
+               As long as single-sided machining is not activated, you can only pull on the Double Eccentrics/Dowels when two panels butt against each other with the edges.<br>
+               It is taken into account that if there is another panel between the joint edges, the machining of the double Eccentrics/Dowels is machined into the panel that separates the two joint edges.<br>
+               Pull the double Eccentrics/Dowels onto the joint edge that is to receive the connection.<br>
+               In the template window you will find further settings to optimise your machining.<br>
+            </p>
+            </div>
+               <h3>Double connectors</h3>
+            <div class="content-list">
+               <b>Count:</b> Enter the desired amount of double connectors.<br>
+               <b>Step Max.:</b> Specify the maximum spacing between the double connectors.<br>
+               You have the option of either specifying the number of double connectors or specifying a maximum step at which the double connectors should be placed.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Distances:</b> Specify the distances of the first and/or last double connector in mm.<br>
+               Click on the symbol on the right-hand side of the line to set the distances between the double connectors, either to a fixed value in mm or divided into the spaces.<br>
+               <b>Housing Hole:</b> In the drop-down menu, you have the option of customising the machining for the housing.<br>
+               <b>Housing Side:</b> Tick the box to change the housing opening side.<br>
+               <b>Bolt:</b> You can specify the desired values for machining the bolts in the drop-down menu.<br>
+            </div>
+            <h3>Dowels</h3>
+            <div class="content-list">
+               <b>Count:</b> Enter the desired number of the Dowels.<br>
+               <b>Step Max.:</b> Specify the maximum step between the Dowels.<br>
+               You have the option of either specifying the number of Dowels or specifying a maximum step at which the Dowels should be spaced.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Distances:</b> Specify the distance of the first and/or Dowels in mm.<br>
+               Click on the symbol on the right-hand side of the line to set the distances between the Screw, either to a fixed value in mm or divided into the spaces.<br>
+               <b>Align Center:</b> Set the hook if the dowel is to be machined in the center of the edge.<br>
+               If you remove the tick, you have the option of specifying the dimension to the dowel center point under the selection box.<br>
+               Change the reference edge for calculating the dimension by clicking on the arrow on the right-hand side of the line.<br>
+               <b>Face Bore Depth:</b> Specify the depth for machining the dowel into the surface of the panel.<br>
+               Bear in mind that the dowel cannot be inserted if the depth of the facebore is deeper than the thickness of the workpiece.<br>
+               <b>Dowel:</b> In the drop-down menu, you have the option of customising the dowel processing as required.<br>
+               <b>Call Dowel Component:</b> Tick the box if you want to carry out your dowel processing with a WoodWOP component.<br>
+               In the drop-down menu of the dowel component, you must enter the path of the component if you are working with a dowel component.<br>
+               You can select the component using the three dots on the right-hand side of the line.<br>
+               Tick the box to embed the component if this component is not stored on your machine.<br>
+               <b>Connection Area:</b> SmartWOP shows you the connection area of the currently selected connection.<br>
+               <b>Fitting:</b> Select a prefabricated fitting (Double Eccentrics/Dowels) for the connectors to add them to the material list.<br>
+               The machining of the connectors is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.<br>
+               If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.
+            </div>
+         </div>
+         <div class="content" id="object14">
+            <div class="content-header">
+               <h2>Angled Connectors</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\AngledConnectors.png">
+            </div>
+            <div class="content-text">
+            <p>
+               As long as single-sided machining is not activated, you can only pull on the angled connectors when two panels abut against each other.<br>
+               The angle at which the items are positioned in relation to each other is irrelevant for inserting the angle connector.<br>
+               Pull the angle connector onto the joint edge that is to receive the connection.<br>
+               You will find further settings for optimisation in the template window. Drag the angle connector onto the joint edge that is to receive the joint.your machining.<br>
+            </p>
+            </div>
+            <div class ="content-list">
+               <b>Count:</b> Enter the required amount of angled connectors.<br>
+               <b>Step Max.:</b> Specify the maximum distance between the angle connectors.<br>
+               You have the option of either specifying the number of angle connectors or specifying a maximum step at which the angle connectors should be spaced.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Distances:</b> Specify the distances of the first and/or last angle connector in mm.<br>
+               Click on the symbol on the right-hand side of the line to set the distances between the angle connectors, either to a fixed value in mm or divided into the spaces.<br>
+               <b>Housing Hole:</b> In the drop-down menu, you have the option of customising the machining of the housing.<br>
+               <b>Housing Side:</b> Tick the box to change the housing opening side.<br>
+               <b>Bolts:</b> You can specify the desired values for machining the bolts in the drop-down menu.<br>
+               Take into account that the machining of the bolt may protrude over a workpiece.<br>
+               <b>Connection Area:</b> SmartWOP shows you the connection area of the currently selected connection.<br>
+               <b>Fitting:</b> Select a prefabricated fitting (Angled Connectors) for the connectors to add them to the material list.<br>
+               The machining of the connectors is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.<br>
+               If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.
+            </div>
+         </div>
+         <div class="content" id="object15">
+            <div class="content-header">
+               <h2>Double Angled Connectors</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\DoubleAngled.png">
+            </div>
+            <div class="content-text">
+            <p>
+               As long as single-sided machining is not activated, you can only mount the double angle connectors when two panels are mitred at 45° to each other.<br>
+               Pull the angle connector onto the joint edge that is to receive the connection.<br>
+               In the template window you will find further settings to optimise your machining.<br>
+            </p>
+            </div>
+            <div class="content-list">
+               <b>Count:</b> Enter the required number of angle connectors.<br>
+               <b>Step Max.:</b> Specify the maximum distance between the angle connectors.<br>
+               You have the option of either specifying the number of angle connectors or specifying a maximum step at which the angle connectors should be spaced.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Distances:</b> Specify the distances of the first and/or last angle connector in mm.<br>
+               Click on the symbol on the right-hand side of the line to set the distances between the angle connectors, either to a fixed value in mm or divided into the spaces.<br>
+               <b>Housing Hole:</b> In the drop-down menu, you have the option of customising the machining of the housing.<br>
+               <b>Housing Side:</b> Tick the box to change the housing opening side.<br>
+               <b>Bolts:</b> You can specify the desired values for machining the bolts in the drop-down menu.<br>
+               Take into account that the machining of the bolt may protrude over a workpiece.<br>
+               <b>Connection Area:</b> SmartWOP shows you the connection area of the currently selected connection.<br>
+               <b>Fitting:</b> Select a prefabricated fitting (Angled Connectors) for the connectors to add them to the material list.<br>
+               The machining of the connectors is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.<br>
+               If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.
+            </div>
+         </div>
+         <div class="content" id="object16">
+            <div class="content-header">
+               <h2>Lamello/Clamex</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\LamelloClamex.png">
+            </div>
+            <div class="content-text">
+            <p>
+               As long as single-sided machining is not activated, you can only mount the Lamello/Clamex when two panels are directly next to each other.<br>
+               Lamello/Clamex machining can be used in all connection options.<br>
+               The angle at which the items are positioned in relation to each other is irrelevant for inserting the Lamello/Clamex.<br>
+               Drag the Lamello/Clamex onto the area that is to receive the connection.<br>
+               In the template window you will find further settings to optimise your machining.<br>
+            </p>
+            </div>
+            <div class="content-list">
+               <b>Count:</b> Enter the desired number of Lamello/Clamex.<br>
+               <b>Step Max.:</b> Specify the maximum distance between the Lamello/Clamex.<br>
+               You have the option of either specifying the number of Lamello/Clamex or specifying a maximum step at which the Lamello/Clamex should be spaced.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Distances:</b> Enter the distances of the first and/or Lamello/Clamex in mm.<br>
+               Click on the symbol on the right-hand side of the line to set the distances between the Lamello/Clamex, either to a fixed value in mm or divided into the spaces.<br>
+               <b>Lamello/Clamex</b> In the drop-down menu, you have the option of customising the machining of the Lamello/Clamex.<br>
+               <b>Align Center:</b> Set the hook to align the lamello/clamex to the center.<br>
+               If you remove the tick, you have the option of specifying the dimension of the Lamello/Clamex center point under the selection box.<br>
+               Change the reference edge for calculating the dimension by clicking on the arrow on the right-hand side of the line.<br>
+               <b>Machining Main:</b> In the drop-down menu, you have the option of specifying how the machining of the Lamello/Clamex is to be carried out in the workpiece surface.<br>
+               If you have a specific tool on the machine for Lamello/Clamex machining, you can store it in the options.<br>
+               <b>Machining Edge:</b> In the drop-down menu, you have the option of specifying how the machining of the Lamello/Clamex is to be carried out in the workpiece edge.<br>
+               If you have a specific tool on the machine for Lamello/Clamex machining, you can store it in the options.<br>
+               <b>Tool Opening:</b> Tick the box if you want the Lamello/Clamex/Divario machining to have a tool opening.<br>
+               In the drop-down menu, you have the option of customising the machining of the tool opening and selecting the opening side.<br>
+               <b>Connection Area:</b> SmartWOP shows you the connection area of the currently selected connection.<br>
+               <b>Fitting:</b> Select a prefabricated fitting (Lamello/Clamex) for the connectors to add them to the material list.<br>
+               The machining of the Lamello/Clamex is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.<br>
+               If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.
+            </div>
+         </div>
+         <div class="content" id="object17">
+            <div class="content-header">
+               <h2>Worktop Connectors</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\WorktopConnector.png">
+            </div>
+            <div class="content-text">
+            <p>
+               As long as single-sided machining is not activated, you can only pull on the worktop connectors when two worktops butt up against each other at the edges.<br>
+               Pull the worktop connectors onto the joint that is to receive the connection.<br>
+               In the template window you will find further settings to optimise your machining.<br>
+            </p>
+            </div>
+            <div class="content-list">
+               <b>Count:</b> Enter the required amount of connectors.<br>
+               <b>Step Max.:</b> Specify the maximum distance between the connectors.<br>
+               You have the option of either specifying the number of connectors or specifying a maximum step at which the connectors should be spaced.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Distances:</b> Specify the distances of the first and/or last connector in mm.<br>
+               Click on the symbol on the right-hand side of the line to set the distances between the connectors, either to a fixed value in mm or divided into the gaps.<br>
+               <b>Housing Hole:</b> You can specify the desired values for machining the housing in the drop-down menu.<br>
+               You have the option of adjusting the distance between the two sides as required.<br>
+               <b>Housing Side:</b> Tick the box to change the housing opening side.<br>
+               <b>Slot Depth:</b> Specify the desired slot depth for machining the worktop connectors.<br>
+               <b>Butt Joint:</b> Tick the box if you want a butt joint to be machined on the panels to be joined.<br>
+               In the drop-down menu, you have the option of customising the butt joint as required.<br>
+               You also have the option of assigning a specific tool directly to butt joint processing.<br>
+               <b>Connection Area:</b> SmartWOP shows you the connection area of the currently selected connection.<br>
+               <b>Fitting:</b> Select a prefabricated fitting (Worktop Connector) for the connectors to add them to the material list.<br>
+               The machining of the Worktop Connector is related to the fitting profiles, so that the machining is automatically added when the fitting is selected.<br>
+               If you have not yet created any fitting profiles, enter the supplier and the article numbers, so that these can be included in the material list.
+            </div>
+         </div>
+         <div class="content" id="object18">
+            <div class="content-header">
+               <h2>Carcass Connector</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\CarcassConnector.png">
+            </div>
+            <div class="content-text">
+            <p>
+               As long as single-sided machining is not activated, you can only mount the carcass connector if two panels are positioned with their surfaces against each other.<br>
+               Pull the carcass connector onto the surface that is to receive the connection.<br>
+               In the template window you will find further settings to optimise your machining.<br>
+            </p>
+            </div>
+            <div class="content-list">
+               <b>Count:</b> Enter the required amount of connectors.<br>
+               <b>Step Max.:</b> Specify the maximum distance between the connectors.<br>
+               You have the option of either specifying the count of connectors or specifying a maximum step at which the connectors should be spaced.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Distances:</b> Specify the distances of the first and/or last connector in mm.<br>
+               Click on the symbol on the right-hand side of the line to set the distances between the connectors, either to a fixed value in mm or divided into the gaps.<br>
+               <b>Column Distances:</b> Specify the distances of the first and/or last connector in mm.<br>
+               Click on the symbol on the right-hand side of the line to set the distances between the connectors, either to a fixed value in mm or divided into the gaps.<br>
+               <b>Panel 1:</b> In the drop-down menu, you have the option of adjusting the holes in the cabinet joints for the first panel.<br>
+               <b>Panel 2:</b> In the drop-down menu, you have the option of adjusting the holes in the cabinet joints for the second panel.<br>
+               <b>Connection Area:</b> SmartWOP shows you the connection area of the currently selected connection.<br>
+               <b>Fitting:</b> Select a prefabricated accessory (connector) for the connection to add it to the material list.<br>
+               The machining of the worktop connectors is related to the fitting profiles, so the machining is automatically added when the accessory is selected.<br>
+               If you have not yet created any accessory profiles, enter the suppliers and article numbers so that these can be included in the material list.
+            </div>
+         </div>
+         <div class="content" id="object19">
+            <div class="content-header">
+               <h2>Free Machinings</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\FreeMachining.png">
+            </div>
+            <div class="content-text">
+            <p>
+               Free machining enables the machining of individual items in SmartWOP so that items do not have to be edited in the WOP interface afterwards.<br>
+               Free machining operations are assigned to the item on which you drag this machining operation.
+            </p>
+            </div>
+         </div>
+         <div class="content" id="object20">
+            <div class="content-header">
+               <h2>Vertical Drilling</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\VerticalDrilling.png">
+            </div>
+            <div class="content-text">
+            <p>
+               Vertical drilling can be used for individual holes or for complete drilling patterns.<br>
+               Drag the vertical hole onto the item that is to receive the machining.<br>
+               Vertical drilling can only be used on item surfaces.<br>
+               In the template window you will find further settings to optimise your machining.<br>
+            </p>
+            </div>
+            <div class="content-list">
+               <h3>Distance Mode: Start, End</h3>
+               <b>Count:</b> Specify the required amount of free vertical drilling.<br>
+               <b>Start X:</b> Specify the starting point of the drilling pattern on the X-axis.<br>
+               <b>Start Y:</b> Specify the starting point of the boresight on the Y-axis.<br>
+               <b>Ende X:</b> Specify the end point of the drilling pattern on the X-axis.<br>
+               <b>Ende Y:</b> Specify the end point of the drilling pattern on the Y-axis.<br>
+               You have the option of changing the axis for determining the start and end points using the arrows on the right-hand side of the lines.<br>
+               The axis is displayed for orientation in the scene.
+            </div>
+            <div class="content-list">
+               <h3>Distance Mode: Start, Angle</h3>
+               <b>Count:</b> Specify the required amount of free vertical drilling.<br>
+               <b>Distances:</b> Specify the distance between the holes.<br>
+               <b>Start X:</b> Enter the starting point of the drilling pattern on the X-axis.<br>
+               <b>Start Y:</b> Specify the starting point of the boresight on the Y-axis.<br>
+               <b>Angle:</b> Specify the angle at which the holes should be located.<br>
+               You can specify the angles from 0-360° or 0-90°/-0-90° depending on the orientation of the axis.<br>
+               You have the option of changing the axis for determining the starting point using the arrows on the right-hand side of the lines.<br>
+               The axis is displayed for orientation in the scene.
+            </div>
+            <div class="content-list">
+               <h3>Distance Mode: Middle, Angle</h3>
+               <b>Count:</b> Specify the required amount of free vertical drilling.<br>
+               <b>Distances:</b> Specify the distance between the holes.<br>
+               <b>Middle X:</b> Enter the center point of the drilling pattern on the X-axis.<br>
+               <b>Middle Y:</b> Specify the center point of the drilling pattern on the Y-axis.<br>
+               <b>Angle:</b> Specify the angle at which the holes should be located.<br>
+               You can specify the angles from 0-360° or 0-90°/-0-90° depending on the orientation of the axis.<br>
+               You have the option of changing the axis for determining the centre point using the arrows on the right-hand side of the lines.<br>
+               The axis is displayed for orientation in the scene.
+               <p>
+               <b>Diameter:</b> Specify the diameter of the holes in the hole pattern.<br>
+               <b>Tool Number:</b> Enter the tool for the holes in the drilling pattern.<br>
+               You have the option of changing the diameter of the holes for the tool by clicking on the symbol on the right-hand side of the line.<br>
+               <b>Depth:</b> Enter the depth of the holes in the drilling pattern.<br>
+               <b>Top Side/ bottom Side:</b> Tick the box if you want to change the processing side of the component.
+               </p>
+            </div>
+         </div>
+         <div class="content" id="object21">
+            <div class="content-header">
+               <h2>Hole Series</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\HoleSeries.png">
+            </div>
+            <div class="content-text">
+               <p>
+                  The hole series of free machining can be applied to the surface of any item.<br>
+                  The hole series only ever applied to one item and does not take into account any opposing items.<br>
+                  Drag the hole series onto a panel.<br>
+                  In the template window you will find further settings to optimise your machining.<br>
+               </p>
+            </div>
+            <div class="content-list">
+               <b>Count:</b> Enter the desired amount of the hole series.<br>
+               <b>Step (max.):</b> Specify the maximum distance between the hole series.<br>
+               You have the option of either specifying the number of hole series or specifying a maximum step at which the hole series should be spaced.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Y2 Setback:</b> Specify the rear setback of the hole series.<br>
+               <b>Distance:</b> Specify the distance between the hole series.<br>
+               By clicking on the symbol on the right-hand side of the line, you have the option of specifying the distance in millimetres or dividing the hole series into the space between them.<br>
+               <b>Y1 Setback:</b> Specify the front setback of the hole series.<br>
+               <b>Bore:</b> In the hole drop-down menu, you have the option of customising the bores for the hole series.<br>
+               <b>Diameter:</b> Specify the diameter of the bores in the hole series.<br>
+               <b>Tool Number:</b> Enter the tool for the holes in the row of holes.<br>
+               You have the option of changing the diameter of the holes for the tool number by clicking on the symbol on the right-hand side of the line.<br>
+               <b>Depth:</b> Specify the depth of the bores in the hole series.<br>
+               <b>Step:</b> Specify the step between the bores in the hole series.<br>
+               <b>Distances (X1/X2)</b> Specify the distances from the top and bottom.<br>
+               <b>Row Alignment:</b> In the drop-down menu, you have the option of selecting the alignment of the hole series.<br>
+               <b>Top Side/ bottom Side:</b> Tick the box if you want to change the processing side of the machining.
+            </div>
+         </div>
+         <div class="content" id="object22">
+            <div class="content-header">
+               <h2>Horizontal Drilling</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\HorizontalDrilling.png">
+            </div>
+            <div class="content-text">
+               <p>
+                  The horizontal drilling can be mounted on the edge of any item.<br>
+                  Horizontal drilling is only ever applied to one item.<br>
+                  Drag the horizonal drilling onto the desired edge.<br>
+                  In the template window you will find further settings to optimise your machining.<br>
+               </p>
+            </div>
+            <div class="content-list">
+               <b>Count:</b> Enter the desired amount of drillings.<br>
+               <b>Step (max.):</b> Specify the maximum distance between the drillings.<br>
+               You have the option of either specifying the number of holes or specifying a maximum step at which the holes should be spaced.<br>
+               To do this, click on the symbol on the far right of the line.<br>
+               <b>Distances:</b> In the drop-down menu, you have the option of specifying the distances of the horizontal drillings.<br>
+               <b>Last Distance:</b> Specify the last distance of the horizontal drilling.<br>
+               <b>Distance:</b> Specify the distance between the drillings.<br>
+               By clicking on the symbol on the right-hand side of the line, you have the option of specifying the distance in millimetres or dividing the holes into the space between them.<br>
+               <b>First Distance:</b> Specify the first distance between the drillings.<br>
+               <b>Start Z:</b> Specify the center point of the drilling in Z.<br>
+               <b>Edge:</b> Select the side to be machined by selecting the reference edge in the drop-down menu.<br>
+               <b>First Distance Side:</b> Set the hook to swap the distance between the first and last drilling.<br>
+               <b>Diameter:</b> Specify the diameter of the holes in the horizontal drilling.<br>
+               <b>Tool Number:</b> Enter the tool of the holes.<br>
+               You have the option of changing the diameter of the drilling to the tool by clicking on the symbol on the right-hand side of the line.<br>
+               <b>Depth:</b> Specify the depth of the drilling.
+            </div>
+         </div>
+         <div class="content" id="object23">
+            <div class="content-header">
+               <h2>Grooves</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\Grooves.png">
+            </div>
+            <div class="content-text">
+               <p>
+                  The groove can be applied to the surface of any item.<br>
+                  The groove is only ever applied to one item.<br>
+                  Pull the groove onto an item.<br>
+                  In the template window you will find further settings to optimise your machining.<br>
+               </p>
+            </div>
+            <div class="content-list">
+               <b>Start X:</b> Specify the starting point for saw processing on the X-axis.<br>
+               <b>Start Y:</b> Specify the starting point for saw processing on the Y-axis.<br>
+               <b>End X:</b> Specify the end point of the sawing operation on the X-axis.<br>
+               <b>End Y:</b> Specify the end point of the sawing operation on the Y-axis.<br>
+               You have the option of changing the axis for determining the start and end points using the arrows on the right-hand side of the lines.<br>
+               The axis is displayed for orientation in the scene.
+               <b>Depth:</b> Specify the depth of the groove.<br>
+               <b>Prescoring Depth:</b> If required, enter a prescoring depth for the groove machining.<br>
+               If the groove is not to be prescored, set the value to zero.<br>
+               <b>Groove Width:</b> Specify the width of the groove.<br>
+               <b>Insert Mode:</b> In the drop-down menu, select how the saw blade is to be inserted for the groove machining.<br>
+               <b>Saw Mode:</b> In the drop-down menu, select whether the saw blade should saw in parallel feed or in counter direction.<br>
+               <b>Machining Side:</b> In the drop-down menu, select which side of the contour the saw blade should run.<br>
+               <b>Top Side/ bottom Side:</b> Setzen Sie den Haken, wenn Sie die Bearbeitungsseite des Bautteils ändern möchten.<br>
+               <b>Export:</b> In the drop-down menu, you have the option of specifying the tool that is to be used for the machining.
+            </div>
+         </div>
+         <div class="content" id="object24">
+            <div class="content-header">
+               <h2>Vertical Mill</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\VerticalMilling.png">
+            </div>
+            <div class="content-text">
+               <p>
+                  The vertical milling can be applied to the surface of any item.<br>
+                  The milling is only applied to one item at a time.<br>
+                  Drag the milling onto an item.<br>
+                  In the template window you will find further settings to optimise your machining.<br>
+               </p>
+            </div>
+            <div class="content-list">
+               <b>Tool Number:</b> Specify the tool you want to use for contour milling.<br>
+               <b>Start Z:</b> Specify the starting point of the contour in Z.<br>
+               <b>Machining Side:</b> In the drop-down menu, select the side of the contour on which the mill should run.<br>
+               <b>Offset:</b> Specify a distance between the routing and the contour.<br>
+               <b>Approach Mode:</b> In the drop-down menu, select how the milling tool should approach the workpiece.<br>
+               <b>Withdrawal Mode:</b> In the drop-down menu, select how the milling tool should extend from the workpiece.<br>
+               <b>Top Side/ bottom Side:</b> Tick the box if you want to change the processing side of the item.<br>
+               <b>Contour Name:</b> Give your milling contour a name.<br>
+               In the drop-down menu, you have the option of specifying contour points to customise your milling contour.<br>
+               <b>Contour Point 1:</b> SmartWOP specifies that the first contour point is the starting point of the milling contour.<br>
+               In the drop-down menu, you have the option of defining the starting point of the routing X1/Y1.<br>
+               <b>Contour Point 2-X:</b> In the drop-down menu, select how the contour should be continued to the next contour point.<br>
+               In the drop-down menu, you have the option of defining the next contour point of the routing in X/Y.<br>
+               To add another contour point, click on the orange plus sign on the right-hand side of the line.<br>
+               To remove a contour point, click on the light blue cross on the right-hand side of the line.<br>
+            </div>
+         </div>
+         <div class="content" id="object25">
+            <div class="content-header">
+               <h2>Vertical Pocket</h2>
+               <img id="myImg" src="images\Bearbeitungen_EN\VerticalPocket.png">
+            </div>
+            <div class="content-text">
+               <p>
+                  The vertical pocket can be dragged on the surface of any item.<br>
+                  The pocket is only ever applied to one item.<br>
+                  Drag the pocket onto an item.<br>
+                  In the template window you will find further settings to optimise your machining.<br>
+               </p>
+            </div>
+            <div class="content-list">
+               <b>Start X:</b> Specify the starting point of the pocket on the X-axis.<br>
+               <b>Start Y:</b> Specify the starting point of the pocket on the Y-axis.<br>
+               <b>Length:</b> Enter the length of the pocket.<br>
+               <b>Width:</b> Enter the width of the pocket.<br>
+               <b>Radius:</b> Specify the radius of the corners in the pocket milling.<br>
+               <b>Angle:</b> Specify the angle at which the pocket should be positioned.<br>
+               <b>Depth:</b> Enter the depth of the pocket.<br>
+               <b>Plunging Depth:</b> Specify the plunging depth of the pocket milling.<br>
+               <b>Tool Overlap in %:</b> Enter 0% if only the contour of the pocket is to be milled.<br>
+               Enter 80% if the pocket is to be completely cleared out.<br>
+               <b>Top Side/ bottom Side:</b> Tick the box if you want to change the processing side of the machining.<br>
+               <b>Export:</b> In the drop-down menu, you have the option of assigning a tool directly to the pocket machining.
+            </div>
+         </div>
+      </div>
+      <div class="content" id="object26">
+         <div class="content-header">
+            <h2>WoodWOP Components</h2>
+            <img id="myImg" src="images\Bearbeitungen_EN\WWComponent.png">
+         </div>
+         <div class="content-text">
+            <p>
+               The WoodWOP component can be applied to any item.<br>
+               The WoodWOP component is only ever applied to one item.<br>
+               Drag the WoodWOP component onto an item.<br>
+               In the template window you will find further settings to optimise your machining.<br>
+            </p>
+         </div>
+         <div class="content-list">
+            <b>Path:</b> Select the WoodWOP component in the line on the right, the name of the component is displayed in the line.<br>
+            <b>Start X:</b> Specify the starting point of the WoodWOP component on the X-axis.<br>
+            <b>Start Y:</b> Specify the starting point of the WoodWOP component on the Y-axis.<br>
+            You have the option of changing the axis for determining the start points using the arrows on the right-hand side of the lines.<br>
+            The axis is displayed for orientation in the scene.
+            <b>Start Z:</b> Specify the starting point of the WoodWOP component on the Z-axis.<br>
+            <b>Top Side/ bottom Side:</b> Tick the box if you want to change the processing side of the component.<br>
+            <b>Turn Axes:</b> Tick the box to swap the X and Y axes.<br>
+            <b>Condition:</b> Give the component a condition.<br>
+            <b>Embedded:</b> Tick the box if the WoodWOP component is to be embedded in the exported CNC-file.<br>
+            <b>Parameter:</b> In the drop-down menu, you have the option of machining the parameters of your component.<br>
+         </div>
+      </div>
+   </div>
+</body>

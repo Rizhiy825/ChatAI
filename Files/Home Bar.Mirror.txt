@@ -1,0 +1,4 @@
+You can mirror bases together with their added items.
+Select an item that lies in the volume to be mirrored or select the entire volume to be mirrored.
+Click on the arrow below the item Duplicate, there you will find the button to mirror the volume.
+It is not possible to mirror individual items.

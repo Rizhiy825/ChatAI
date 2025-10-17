@@ -1,0 +1,2 @@
+SmartWOP offers you the option of selecting the corner from which the items are to be orientated on the panel.
+Click on the respective icon to recalculate the items from the selected panel corner.
