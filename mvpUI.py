@@ -1,12 +1,16 @@
 # ui.py — ultra-simple chat UI for your agent (MVP)
 # Usage:
-#   1) pip install gradio openai pydantic
-#   2) set OPENAI_API_KEY env var
-#   3) python ui.py
+#   1) pip install -r requirements.txt
+#   2) copy .env.example to .env and set OPENAI_API_KEY
+#   3) python mvpUI.py
 #   4) open http://127.0.0.1:7860
 
 import os
+from dotenv import load_dotenv
 import gradio as gr
+
+# Load environment variables
+load_dotenv()
 
 # Import your agent entrypoint
 from agent import run_workflow, WorkflowInput

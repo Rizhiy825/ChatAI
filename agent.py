@@ -1,11 +1,16 @@
+import os
+from dotenv import load_dotenv
 from openai import AsyncOpenAI
 from types import SimpleNamespace
 from agents import RunContextWrapper, Agent, ModelSettings, TResponseInputItem, Runner, RunConfig
 from openai.types.shared.reasoning import Reasoning
 from pydantic import BaseModel
 
+# Load environment variables
+load_dotenv()
+
 # Shared client for guardrails and file search
-client = AsyncOpenAI()
+client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 ctx = SimpleNamespace(guardrail_llm=client)
 class SummarizeAndDisplayContext:
   def __init__(self, workflow_input_as_text: str, input_result: str):
@@ -34,8 +39,7 @@ summarize_and_display = Agent(
     store=True,
     reasoning=Reasoning(
       effort="minimal"
-    ),
-    max_prompt_tokens=4000  # Максимальное количество input токенов
+    )
   )
 )
 

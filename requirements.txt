@@ -1,0 +1,12 @@
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# OpenAI Agents framework (официальный пакет)
+openai-agents>=0.3.0
+
+# Data processing
+pydantic>=2.0.0
+
+# UI dependency
+gradio>=4.0.0
