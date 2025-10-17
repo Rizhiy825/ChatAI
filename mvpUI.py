@@ -27,9 +27,9 @@ async def respond(message: str, history: list[tuple[str, str]]):
 chat = gr.ChatInterface(
     fn=respond,
     title="SmartWOP Agent — Chat (MVP)",
-    description="Введите запрос. Агент отвечает только на основе найденного контента.",
+    description="Enter a query. The agent responds only based on the found content.",
 )
 
 if __name__ == "__main__":
     port = int(os.getenv("PORT", "7860"))
-    chat.launch(server_name="0.0.0.0", server_port=port, show_error=True)
+    chat.launch(server_name="0.0.0.0", server_port=port, show_error=True, share=True)

@@ -42,4 +42,6 @@ ChatAI/
 
 - Python 3.8+
 - OpenAI API ключ
-- Зависимости из `requirements.txt`
+- Зависимости из `requirements.txt` (только легковесные библиотеки)
+
+> ⚡ **Важно:** Проект НЕ требует tensorflow или torch! Все работает через OpenAI API.
